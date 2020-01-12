@@ -1,4 +1,5 @@
 国内,#genre#
+CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 CCTV 4K,http://117.148.187.56/PLTV/88888888/224/3221226758/index.m3u8?icpid=88888888&from=5&ocs=2_117.148.187.40_80&hms_devid=373,1641&online=1574401712&vqe=3
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
@@ -8,6 +9,7 @@ BestTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 BestTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 BestTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 BestTV 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
+纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 广东综艺4K,http://nclive.grtn.cn:80/4K/sd/live.m3u8
 咪咕4K,http://39.134.52.153/PLTV/88888888/224/3221226162/1.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
@@ -104,6 +106,13 @@ CCTV-15,http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 CCTV15,http://39.135.36.152:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036211
 CCTV15,http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163
 CCTV15,http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+DOX院线,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
+DOX雅趣,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
+DOX新知,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
+DOX新艺,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
+DOX怡家,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
+DOX英伦,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
+DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
 湖南卫视HD,http://39.135.36.155:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037329
 湖南卫视HD,http://39.135.36.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115
 湖南卫视HD,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000153.m3u8
@@ -371,6 +380,7 @@ TVBS欢乐,vjms://122.155.180.8:8500:5021/live/cid=438
 TVBS欢乐,p2p://lino.homeunix.com:6007/59fd20ae000635720294248563346fd6.ts
 TVBS 精彩,p2p://lino.homeunix.com:6007/59fd250f000aa01602a54096673b0f2a.ts
 三立新闻,http://hls.hongxin123.com/918867252917/ad782336a79c401da3f729d9e55ca5e9.flv
+三立新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 三立新闻,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
 三立新闻,vjms://23.237.33.155:8500:3502/live/cid=352
 三立新闻,vjms://122.155.180.8:8500:5021/live/cid=352
@@ -471,6 +481,7 @@ HBO,vjms://23.237.33.155:8500:3502/live/cid=261
 HBO,vjms://122.155.180.8:8500:5021/live/cid=261
 HBO ,http://pili-live-hdl.qhmywl.com:80/dsdtv/13e83b20bc716e68221da438d761d352.m3u8
 HBO,p2p://lino.homeunix.com:6007/59fd1566000391610268129978510d8e.ts
+FOX 动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FOX,p2p://lino.homeunix.com:6007/59fd14cf000321f60265c4a24ca93407.ts
 FOX CRIME,p2p://lino.homeunix.com:6007/59fd14ae0007a794026544e32f606291.ts
 FOX 优质影院,p2p://lino.homeunix.com:6007/59fd246a0009125502a2bba01b0f4bf5.ts
@@ -638,6 +649,7 @@ Discovery动力频道,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33
 Discovery,http://hls.hongxin123.com/918867252917/a7d6567ab3414a4e9e027930f9d3990c.flv
 Discovery Asia,p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts
 Discovery,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts
+国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理,vjms://23.237.33.155:8500:3502/live/cid=263
 国家地理,vjms://122.155.180.8:8500:5021/live/cid=263
