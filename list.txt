@@ -318,6 +318,7 @@ TVB Pearl,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 TVB Pearl,http://m.567it.com/Pearl.m3u8
 TVB Pearl,vjms://23.237.33.155:8500:3502/live/cid=367
 中视,http://hls.hongxin123.com/918867252917/aa401fd60a304d89bd10c1aed5b97d4d.flv
+中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中视,http://pili-live-l.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
 中视,p2p://lino.homeunix.com:6007/59fd09bd0002ab6d023a86337415321a.ts
 中视,http://pili-live-l.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8
@@ -334,6 +335,7 @@ TVB Pearl,vjms://23.237.33.155:8500:3502/live/cid=367
 中视经典,http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 中视经典,http://pili-live-l.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 华视,http://hls.hongxin123.com/918867252917/21d3a67b0f2643419eff2de63ce028d5.flv
+华视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 华视,p2p://lino.homeunix.com:6007/59fd068a0005f99e022e07d55c2f581d.ts
 华视,p2p://lino.homeunix.com:6007/59fd23240005c9a4029dc1561885012e.ts
 华视,http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
@@ -407,6 +409,7 @@ TVBS 精彩,p2p://lino.homeunix.com:6007/59fd250f000aa01602a54096673b0f2a.ts
 非凡新闻,vjms://122.155.180.8:8500:5021/live/cid=443
 非凡新闻,http://pili-live-l.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
 年代新闻,http://hls.hongxin123.com/918867252917/1e9656dbeca745a181d4be999b55adb6.flv
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 年代新闻,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
 年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455
 年代新闻,vjms://122.155.180.8:8500:5021/live/cid=455
@@ -441,12 +444,14 @@ JET 综合&年代MUCH,p2p://lino.homeunix.com:6007/59fd054a00006c030229246e6fa27
 东森综合,vjms://23.237.33.155:8500:3502/live/cid=333
 东森综合,vjms://122.155.180.8:8500:5021/live/cid=333
 东森洋片,http://hls.hongxin123.com/918867252917/b6466bd0ca4f46b4b3b364809b9391aa.flv
+东森洋片,http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森洋片,http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
 东森洋片,http://pili-live-l.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
 东森洋片,http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
 东森洋片,http://pili-live-hdl.qhmywl.com:80/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8
 东森洋片,p2p://lino.homeunix.com:6007/59fd17860002b83302705f6a03a560d2.ts
 东森电影,http://hls.hongxin123.com/918867252917/c66b21c5aa42453792504aa15612fd0e.flv
+东森电影,http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森电影,p2p://lino.homeunix.com:6007/59fd0cab0008230a0245f94a229777bd.ts
 东森电影,http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
 东森电影,vjms://23.237.33.155:8500:3502/live/cid=338
@@ -505,6 +510,7 @@ CHC动作电影,p2p://lino.homeunix.com:6007/59fd25c800060e1102a812154e343f18.ts
 CHC家庭影院,p2p://lino.homeunix.com:6007/59fd25b000031edb02a7b38a6a5d0696.ts
 CHC高清电影,p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts
 好莱坞电影,http://hls.hongxin123.com/918867252917/e52c57da9a8a4d5f9f8320f11bfce0ac.flv
+好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好莱坞电影,p2p://lino.homeunix.com:6007/5a141b66000b4be65f90135822b40e43.ts
 好莱坞电影,http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
 好莱坞电影,http://pili-live-hdl.qhmywl.com:80/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8
@@ -625,6 +631,7 @@ Ci罪案侦缉,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
 靖洋戏剧,http://61.58.60.230:9319/live/203.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 八大综合,http://hls.hongxin123.com/918867252917/db4a05923d2d4514b7fcd8bd6229d988.flv
+八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 八大综合,vjms://23.237.33.155:8500:3502/live/cid=354
 八大综合,p2p://lino.homeunix.com:6007/59fd22220005cbed0299d18627a207f7.ts
 八大综合,vjms://122.155.180.8:8500:5021/live/cid=354
