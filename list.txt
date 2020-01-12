@@ -3,7 +3,6 @@ CCTV 4K,http://117.148.187.56/PLTV/88888888/224/3221226758/index.m3u8?icpid=8888
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226809/1.m3u8
-CCTV 4K,https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
 BestTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 BestTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 BestTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
@@ -211,6 +210,7 @@ CCTV15,http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 东南卫视HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
 东南卫视HD,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225961/3.m3u8
 港台,#genre#
+凤凰中文,http://hls.hongxin123.com/918867252917/cd4c02ad25b84e3c8e492978704b63dc.flv
 凤凰中文,p2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
@@ -227,6 +227,7 @@ CCTV15,http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 凤凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
 凤凰中文,vjms://122.155.180.8:8500:5021/live/cid=400
 凤凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
+凤凰资讯,http://hls.hongxin123.com/918867252917/4766210c5dc142dab7d8faf95f2a6c41.flv
 凤凰资讯,vjms://23.237.33.155:8500:3502/live/cid=401
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
@@ -248,27 +249,34 @@ CCTV15,http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰资讯,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 凤凰资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰香港,http://hls.hongxin123.com/918867252917/7ce0bcab02564ee0b6a649c6224a51b3.flv
 凤凰香港,p2p://lino.homeunix.com:6007/59fd0c19000767ad0243becb40b07246.ts
 凤凰香港,http://223.82.250.72/live/fhhongkong/1.m3u8
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+香港电台RTHK31,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
 香港电台RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 香港电台RTHK31,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
+香港电台RTHK32,http://hls.hongxin123.com/918867252917/7b19c3596f0b4b8ab02808ba7c4fb3df.flv
 香港电台RTHK32,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts
 香港电台RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 香港电台RTHK32,https://rthklive2-lh.akamai.net/i/rthk32_1@168450/master.m3u8
 香港电台RTHK32,https://rthklive2-lh.akamai.net/i/rthk32_1@168450/index_702_av-b.m3u8
 香港电台RTHK32,https://rthklive2-lh.akamai.net/i/rthk32_1@168450/index_702_av-p.m3u8
 香港电台RTHK32,https://rthklive2-lh.akamai.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+有线新闻,http://hls.hongxin123.com/918867252917/267897c73a3d4cd0aafdbff518ed9bfc.flv
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 有线新闻,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+有线新闻,P2p://185.169.196.146:9906/5cb05bfa0004baf417a82ed0351d3696.ts
 有线新闻,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
+TVB无线新闻,http://hls.hongxin123.com/918867252917/ac9dc95c434840bdbf202418658aa6cb.flv
 TVB无线新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
 TVB无线新闻,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 TVB无线新闻,vjms://23.237.33.155:8500:3502/live/cid=366
+翡翠台,http://hls.hongxin123.com/918867252917/4cec83bce5524552b292a87196d2f5b7.flv
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
@@ -278,6 +286,7 @@ TVB无线新闻,vjms://23.237.33.155:8500:3502/live/cid=366
 翡翠台,http://m.567it.com/jade.m3u8
 翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 翡翠台,http://pili-live-l.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
+TVB J2,http://hls.hongxin123.com/918867252917/17977a3e8ec4406e898ca3a64fe2f155.flv
 TVB J2,http://pili-live-l.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
 TVB J2,http://58.218.56.88/918867252917/stream__redirect__42714.m3u8
@@ -292,12 +301,14 @@ TVB J2,p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
 TVB J5,vjms://23.237.33.155:8500:3502/live/cid=363
 TVB J5,p2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
 TVB J5,p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
+TVB Pearl,http://hls.hongxin123.com/918867252917/f6392ca5066a48fe8e621eaf52cb329c.flv
 TVB Pearl,p2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
 TVB Pearl,p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
 TVB Pearl,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB Pearl,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 TVB Pearl,http://m.567it.com/Pearl.m3u8
 TVB Pearl,vjms://23.237.33.155:8500:3502/live/cid=367
+中视,http://hls.hongxin123.com/918867252917/aa401fd60a304d89bd10c1aed5b97d4d.flv
 中视,http://pili-live-l.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
 中视,p2p://lino.homeunix.com:6007/59fd09bd0002ab6d023a86337415321a.ts
 中视,http://pili-live-l.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8
@@ -313,6 +324,7 @@ TVB Pearl,vjms://23.237.33.155:8500:3502/live/cid=367
 中视经典,http://pili-live-l.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 中视经典,http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 中视经典,http://pili-live-l.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
+华视,http://hls.hongxin123.com/918867252917/21d3a67b0f2643419eff2de63ce028d5.flv
 华视,p2p://lino.homeunix.com:6007/59fd068a0005f99e022e07d55c2f581d.ts
 华视,p2p://lino.homeunix.com:6007/59fd23240005c9a4029dc1561885012e.ts
 华视,http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
@@ -332,17 +344,21 @@ TVB Pearl,vjms://23.237.33.155:8500:3502/live/cid=367
 民视新闻,vjms://23.237.33.155:8500:3502/live/cid=454
 民视新闻,p2p://lino.homeunix.com:6007/59fd05930008403b022a439a3b9b7401.ts
 民视台湾,p2p://lino.homeunix.com:6007/59fd0670000decc5022da459628c3d1a.ts
+台视,http://hls.hongxin123.com/918867252917/9fa44485cbb849b0ae423c226e005d50.flv
 台视,p2p://lino.homeunix.com:6007/59fd099c00008ebf023a04ce64d57ff4.ts
 台视,vjms://23.237.33.155:8500:3502/live/cid=453
 台视,vjms://23.237.33.155:8500:3502/live/cid=453
 台视新闻台 ,p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
 台视,vjms://122.155.180.8:8500:5021/live/cid=453
+公视,http://hls.hongxin123.com/918867252917/2f413df5135141ecb6598bdd2f99d9f5.flv
 公视,vjms://23.237.33.155:8500:3502/live/cid=436
 公视,vjms://122.155.180.8:8500:5021/live/cid=436
 公视,p2p://lino.homeunix.com:6007/59fd0656000e66cd022d3ee840ad175d.ts
 公视3,p2p://lino.homeunix.com:6007/5ac5da01000d09fc15e6046427920804.ts
 公视3,vjms://23.237.33.155:8500:3502/live/cid=436
+TVBS,http://hls.hongxin123.com/918867252917/1162df8a92a04a8ea8e3bcb7981e15ac.flv
 TVBS,p2p://lino.homeunix.com:6007/59fd20d3000f24fd0294b75f4a555e2a.ts
+TVBS新闻,http://hls.hongxin123.com/918867252917/600fa100755d4eb0aee2e37db9b0630b.flv
 TVBS新闻,p2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 TVBS新闻,vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS新闻,vjms://122.155.180.8:8500:5021/live/cid=348
@@ -354,11 +370,13 @@ TVBS欢乐,vjms://23.237.33.155:8500:3502/live/cid=438
 TVBS欢乐,vjms://122.155.180.8:8500:5021/live/cid=438
 TVBS欢乐,p2p://lino.homeunix.com:6007/59fd20ae000635720294248563346fd6.ts
 TVBS 精彩,p2p://lino.homeunix.com:6007/59fd250f000aa01602a54096673b0f2a.ts
+三立新闻,http://hls.hongxin123.com/918867252917/ad782336a79c401da3f729d9e55ca5e9.flv
 三立新闻,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
 三立新闻,vjms://23.237.33.155:8500:3502/live/cid=352
 三立新闻,vjms://122.155.180.8:8500:5021/live/cid=352
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+三立台湾,http://hls.hongxin123.com/918867252917/28522ef63b254de48e6a1c7420a611b9.flv
 三立台湾.,p2p://lino.homeunix.com:6007/5a1425f00009bfad5fb93e0a6f7070c4.ts
 三立台湾,http://pili-live-l.qhmywl.com:80/dsdtv/e71635b53bb874a085b2a469802bbc81.m3u8
 三立台湾,http://pili-live-l.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv
@@ -368,24 +386,30 @@ TVBS 精彩,p2p://lino.homeunix.com:6007/59fd250f000aa01602a54096673b0f2a.ts
 三立都会,p2p://lino.homeunix.com:6007/59fd20f5000e6b4602953c0079210fd1.ts
 三立戏剧,p2p://lino.homeunix.com:6007/59fd274c0001400d02adfc6d23452c25.ts
 三立综合,p2p://lino.homeunix.com:6007/59fd27240003732f02ad60c95d8e10a7.ts
+三立都会,http://hls.hongxin123.com/918867252917/6b78c8456ad94ee991da0b944765374e.flv
 三立都会,vjms://23.237.33.155:8500:3502/live/cid=226
 三立都会,vjms://122.155.180.8:8500:5021/live/cid=226
+非凡新闻,http://hls.hongxin123.com/918867252917/e25dfc1defd147cd8e2a356fb4862423.flv
 非凡新闻,p2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
 非凡新闻,http://pili-live-l.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
 非凡新闻,http://pili-live-l.qhmywl.com:80/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
 非凡新闻,vjms://23.237.33.155:8500:3502/live/cid=443
 非凡新闻,vjms://122.155.180.8:8500:5021/live/cid=443
 非凡新闻,http://pili-live-l.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
+年代新闻,http://hls.hongxin123.com/918867252917/1e9656dbeca745a181d4be999b55adb6.flv
 年代新闻,p2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
 年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455
 年代新闻,vjms://122.155.180.8:8500:5021/live/cid=455
+年代MUCH,http://hls.hongxin123.com/918867252917/73c25bb0a0bd48148fe19060bcd32549.flv
 年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
 年代MUCH,vjms://122.155.180.8:8500:5021/live/cid=439
 JET 综合&年代MUCH,p2p://lino.homeunix.com:6007/59fd054a00006c030229246e6fa27a75.ts
+中天新闻,http://hls.hongxin123.com/918867252917/9d27aa40fbf04d4197c8b67c5b4d7059.flv
 中天新闻,p2p://lino.homeunix.com:6007/59fd05020006070602280c953c2545e6.ts
 中天新闻,vjms://23.237.33.155:8500:3502/live/cid=407
 中天新闻,vjms://122.155.180.8:8500:5021/live/cid=407
 中天新闻,http://pili-live-l.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
+中天娱乐,http://hls.hongxin123.com/918867252917/5c3db0dc07a34dc09c91d2e0d1e6db06.flv
 中天娱乐,vjms://23.237.33.155:8500:3502/live/cid=350
 中天娱乐,vjms://122.155.180.8:8500:5021/live/cid=350
 中天娱乐,p2p://lino.homeunix.com:6007/59fd049e0006fb6e0226863427c16955.ts
@@ -393,21 +417,26 @@ JET 综合&年代MUCH,p2p://lino.homeunix.com:6007/59fd054a00006c030229246e6fa27
 中天综合,vjms://122.155.180.8:8500:5021/live/cid=341
 中天综合 ,p2p://lino.homeunix.com:6007/59fd04bc00059d610226fb164a845fa5.ts
 中天亚洲台 ,p2p://lino.homeunix.com:6007/59fd05260002b0730228985b2c380c8a.ts
-东森综合,vjms://23.237.33.155:8500:3502/live/cid=333
-东森综合,vjms://122.155.180.8:8500:5021/live/cid=333
+东森新闻,http://hls.hongxin123.com/918867252917/5cd1b2c9adb346a2a236b14726534019.flv
 东森新闻,p2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
 东森新闻,http://pili-live-l.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
 东森新闻,http://pili-live-l.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
 东森新闻,vjms://23.237.33.155:8500:3502/live/cid=340
 东森新闻,vjms://122.155.180.8:8500:5021/live/cid=340
 东森新闻,http://pili-live-l.qhmywl.com:80/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
+东森戏剧,http://hls.hongxin123.com/918867252917/7dc9cd1c6f5c40589267aed7d79bbf3b.flv
 东森戏剧,p2p://lino.homeunix.com:6007/59fd17a500022c250270d8533c186ce9.ts
+东森综合,http://hls.hongxin123.com/918867252917/d11dbab9074741dab73b26d31366db2e.flv
 东森综合,p2p://lino.homeunix.com:6007/5a141ade0007bc435f8dff2d5b3453d7.ts
+东森综合,vjms://23.237.33.155:8500:3502/live/cid=333
+东森综合,vjms://122.155.180.8:8500:5021/live/cid=333
+东森洋片,http://hls.hongxin123.com/918867252917/b6466bd0ca4f46b4b3b364809b9391aa.flv
 东森洋片,http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
 东森洋片,http://pili-live-l.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
 东森洋片,http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
 东森洋片,http://pili-live-l.qhmywl.com:80/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8
 东森洋片,p2p://lino.homeunix.com:6007/59fd17860002b83302705f6a03a560d2.ts
+东森电影,http://hls.hongxin123.com/918867252917/c66b21c5aa42453792504aa15612fd0e.flv
 东森电影,p2p://lino.homeunix.com:6007/59fd0cab0008230a0245f94a229777bd.ts
 东森电影,http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
 东森电影,vjms://23.237.33.155:8500:3502/live/cid=338
@@ -433,6 +462,7 @@ HBO强档,http://pili-live-l.qhmywl.com:80/dsdtv/c971b59822c6a91fab4bad8ca9b45f6
 HBO强档,http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
 HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
 HBO强档,vjms://122.155.180.8:8500:5021/live/cid=238
+HBO,http://hls.hongxin123.com/918867252917/80c4dc36d13b4ea9805f12f37f5b8a43.flv
 HBO,http://pili-live-l.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
 HBO,http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
 HBO,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
@@ -445,6 +475,8 @@ FOX CRIME,p2p://lino.homeunix.com:6007/59fd14ae0007a794026544e32f606291.ts
 FOX 优质影院,p2p://lino.homeunix.com:6007/59fd246a0009125502a2bba01b0f4bf5.ts
 FOX 动作电影,p2p://lino.homeunix.com:6007/59fd244900002be402a238767364317b.ts
 FOX 家庭影院,p2p://lino.homeunix.com:6007/59fd229f000615aa029bb9ed79916213.ts
+FOX 家庭影院,http://pili-live-l.qhmywl.com:80/dsdtv/440b3d3c474813d7ead7d3a795978e69.m3u8
+FOX电影,http://hls.hongxin123.com/918867252917/36e8b3dcbcc548ffa06532df01c235da.flv
 FOX电影,http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
 FOX电影,vjms://23.237.33.155:8500:3502/live/cid=94
 FOX电影,vjms://122.155.180.8:8500:5021/live/cid=94
@@ -460,6 +492,7 @@ CHC高清电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/1000010000
 CHC动作电影,p2p://lino.homeunix.com:6007/59fd25c800060e1102a812154e343f18.ts
 CHC家庭影院,p2p://lino.homeunix.com:6007/59fd25b000031edb02a7b38a6a5d0696.ts
 CHC高清电影,p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts
+好莱坞电影,http://hls.hongxin123.com/918867252917/e52c57da9a8a4d5f9f8320f11bfce0ac.flv
 好莱坞电影,p2p://lino.homeunix.com:6007/5a141b66000b4be65f90135822b40e43.ts
 好莱坞电影,http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
 好莱坞电影,http://pili-live-l.qhmywl.com:80/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8
@@ -470,6 +503,7 @@ CHC高清电影,p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts
 影迷纪实台,http://cloud-play.hhalloy.com/live/a1d2d2be053776bb01c1aac37ac2dee4.flv
 影迷电影台,http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
 影迷数位电影,http://pili-live-l.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv
+AXN,http://hls.hongxin123.com/918867252917/3e0fc8e5386942908404db017b2b52f6.flv
 AXN,http://pili-live-l.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
 AXN,http://pili-live-l.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
 AXN,http://pili-live-l.qhmywl.com:80/dsdtv/c762110b3eef8bcccce5863643dd66aa.m3u8
@@ -481,6 +515,7 @@ CatchPlay,http://pili-live-l.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.f
 CatchPlay,p2p://lino.homeunix.com:6007/59fd26e9000849d802ac7b8a43f34f6a.ts
 CinemaWorld,http://pili-live-l.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
 CinemaWorld,http://pili-live-l.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
+CINEMAX,http://hls.hongxin123.com/918867252917/fc929e35ef5d4ab09375565aff18c019.flv
 CINEMAX,http://pili-live-l.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
 CINEMAX,p2p://lino.homeunix.com:6007/59fd0b0b00042603023f9f5023951856.ts
 CINEMAX,http://pili-live-l.qhmywl.com:80/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.m3u8
@@ -513,38 +548,52 @@ WarnerTV,http://pili-live-l.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.fl
 龙华偶像,http://pili-live-l.qhmywl.com/dsdtv/046d62141df9366aa54a66b22e095e24.flv
 龙华偶像,http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
 龙华偶像,http://pili-live-l.qhmywl.com:80/dsdtv/046d62141df9366aa54a66b22e095e24.m3u8
+LSTime电影,http://hls.hongxin123.com/918867252917/cbf8de45bb584c648b19172c34d746f0.flv
 LSTime电影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
 LSTime电影,http://pili-live-l.qhmywl.com:80/dsdtv/a5da9875c963d704ac5dd8f866869723.m3u8
 LSTime电影,http://pili-live-l.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
 LSTime电影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
+纬来电影,http://hls.hongxin123.com/918867252917/bb272e21ef944003886a27d366209e7e.flv
 纬来电影,p2p://lino.homeunix.com:6007/59fd1feb0003d7be02912a31740004af.ts
 纬来电影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
 纬来电影,http://pili-live-l.qhmywl.com:80/dsdtv/4f10b67646969a422a5490deaaabbc69.m3u8
 纬来电影,http://pili-live-l.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
 纬来电影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
+纬来戏剧,http://hls.hongxin123.com/918867252917/6086eec32bce433b84bfd7ba1250c83b.flv
 纬来戏剧,vjms://23.237.33.155:8500:3502/live/cid=137
 纬来戏剧,vjms://122.155.180.8:8500:5021/live/cid=137
 纬来戏剧,p2p://lino.homeunix.com:6007/59fd20190002fb090291ddb256d73759.ts
+纬来日本,http://hls.hongxin123.com/918867252917/470d882677b14c9b8d93ca679d6ad242.flv
 纬来日本.,p2p://lino.homeunix.com:6007/5bc8a92100047ccf6299e01b2aac4b86.ts
 纬来日本,vjms://23.237.33.155:8500:3502/live/cid=102
 纬来日本,vjms://122.155.180.8:8500:5021/live/cid=102
+纬来综合,http://hls.hongxin123.com/918867252917/ebdb66ebc4524c97b00714ff8cf84a04.flv
 纬来综合,p2p://lino.homeunix.com:6007/59fd206e00099d6f02932b6078c86d9a.ts
+纬来育乐,http://hls.hongxin123.com/918867252917/383d9bbcdddc4eb8a56449eb5e10467d.flv
 纬来育乐,p2p://lino.homeunix.com:6007/59fd26ad000978f002ab917848d22993.ts
 纬来精彩,p2p://lino.homeunix.com:6007/5ac5d68600012bae15d868ee776c7fe2.ts
 星卫娱乐台,p2p://lino.homeunix.com:6007/59fd332000050f8702dc318743ba40af.ts
+星卫电影,http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
 星卫电影,http://pili-live-l.qhmywl.com:80/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8
 星卫电影,http://pili-live-l.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
-美亚电影,http://pili-live-l.qhmywl.com:80/dsdtv/4a1141f101530bff4fc0e9229625e6b5.m3u8
+星卫电影,p2p://lino.homeunix.com:6007/59fd086a00072cbb02355b236c4a3fcb.ts
+卫视电影台,http://hls.hongxin123.com/918867252917/30fd1222c6cd44399cbaf9526e2d7cf7.flv
+卫视中文台,http://hls.hongxin123.com/918867252917/488ce49d5f7941afbdcf6e53dc6f1300.flv
+卫视中文台 ,p2p://lino.homeunix.com:6007/59fd0394000660a0022277050be47b46.ts
+卫视西片 ,p2p://lino.homeunix.com:6007/59fd1475000301e1026465123e2e3650.ts
+卫视合家欢 ,p2p://lino.homeunix.com:6007/59fd14190000e1040262fd2560d91f69.ts
 卫视洋片台,http://pili-live-l.qhmywl.com:80/dsdtv/78c4edcada009192a9b1f8976b5692ab.m3u8
 卫视洋片台,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
-福克斯家庭影院,http://pili-live-l.qhmywl.com:80/dsdtv/440b3d3c474813d7ead7d3a795978e69.m3u8
+美亚电影,p2p://lino.homeunix.com:6007/59fd08470008d4d60234d2d92e65644c.ts
+美亚电影,http://pili-live-l.qhmywl.com:80/dsdtv/4a1141f101530bff4fc0e9229625e6b5.m3u8
 美亚电影,http://pili-live-l.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv
 美亚电影,http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
+ELTA影剧,http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flv
 ELTA影剧,http://pili-live-l.qhmywl.com/dsdtv/0916fef64c4baab95f7097d001e4c27e.flv
 ELTA影剧,p2p://lino.homeunix.com:6007/59fd07e7000727bb02335b6b31754db5.ts
 ELTA综合,p2p://lino.homeunix.com:6007/59fd26ca00086abe02ac0272796720c5.ts
 壹电影,http://cloud-play.hhalloy.com/live/eb53b692ccbe8c836bc20be6734a9555.flv
-星卫电影,http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
+Ci罪案侦缉,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
 靖天欢乐,http://61.58.60.230:9319/live/201.m3u8
 靖天资讯,http://61.58.60.230:9319/live/202.m3u8
 靖天娱乐,http://61.58.60.230:9319/live/204.m3u8
@@ -563,9 +612,11 @@ ELTA综合,p2p://lino.homeunix.com:6007/59fd26ca00086abe02ac0272796720c5.ts
 靖天日本,p2p://lino.homeunix.com:6007/59fd2893000bff8802b2fc847a9852a6.ts
 靖洋戏剧,http://61.58.60.230:9319/live/203.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
+八大综合,http://hls.hongxin123.com/918867252917/db4a05923d2d4514b7fcd8bd6229d988.flv
 八大综合,vjms://23.237.33.155:8500:3502/live/cid=354
 八大综合,p2p://lino.homeunix.com:6007/59fd22220005cbed0299d18627a207f7.ts
 八大综合,vjms://122.155.180.8:8500:5021/live/cid=354
+八大娱乐,http://hls.hongxin123.com/918867252917/1a500ddd5bc74ccf84a52a4688320f91.flv
 八大戏剧,p2p://lino.homeunix.com:6007/59fd21c7000edfe70298706f2ef217c7.ts
 八大戏剧,vjms://122.155.180.8:8500:5021/live/cid=110
 八大戏剧,http://pili-live-l.qhmywl.com/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
@@ -575,9 +626,17 @@ ELTA综合,p2p://lino.homeunix.com:6007/59fd26ca00086abe02ac0272796720c5.ts
 八大第一,vjms://122.155.180.8:8500:5021/live/cid=441
 八大第一,http://pili-live-l.qhmywl.com:80/dsdtv/5e147a8d04ab43725d40e72fd7169952.m3u8
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
-CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
-Channel V,http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
+探索频道,p2p://lino.homeunix.com:6007/5acb89750000af6a2c1ba62e06531ad6.ts
+探索频道,vjms://23.237.33.155:8500:3502/live/cid=457
+探索频道,vjms://122.155.180.8:8500:5021/live/cid=457
+探索世界,vjms://23.237.33.155:8500:3502/live/cid=440
+探索世界,vjms://122.155.180.8:8500:5021/live/cid=440
+Discovery科学频道,p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts
+Discovery EVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts
+Discovery动力频道,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
+Discovery,http://hls.hongxin123.com/918867252917/a7d6567ab3414a4e9e027930f9d3990c.flv
+Discovery Asia,p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts
+Discovery,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理,vjms://23.237.33.155:8500:3502/live/cid=263
 国家地理,vjms://122.155.180.8:8500:5021/live/cid=263
@@ -587,21 +646,16 @@ Channel V,http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.fl
 国家地理,p2p://lino.homeunix.com:6007/59fd16240000683c026af7fe2edc67eb.ts
 国家地理People,p2p://lino.homeunix.com:6007/59fd2804000a86bb02b0cd8e6fa14a15.ts
 国家地理野生,http://pili-live-l.qhmywl.com:80/dsdtv/a4540237835700ece1fc1e54ce826125.m3u8
-探索频道,vjms://23.237.33.155:8500:3502/live/cid=457
-探索频道,vjms://122.155.180.8:8500:5021/live/cid=457
-探索世界,vjms://23.237.33.155:8500:3502/live/cid=440
-探索世界,vjms://122.155.180.8:8500:5021/live/cid=440
-探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
-探索科学,vjms://122.155.180.8:8500:5021/live/cid=457
+地理野生频道 ,p2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts
 动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
 动物星球,vjms://122.155.180.8:8500:5021/live/cid=3
-探索亚洲,vjms://23.237.33.155:8500:3502/live/cid=440
-探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
-动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
+动物星球,http://pili-live-l.qhmywl.com:80/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
+动物星球,p2p://lino.homeunix.com:6007/59fd254500042de102a611e03cd83fa7.ts
+美食星球,http://pili-live-l.qhmywl.com:80/dsdtv/7f2e2b78b85222886ccb3792c905408e.m3u8
+美食星球,p2p://lino.homeunix.com:6007/59fd07190004a07d0230361f798d3b15.ts
+BBC earth 地球频道 ,p2p://lino.homeunix.com:6007/59fd3223000ee20302d857cf1a981663.ts
+BBC生活频道,p2p://lino.homeunix.com:6007/59fd320000071ba102d7cd137e585878.ts
 TLC旅游生活,vjms://23.237.33.155:8500:3502/live/cid=103
-31有线新闻台,p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
-电影一台,p2p://lino.homeunix.com:6007/5a4726e4000667ca26f6a98d6a9d25a7.ts
-天映,p2p://lino.homeunix.com:6007/5b2f1ee9000d3e3d109cc71f4b240eb3.ts
 全佳,p2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts
 喜悦,p2p://lino.homeunix.com:6007/5b2c88690001d3520680e0317d774511.ts
 华丽台,p2p://lino.homeunix.com:6007/5b2f267700061e0f10ba47fb489f5964.ts
@@ -611,58 +665,11 @@ TLC旅游生活,vjms://23.237.33.155:8500:3502/live/cid=103
 双星,p2p://lino.homeunix.com:6007/5b2f26bb000f257c10bb53ec280e5f3f.ts
 AEC,p2p://lino.homeunix.com:6007/5b2c873100007ef4067c1d2352642785.ts
 AOD,p2p://lino.homeunix.com:6007/5b2c8894000eb34506818b752bbe53c4.ts
-Discovery科学频道,p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts
-Discovery EVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts
-Discovery动力频道,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
-高清探索频道 ,p2p://lino.homeunix.com:6007/5acb89750000af6a2c1ba62e06531ad6.ts
-Discovery Asia,p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts
-Discovery ,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts
-地理野生频道 ,p2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts
-壹电视新闻 ,p2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
-寰宇新闻频道 ,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
-寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
-fashiontv ,p2p://lino.homeunix.com:6007/59fd0add000221eb023eeb130f1c4195.ts
-NHK WORLD,p2p://lino.homeunix.com:6007/59fd0a09000c3214023bb18461b51f7a.ts
-星卫电影台 ,p2p://lino.homeunix.com:6007/59fd086a00072cbb02355b236c4a3fcb.ts
-美亚电影台 ,p2p://lino.homeunix.com:6007/59fd08470008d4d60234d2d92e65644c.ts
-恐怖电影,p2p://lino.homeunix.com:6007/5b3bbc4f000841ab41e487926cd85add.ts
-靖洋戏剧台 ,p2p://lino.homeunix.com:6007/59fd259600089bb202a74f6123416e8d.ts
-美食星球 ,p2p://lino.homeunix.com:6007/59fd07190004a07d0230361f798d3b15.ts
-壹电视综合 ,p2p://lino.homeunix.com:6007/59fd06f600087a21022fae61787f061c.ts
-卫视中文台 ,p2p://lino.homeunix.com:6007/59fd0394000660a0022277050be47b46.ts
-卫视西片 ,p2p://lino.homeunix.com:6007/59fd1475000301e1026465123e2e3650.ts
-卫视合家欢 ,p2p://lino.homeunix.com:6007/59fd14190000e1040262fd2560d91f69.ts
-Ci罪案侦缉 ,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
-亚洲美食 ,p2p://lino.homeunix.com:6007/59fd27e40007382002b04fb323e85206.ts
-EYETV旅游 ,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
-FX 福克斯影视 ,p2p://lino.homeunix.com:6007/59fd279b000c06e702af33d47d4c770a.ts
-动物星球 ,p2p://lino.homeunix.com:6007/59fd254500042de102a611e03cd83fa7.ts
-BBC earth 地球频道 ,p2p://lino.homeunix.com:6007/59fd3223000ee20302d857cf1a981663.ts
-BBC生活频道,p2p://lino.homeunix.com:6007/59fd320000071ba102d7cd137e585878.ts
-有线新闻台,P2p://185.169.196.146:9906/5cb05bfa0004baf417a82ed0351d3696.ts
-爱尔达影剧,http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flv
 台湾艺术台TACT,http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 台湾艺术台TACT,http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1&start=0
 台湾全美电视,https://dcunilive30-lh.akamai.net/i/dclive_1@535522/master.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-动物星球,http://pili-live-l.qhmywl.com:80/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
-美食星球,http://pili-live-l.qhmywl.com:80/dsdtv/7f2e2b78b85222886ccb3792c905408e.m3u8
-BBC Lifestyle,http://pili-live-l.qhmywl.com:80/dsdtv/5e80f4a9e17c991df381030c65856687.m3u8
-爱尔达影视,http://pili-live-l.qhmywl.com:80/dsdtv/0916fef64c4baab95f7097d001e4c27e.m3u8
-彩昌影剧台,http://pili-live-l.qhmywl.com:80/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.m3u8
-寰宇新闻,http://pili-live-l.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
-寰宇新闻2台,http://pili-live-l.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
-采昌影剧,http://pili-live-l.qhmywl.com/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.flv
-美食星球,http://pili-live-l.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
-CHANNEL[V],http://pili-live-l.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
-华艺影剧台,http://pili-live-l.qhmywl.com/dsdtv/49d33b7521ceef2115572e8906e9f906.flv
-MyCinemaEurope,http://pili-live-l.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
-WarnerTV,http://pili-live-l.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
-CN卡通,http://pili-live-l.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv
-TVB明珠台,http://pili-live-l.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8
-有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
-霹雳台湾台,http://pili-live-l.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
 轮播,#genre#
 【CIBN】嗨播,http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 【CIBN】军事,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
