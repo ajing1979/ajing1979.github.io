@@ -609,27 +609,34 @@ WarnerTV,http://pili-live-l.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.fl
 卫视电影,http://pili-live-l.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 卫视电影,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 卫视电影,p2p://lino.homeunix.com:6007/59fd0369000ea5750221d12f32a532b8.ts
+龙华电影,http://fang.fhzyy.com/live/bc62396925364199b57eeb8703630532.flv
 龙华电影,http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龙华电影,http://pili-live-l.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龙华电影,http://pili-live-hdl.qhmywl.com:80/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.m3u8
 龙华电影,http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龙华电影,p2p://lino.homeunix.com:6007/5acb86bc0005dc212c1104ce762f31f7.ts
+龙华经典,http://fang.fhzyy.com/live/0cf7da04cec6413ca056b8d1f4c5070d.flv
 龙华经典,http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
 龙华经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.m3u8
 龙华经典,http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
 龙华经典,http://pili-live-l.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv
+龙华洋片,http://fang.fhzyy.com/live/6639ab28161344eeab037de23d4ef860.flv
 龙华洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b17d120425d920da6.ts
 龙华洋片,http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
 龙华洋片,http://pili-live-l.qhmywl.com:80/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.m3u8
 龙华洋片,http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
 龙华洋片,p2p://lino.homeunix.com:6007/59fd07650001a79102315e34781149f3.ts
 龙华洋片,http://pili-live-l.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
+龙华影剧,http://fang.fhzyy.com/live/88d56d76acf94f7aa0cc0f6d86befcf7.flv
 龙华影剧,http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
 龙华影剧,http://pili-live-l.qhmywl.com:80/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.m3u8
 龙华影剧,http://pili-live-l.qhmywl.com/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.flv
+龍華戲劇,http://fang.fhzyy.com/live/481fc13a13764c6db90bfbba0f204dcd.flv
+龍華偶像,http://fang.fhzyy.com/live/8c05a9e518e84475b1c89b69f5fc27c2.flv
 龙华偶像,http://pili-live-l.qhmywl.com/dsdtv/046d62141df9366aa54a66b22e095e24.flv
 龙华偶像,http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
 龙华偶像,http://pili-live-l.qhmywl.com:80/dsdtv/046d62141df9366aa54a66b22e095e24.m3u8
+世界電影,http://fang.fhzyy.com/live/03dbfb6a096e4f56af4e88ef4fe455d4.flv
 LSTime电影,http://hls.hongxin123.com/918867252917/cbf8de45bb584c648b19172c34d746f0.flv
 LSTime电影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
 LSTime电影,http://pili-live-l.qhmywl.com:80/dsdtv/a5da9875c963d704ac5dd8f866869723.m3u8
@@ -719,7 +726,8 @@ Ci罪案侦缉,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
 八大第一,http://pili-live-hdl.qhmywl.com:80/dsdtv/5e147a8d04ab43725d40e72fd7169952.m3u8
 BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb17d208212c9b4fd4.ts
 BBC.Lifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bd17d08eee48ad4871.ts
-BBC.earth,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b17d08e7147665d0e.ts
+BBC Earth,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b17d08e7147665d0e.ts
+BBC Earth,http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 探索频道,p2p://lino.homeunix.com:6007/5acb89750000af6a2c1ba62e06531ad6.ts
 探索频道,vjms://23.237.33.155:8500:3502/live/cid=457
