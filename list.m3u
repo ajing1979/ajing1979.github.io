@@ -249,8 +249,18 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 凤凰电影
-rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 group-title="HK,#genre#",凤凰中文HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",凤凰资讯HD(移动)
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 group-title="HK,#genre#",凤凰资讯台
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 group-title="HK,#genre#",凤凰资讯HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",凤凰香港台
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",凤凰香港台
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="HK,#genre#",[国语|香港] 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 亚旅卫视
@@ -265,24 +275,8 @@ https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 group-title="HK,#genre#",动物星球
 http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 group-title="HK,#genre#",华语視界日本NHK Japan
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="HK,#genre#",凤凰中文HD(杭州移动)
-http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 group-title="HK,#genre#",凤凰资讯HD(移动)
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="HK,#genre#",凤凰资讯台
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="HK,#genre#",凤凰资讯HD(杭州移动)
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 group-title="HK,#genre#",凤凰香港台HD
-http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1 group-title="HK,#genre#",凤凰香港台
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="HK,#genre#",凤凰香港台
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="HK,#genre#",HKS卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 group-title="HK,#genre#",国家地理
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 group-title="HK,#genre#",探索频道
