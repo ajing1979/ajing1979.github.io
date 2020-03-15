@@ -423,6 +423,152 @@ http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hl
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",东南卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225961/3.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[国语|香港] Channel V
+https://v4.uhd.app/hls/channelv.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 凤凰 电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 凤凰 香港
+http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 星空卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 香港卫视 HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 澳视
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 澳视 澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 澳视 资讯
+http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 莲花卫视
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 莲花卫视 FHD
+http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] C+
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] Now 新闻
+http://hls.globaliptv.ml/now332.php
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] Now 直播
+http://hls.globaliptv.ml/now331.php
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] RTHK 31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] RTHK 32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB J2
+http://live.ergt4rt.wang/gangaotai.php?id=12
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB 新闻
+http://live.ergt4rt.wang/gangaotai.php?id=9
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB 明珠
+http://live.ergt4rt.wang/gangaotai.php?id=13
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB 翡翠
+http://live.ergt4rt.wang/gangaotai.php?id=1
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB 财经资讯
+http://live.ergt4rt.wang/gangaotai.php?id=10
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] ViuTV 96
+http://hls.globaliptv.ml/viu96.php
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] ViuTV 99
+http://hls.globaliptv.ml/viu99.php
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 新闻
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 新闻 ★
+https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 直播新闻
+http://wowgua.com/live/channel_110.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 综合娱乐
+http://wowgua.com/live/channel_301.m3u8
+#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 财经资讯
+http://wowgua.com/live/channel_108.m3u8
+#EXTINF:-1 group-title="HK,#genre#",Tvb   韓劇台
+http://tvbilive17-i.akamaihd.net/hls/live/573853/CKDrama5/CKDrama5-01.m3u8
+#EXTINF:-1 group-title="HK,#genre#",Tvb 星河
+http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
+#EXTINF:-1 group-title="HK,#genre#",TVB星河台-普通話
+http://61.147.122.15/flv.live.xylive.tv/live/0040.flv
+#EXTINF:-1 group-title="HK,#genre#",TVB翡翠台
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 group-title="HK,#genre#",亞視台Atv
+https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo_3.m3u8
+#EXTINF:-1 group-title="HK,#genre#",凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 group-title="HK,#genre#",凤凰中文
+http://125.210.152.18:9090/live/FHZW_1200.m3u8
+#EXTINF:-1 group-title="HK,#genre#",凤凰中文
+http://liveali.ifeng.com/live/FHZW.flv
+#EXTINF:-1 group-title="HK,#genre#",凤凰卫视
+p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
+#EXTINF:-1 group-title="HK,#genre#",凤凰资讥
+http://liveali.ifeng.com/live/FHZX.flv
+#EXTINF:-1 group-title="HK,#genre#",加美東
+http://tvbilive9-i.akamaihd.net/hls/live/494661/CJCA5E/CJCA5E-04.m3u8
+#EXTINF:-1 group-title="HK,#genre#",动物星球
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 group-title="HK,#genre#",华丽台HD
+p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+#EXTINF:-1 group-title="HK,#genre#",华语視界日本NHK Japan
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="HK,#genre#",日本全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 group-title="HK,#genre#",有线新聞台
+https://hdl0901.plures.net/onlive/2bc3064224f4147e251977f6eb347ed9.flv
+#EXTINF:-1 group-title="HK,#genre#",有线新闻台
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+#EXTINF:-1 group-title="HK,#genre#",有线新闻台
+http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+#EXTINF:-1 group-title="HK,#genre#",有线电影一台
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="HK,#genre#",香港時
+http://tvbilive10-i.akamaihd.net/hls/live/494663/CJHK5/CJHK5-04.m3u8
+#EXTINF:-1 group-title="HK,#genre#",香港綜合
+http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+rtmp://58.200.131.2:1935/livetv/fhzw
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+vjms://23.237.33.155:8500:3502/live/cid=400
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+vjms://58.215.133.185:8500:3502/live/cid=400
+#EXTINF:-1 group-title="HK,#genre#",鳳凰中文
+http://live.centerch.com/fhzw.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+http://live.centerch.com/fhzx.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+vjms://23.237.33.155:8500:3502/live/cid=401
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+https://116.77.72.195/streams/d/fhzx/playlist.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+rtmp://58.200.131.2:1935/livetv/fhzx
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+vjms://58.215.133.185:8500:3502/live/cid=401
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 group-title="HK,#genre#",鳳凰資訊
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
 #EXTINF:-1 group-title="vjms,#genre#",TVB J2
 vjms://23.237.33.155:8500:3502/live/cid=368
 #EXTINF:-1 group-title="vjms,#genre#",TVB J5
