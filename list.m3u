@@ -2,13 +2,7 @@
 #EXTINF:-1 group-title="国内,#genre#",CCTV 4K
 http://117.148.187.56/PLTV/88888888/224/3221226758/index.m3u8?icpid=88888888&from=5&ocs=2_117.148.187.40_80&hms_devid=373,1641&online=1574401712&vqe=3
 #EXTINF:-1 group-title="国内,#genre#",CCTV 4K
-http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV 4K
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV 4K
-http://112.17.40.140/PLTV/88888888/224/3221226809/1.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV 4K
-https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
 #EXTINF:-1 group-title="国内,#genre#",BestTV 4K
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",BestTV 4K
@@ -21,12 +15,8 @@ http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",广东综艺4K
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
-#EXTINF:-1 group-title="国内,#genre#",咪咕4K
-http://39.134.52.153/PLTV/88888888/224/3221226162/1.m3u8
 #EXTINF:-1 group-title="国内,#genre#",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-1
-http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
 #EXTINF:-1 group-title="国内,#genre#",CCTV-1
 http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-1
@@ -36,17 +26,11 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225965/3.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-1
 http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-2
-http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
-#EXTINF:-1 group-title="国内,#genre#",CCTV-2
 http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-2
 http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-2
 http://39.134.134.58:80/wh7f454c46tw4000157581_1906143853/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYRHMRPgOma8nTTkoFc8zp/A/GmgwC0QIut33P9OQnJWQ==:20181012130418,54C57AADF598,183.93.146.195,20181012130418,10000100000000050000000002171859,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539320240&from=1&hms_devid=3443
-#EXTINF:-1 group-title="国内,#genre#",CCTV-3
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000197.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-3
-http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
 #EXTINF:-1 group-title="国内,#genre#",CCTV-3
 http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-3
@@ -55,14 +39,8 @@ http://111.40.205.87/PLTV/88888888/224/3221225606/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-3
 http://101.71.255.229:6610/zjhs/2/10069/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10069&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN&ts=1553494907
-#EXTINF:-1 group-title="国内,#genre#",CCTV-4
-http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
 #EXTINF:-1 group-title="国内,#genre#",CCTV-5
 http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000198.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5
-http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 #EXTINF:-1 group-title="国内,#genre#",CCTV-5
 http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-5
@@ -70,35 +48,17 @@ http://112.17.40.140/PLTV/88888888/224/3221226687/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-5
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-5+
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000201.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5+
-http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5+
 http://111.40.205.87/PLTV/88888888/224/3221225752/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-5+
 http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-5+
 http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-6
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000199.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-6
-http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
-#EXTINF:-1 group-title="国内,#genre#",CCTV-6
-http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-6
 http://111.40.205.87/PLTV/88888888/224/3221225607/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-6
 http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-6
 http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-6
-http://39.135.32.39:6610/000000001000/1000000001000001737/index.m3u8?
-#EXTINF:-1 group-title="国内,#genre#",CCTV-7
-http://39.135.36.155:18890/000000001000/1000000001000024341/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039104
-#EXTINF:-1 group-title="国内,#genre#",CCTV-7
-http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
-#EXTINF:-1 group-title="国内,#genre#",CCTV-7
-http://39.135.36.152:18890/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317
 #EXTINF:-1 group-title="国内,#genre#",CCTV-7
 http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-7
@@ -108,41 +68,15 @@ http://112.17.40.140/PLTV/88888888/224/3221226470/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-7
 http://39.134.134.116:80/wh7f454c46tw2483264172_1297918979/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYeoIpnpCkGcvR83oqyWsWQIk4l5F7RRaxAbR51zLjKGw==:20181012131400,54C57AADF598,183.93.146.195,20181012131400,10000100000000050000000002172002,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321097&from=1&hms_devid=3563
 #EXTINF:-1 group-title="国内,#genre#",CCTV-8
-http://39.135.36.152:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032247
-#EXTINF:-1 group-title="国内,#genre#",CCTV-8
-http://39.135.36.154:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736
-#EXTINF:-1 group-title="国内,#genre#",CCTV-8
-http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
-#EXTINF:-1 group-title="国内,#genre#",CCTV-8
-http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-8
 http://111.40.205.87/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-8
 http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-8
 http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-8
-http://39.135.32.39:6610/000000001000/1000000001000003736/index.m3u8?
-#EXTINF:-1 group-title="国内,#genre#",CCTV-9
-http://39.135.36.152:18890/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031479
-#EXTINF:-1 group-title="国内,#genre#",CCTV-9
-http://39.135.36.145:18890/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583
-#EXTINF:-1 group-title="国内,#genre#",CCTV-9
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000143.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-9
-http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
 #EXTINF:-1 group-title="国内,#genre#",CCTV-9
 http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-9
 http://112.17.40.140/PLTV/88888888/224/3221226561/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-9
-http://39.134.134.57:80/wh7f454c46tw239212216_1895396930/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYgecBmJJTI9WluWnpD1T4A4vF/9LPPxsOflJLYH8mGsg==:20181012131506,54C57AADF598,183.93.146.195,20181012131506,10000100000000050000000002172008,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539320965&from=1&hms_devid=3443
-#EXTINF:-1 group-title="国内,#genre#",CCTV-10
-http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/s
-#EXTINF:-1 group-title="国内,#genre#",CCTV-10
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000170.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-10
-http://39.135.36.154:18890/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035907
 #EXTINF:-1 group-title="国内,#genre#",CCTV-10
 http://39.135.36.151:18890/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133
 #EXTINF:-1 group-title="国内,#genre#",CCTV-10
@@ -151,76 +85,26 @@ http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226199/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",CCTV-10
 http://112.17.40.140/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-10
-http://39.134.134.113:80/wh7f454c46tw3459312532_1936713264/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsb2GLr3ZKEja0u1GBlvU0tHm46E6ZyFvAGcgNcwDzB2iw==:20181012131535,54C57AADF598,183.93.146.195,20181012131535,10000100000000050000000002171820,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539320918&from=1&hms_devid=3363
-#EXTINF:-1 group-title="国内,#genre#",CCTV11
-http://39.135.36.157:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789
-#EXTINF:-1 group-title="国内,#genre#",CCTV11
+#EXTINF:-1 group-title="国内,#genre#",CCTV-11
 http://39.135.36.151:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039598
-#EXTINF:-1 group-title="国内,#genre#",CCTV11
-http://cctvcnch5c.v.wscdns.com/live/cctv11_2/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV11
-http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
+#EXTINF:-1 group-title="国内,#genre#",CCTV-12
 http://39.135.36.156:18890/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034641
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000171.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
-http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
-http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
+#EXTINF:-1 group-title="国内,#genre#",CCTV-12
 http://39.135.36.153:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
+#EXTINF:-1 group-title="国内,#genre#",CCTV-12
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
+#EXTINF:-1 group-title="国内,#genre#",CCTV-12
 http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
+#EXTINF:-1 group-title="国内,#genre#",CCTV-12
 http://112.17.40.140/PLTV/88888888/224/3221226563/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV12
-http://39.135.32.39:6610/000000001000/1000000001000001640/index.m3u8?
-#EXTINF:-1 group-title="国内,#genre#",CCTV-13
-http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-#EXTINF:-1 group-title="国内,#genre#",CCTV13
-http://39.135.36.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303
-#EXTINF:-1 group-title="国内,#genre#",CCTV13
-http://39.135.36.156:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034848
-#EXTINF:-1 group-title="国内,#genre#",CCTV13
-http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 #EXTINF:-1 group-title="国内,#genre#",CCTV-14
-http://223.110.241.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
-#EXTINF:-1 group-title="国内,#genre#",CCTV14
-http://39.135.36.153:18890/000000001000/1000000001000021349/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033946
-#EXTINF:-1 group-title="国内,#genre#",CCTV14
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000172.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV14
-http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
-#EXTINF:-1 group-title="国内,#genre#",CCTV14
-http://39.135.36.147:18890/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036
-#EXTINF:-1 group-title="国内,#genre#",CCTV14
 http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV14
+#EXTINF:-1 group-title="国内,#genre#",CCTV-14
 http://112.17.40.140/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV14
+#EXTINF:-1 group-title="国内,#genre#",CCTV-14
 http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV14
-http://39.135.32.39:6610/000000001000/1000000001000008170/index.m3u8?
 #EXTINF:-1 group-title="国内,#genre#",CCTV-15
 http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-#EXTINF:-1 group-title="国内,#genre#",CCTV15
-http://39.135.36.152:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036211
-#EXTINF:-1 group-title="国内,#genre#",CCTV15
-http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163
-#EXTINF:-1 group-title="国内,#genre#",CCTV15
-http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
-http://39.135.36.155:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037329
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
-http://39.135.36.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000153.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
-http://stream.cdjsxy.cn/hnws/sd/live.m3u8
 #EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
 http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
@@ -229,18 +113,10 @@ http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226569/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225892/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
-http://39.135.32.39:6610/000000001000/1000000001000009115/index.m3u8?
 #EXTINF:-1 group-title="国内,#genre#",湖南电影
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000144.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=005&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://39.135.36.153:18890/000000001000/6956052407855047826/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033096
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://39.135.36.152:18890/000000001000/6956052407855047826/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826
 #EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
 http://112.17.40.140/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
@@ -252,21 +128,11 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225966/3.m3u8
 #EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
 http://101.71.255.229:6610/zjhs/2/10022/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10022&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=6DNXOHND72T9QOMVCFSTFGEYNB1L&ts=1553493822
 #EXTINF:-1 group-title="国内,#genre#",浙江卫视HD
-http://39.135.36.153:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036951
-#EXTINF:-1 group-title="国内,#genre#",浙江卫视HD
-http://39.135.36.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806
-#EXTINF:-1 group-title="国内,#genre#",浙江卫视HD
 http://112.17.40.140/PLTV/88888888/224/3221226551/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",浙江卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225899/3.m3u8
 #EXTINF:-1 group-title="国内,#genre#",浙江卫视HD
 http://39.134.134.113:80/wh7f454c46tw359378752_127683947/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsacfzh9FqgMc5bSEXTnNnsDixKdRditpbz54jbxKoJXkw==:20181012132346,54C57AADF598,183.93.146.195,20181012132346,10000100000000050000000002172165,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321409&from=1&hms_devid=3363
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://39.135.36.155:18890/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035453
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://39.135.36.143:18890/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000150.m3u8
 #EXTINF:-1 group-title="国内,#genre#",东方卫视HD
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",东方卫视HD
@@ -280,12 +146,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225887/3.m3u8
 #EXTINF:-1 group-title="国内,#genre#",东方卫视HD
 http://39.134.134.114:80/wh7f454c46tw1139762244_1116759023/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZYWvKCT4/YpVkbKoZRTRNAiiFFv9oQn5RopIw3TiunxA==:20181012132411,54C57AADF598,183.93.146.195,20181012132411,10000100000000050000000002172024,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321709&from=1&hms_devid=3363
 #EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://39.135.36.155:18890/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036980
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://39.135.36.157:18890/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000152.m3u8
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
 http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
@@ -295,12 +155,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226567/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225885/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://39.134.134.56:80/wh7f454c46tw4200972994_174743141/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsazXW0hA1GTJRRgq5G2E/8kRNyFgO2pSKd9eYkIp74bDg==:20181012132320,54C57AADF598,183.93.146.195,20181012132320,10000100000000050000000002172100,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321458&from=1&hms_devid=3543
-#EXTINF:-1 group-title="国内,#genre#",北京卫视HD
-http://39.135.36.155:18890/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033199
-#EXTINF:-1 group-title="国内,#genre#",北京卫视HD
-http://39.135.36.143:18890/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156
 #EXTINF:-1 group-title="国内,#genre#",北京卫视HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=003&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",北京卫视HD
@@ -311,12 +165,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226164/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226583/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",北京卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225975/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",北京卫视HD
-http://39.134.134.27:80/wh7f454c46tw370589030_197660182/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYyJIJiOLFB9oypdtoENryG4kVuILvVODpAlPSwbycD8w==:20181012132239,54C57AADF598,183.93.146.195,20181012132239,10000100000000050000000002171709,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321617&from=1&hms_devid=563
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://39.135.36.153:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039811
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://39.135.36.157:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831
 #EXTINF:-1 group-title="国内,#genre#",天津卫视HD
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",天津卫视HD
@@ -329,14 +177,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226488/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",天津卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225960/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://39.134.134.70:80/wh7f454c46tw232170718_739226070/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsb67zxrFdYUX9xdMsQQWdW9ZlOLbRviN9lIdxsSGRbzig==:20181012133033,54C57AADF598,183.93.146.195,20181012133033,10000100000000050000000002172162,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539322090&from=1&hms_devid=3523
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://39.135.36.154:18890/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031210
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://39.135.36.150:18890/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000155.m3u8
 #EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
@@ -347,18 +187,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226203/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226486/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225967/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://39.134.134.59:80/wh7f454c46tw416748621_1558866135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZ04xfDqzszxB9yjIyjId6tnW7eBKhumQWKo1clTpjTJQ==:20181012132817,54C57AADF598,183.93.146.195,20181012132817,10000100000000050000000002172157,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321955&from=1&hms_devid=3583
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://fxzb.bbwqg.cn/proxy/uhd.php?id=guangdongHD_7000
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://39.135.36.153:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039201
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://39.135.36.155:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357
 #EXTINF:-1 group-title="国内,#genre#",广东卫视HD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://nclive.grtn.cn/gdws/sd/live.m3u8
 #EXTINF:-1 group-title="国内,#genre#",广东卫视HD
 http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",广东卫视HD
@@ -367,26 +197,12 @@ http://112.17.40.140/PLTV/88888888/224/3221226408/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226585/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",广东卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225893/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://39.135.32.39:6610/000000001000/1000000001000014176/index.m3u8?
-#EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
-http://39.135.36.156:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033476
-#EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
-http://39.135.36.150:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033
 #EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000159.m3u8
 #EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
 http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225888/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://39.135.36.152:18890/000000001000/1000000001000001925/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034029
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://39.135.36.140:18890/000000001000/8467838254824392379/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000188.m3u8
 #EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=006&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
@@ -400,12 +216,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226555/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
 http://101.71.255.229:6610/zjhs/2/10020/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10020&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=H40M3CJ8RNTPG6IDYQ9P0JNXIFSS&ts=1553493934
 #EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
-http://39.135.36.154:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036950
-#EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
-http://39.135.36.150:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937
-#EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000186.m3u8
-#EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
 https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8
@@ -414,80 +224,30 @@ http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
 http://118.123.60.84:8006/syhjcms_hls/10000100201705020000001000000009
 #EXTINF:-1 group-title="国内,#genre#",东南卫视HD
-http://39.135.36.155:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038807
-#EXTINF:-1 group-title="国内,#genre#",东南卫视HD
-http://39.135.36.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263
-#EXTINF:-1 group-title="国内,#genre#",东南卫视HD
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",东南卫视HD
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="国内,#genre#",东南卫视HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225961/3.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[国语|香港] Channel V
-https://v4.uhd.app/hls/channelv.m3u8
 #EXTINF:-1 group-title="HK,#genre#",[国语|香港] 凤凰 电影
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 凤凰 香港
-http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 星空卫视
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[国语|香港] 阳光卫视
-https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1 group-title="HK,#genre#",[国语|香港] 香港卫视 HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 澳视
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 澳视 澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 澳视 资讯
-http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 莲花卫视
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|澳门] 莲花卫视 FHD
-http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] C+
-https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] Now 新闻
-http://hls.globaliptv.ml/now332.php
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] Now 直播
-http://hls.globaliptv.ml/now331.php
 #EXTINF:-1 group-title="HK,#genre#",[粤语|香港] RTHK 31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 group-title="HK,#genre#",[粤语|香港] RTHK 32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB J2
-http://live.ergt4rt.wang/gangaotai.php?id=12
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB 新闻
-http://live.ergt4rt.wang/gangaotai.php?id=9
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB 明珠
-http://live.ergt4rt.wang/gangaotai.php?id=13
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB 翡翠
-http://live.ergt4rt.wang/gangaotai.php?id=1
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] TVB 财经资讯
-http://live.ergt4rt.wang/gangaotai.php?id=10
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] ViuTV 96
-http://hls.globaliptv.ml/viu96.php
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] ViuTV 99
-http://hls.globaliptv.ml/viu99.php
 #EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 新闻 ★
-https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 直播新闻
-http://wowgua.com/live/channel_110.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 综合娱乐
-http://wowgua.com/live/channel_301.m3u8
-#EXTINF:-1 group-title="HK,#genre#",[粤语|香港] 有线 财经资讯
-http://wowgua.com/live/channel_108.m3u8
-#EXTINF:-1 group-title="HK,#genre#",Tvb   韓劇台
+#EXTINF:-1 group-title="HK,#genre#",Tvb韓劇台
 http://tvbilive17-i.akamaihd.net/hls/live/573853/CKDrama5/CKDrama5-01.m3u8
-#EXTINF:-1 group-title="HK,#genre#",Tvb 星河
+#EXTINF:-1 group-title="HK,#genre#",Tvb星河
 http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
 #EXTINF:-1 group-title="HK,#genre#",TVB星河台-普通話
 http://61.147.122.15/flv.live.xylive.tv/live/0040.flv
@@ -501,16 +261,12 @@ http://liveali.ifeng.com/live/FHZW.m3u8
 http://125.210.152.18:9090/live/FHZW_1200.m3u8
 #EXTINF:-1 group-title="HK,#genre#",凤凰中文
 http://liveali.ifeng.com/live/FHZW.flv
-#EXTINF:-1 group-title="HK,#genre#",凤凰卫视
-p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 #EXTINF:-1 group-title="HK,#genre#",凤凰资讥
 http://liveali.ifeng.com/live/FHZX.flv
 #EXTINF:-1 group-title="HK,#genre#",加美東
 http://tvbilive9-i.akamaihd.net/hls/live/494661/CJCA5E/CJCA5E-04.m3u8
 #EXTINF:-1 group-title="HK,#genre#",动物星球
 http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 group-title="HK,#genre#",华丽台HD
-p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
 #EXTINF:-1 group-title="HK,#genre#",华语視界日本NHK Japan
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="HK,#genre#",日本全天新聞
@@ -2583,789 +2339,3 @@ https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=28201805160
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="摄像头直播,#genre#",中央电视台中塔北
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="测试_147258,#genre#",色戒
-https://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",苹果
-https://qqc1107.phpdaniu.com/japan/20190821/xKAFD0kH/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",丑闻
-https://qqc1107.phpdaniu.com/japan/20190821/7vpRqM9k/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",为你钟情
-https://qqc1107.phpdaniu.com/japan/20190820/zelJotND/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",魔鬼天使
-https://qqc1107.phpdaniu.com/japan/20190821/lAEs5Rri/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",一路向西
-https://qqc1107.phpdaniu.com/japan/20190829/LGzK8FXD/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",蜜桃成熟时
-https://qqc1107.phpdaniu.com/japan/20190820/OWLLUzio/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",少女潘金莲
-https://qqc1107.phpdaniu.com/japan/20190930/mzOygvXT/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",唐朝豪放女
-https://qqc1107.phpdaniu.com/japan/20190930/sy8A0Lc6/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",金瓶梅【上集】
-https://qqc1107.phpdaniu.com/japan/20190829/6iLi5qMz/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",金瓶梅【下集】
-https://qqc1107.phpdaniu.com/japan/20190829/FQIZJjXg/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",美人图【第一集】
-https://qqc1107.phpdaniu.com/japan/20190820/TQzYp0CW/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",美人图【第二集】
-https://qqc1107.phpdaniu.com/japan/20190820/aVMEPQGA/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",南洋十大邪术
-https://qqc1107.phpdaniu.com/japan/20190829/weqi6SFY/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",爱人情人爱诱惑
-https://qqc1107.phpdaniu.com/japan/20190821/XIo5Lk08/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",玉蒲团之玉女心经
-https://qqc1107.phpdaniu.com/japan/20190820/VSPnfvCr/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",肉蒲团之极乐宝鉴
-https://qqc1107.phpdaniu.com/japan/20190829/CMS8vhEX/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",色即是空【前篇】
-https://qqc1107.phpdaniu.com/japan/20190821/q5eiqO19/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",色即是空【后篇】
-https://qqc1107.phpdaniu.com/japan/20190821/Lg2355tx/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",满清十大酷刑【赤裸凌迟】
-https://qqc1107.phpdaniu.com/japan/20190829/LR1VP55H/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",老司机‖开车_258
-https://qqc1107.phpdaniu.com/japan/20191013/lcMXHzfW/500kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",牛仔裤女郎
-https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",操到翻白眼
-https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",爆弹肉体小衣
-https://qqc1107.phpdaniu.com/japan/20191013/S9iMljUH/500kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",被秒插却很爽
-https://qqc1107.phpdaniu.com/japan/20191013/TnoqbCFH/500kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",大轮奸性感空姐
-https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",美少妇全穴中出
-https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",让少妇淫叫潮吹
-https://qqc1107.phpdaniu.com/japan/20191101/M5PFQupR/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",女孩的最终幻想
-https://qqc1107.phpdaniu.com/oumei/2019922/qqc002/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",小猫咪搬的女孩
-https://qqc1107.phpdaniu.com/oumei/2019922/qqc001/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",加藤椿是我老婆
-https://qqc1107.phpdaniu.com/japan/20191013/P0ITeExQ/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",和你老婆来一炮
-https://qqc1107.phpdaniu.com/japan/20191013/wC5HedHl/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",我老婆是雾岛樱的话
-https://qqc1107.phpdaniu.com/japan/20191013/uh131Qgy/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",朋友的女友西野亚子
-https://qqc1107.phpdaniu.com/japan/20191013/Wny3sG2o/500kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",热吻浓情干炮【江波凉】
-https://qqc1107.phpdaniu.com/japan/20191003/040518_667/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",喷精快手松本芽依精选
-https://qqc1107.phpdaniu.com/japan/20191013/alQxYPic/500kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",喷精快手上原麻衣精选
-https://qqc1107.phpdaniu.com/japan/20191013/LdqeJHSd/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",淫乱小穴操到爆射大满足
-https://qqc1107.phpdaniu.com/japan/20191013/ijyp7jqd/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",被隔壁的巨乳大姐榨干了
-https://qqc1107.phpdaniu.com/japan/20191013/YUTeYB6h/500kb/hls/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",超淫荡美少妇的激情爱爱
-https://qqc1107.phpdaniu.com/japan/20191013/NQ1YjAsl/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",美穴欣赏【叶山瞳】
-https://qqc1107.phpdaniu.com/japan/20191013/EMDCPRKl/index.m3u8
-#EXTINF:-1 group-title="测试_147258,#genre#",美穴欣赏【麻生希】
-https://qqc1107.phpdaniu.com/japan/20191013/VBDebMeI/500kb/hls/index.m3u8
-#EXTINF:-1 group-title="",RedTraffic Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="",RedTraffic Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="",RedTraffic Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 group-title="",RedTraffic Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 group-title="",RedTraffic Latina
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="",RedTraffic Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 group-title="",RedTraffic MILF
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 group-title="",RedTraffic Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="",RedTraffic POV
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="",RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 group-title="",日本無碼臺
-http://204.45.185.166:25678/i/ghjnvq5o/827yz06w/index.m3u8
-#EXTINF:-1 group-title="",西洋無碼臺
-http://204.45.185.166:25678/i/ghjnvq5o/1583jl82/index.m3u8
-#EXTINF:-1 group-title="",好色客西洋電影臺
-http://204.45.185.166:25678/i/ghjnvq5o/oo9gw5hz/index.m3u8
-#EXTINF:-1 group-title="",playTV
-http://204.45.185.166:25678/i/ghjnvq5o/z5zsa5f5/index.m3u8
-#EXTINF:-1 group-title="",裸色
-http://204.45.185.166:25678/i/ghjnvq5o/3v529tk6/index.m3u8
-#EXTINF:-1 group-title="",一本道
-http://204.45.185.166:25678/i/ghjnvq5o/lv6d60g9/index.m3u8
-#EXTINF:-1 group-title="",慾色動漫
-http://204.45.185.166:25678/i/ghjnvq5o/9l5py3k2/index.m3u8
-#EXTINF:-1 group-title="",驚艷臺
-http://204.45.185.166:25678/i/ghjnvq5o/tj5knp44/index.m3u8
-#EXTINF:-1 group-title="",香蕉臺
-http://204.45.185.166:25678/i/ghjnvq5o/t00c98rg/index.m3u8
-#EXTINF:-1 group-title="",松视4
-http://204.45.185.166:25678/i/ghjnvq5o/984fa1vb/index.m3u8
-#EXTINF:-1 group-title="",高清无码1
-http://204.45.185.166:25678/i/ghjnvq5o/846a1ghm/index.m3u8
-#EXTINF:-1 group-title="",高清无码2
-http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
-#EXTINF:-1 group-title="",高清无码3
-http://204.45.185.166:25678/i/ghjnvq5o/ahun18hg/index.m3u8
-#EXTINF:-1 group-title="",高清无码4
-http://204.45.185.166:25678/i/ghjnvq5o/84a15gbc/index.m3u8
-#EXTINF:-1 group-title="",Anal
-http://204.45.185.166:25678/i/ghjnvq5o/952a3vvv/index.m3u8
-#EXTINF:-1 group-title="",Asian
-http://204.45.185.166:25678/i/ghjnvq5o/456oinav/index.m3u8
-#EXTINF:-1 group-title="",Blowjob
-http://204.45.185.166:25678/i/ghjnvq5o/91bnjred/index.m3u8
-#EXTINF:-1 group-title="",Ebony
-http://204.45.185.166:25678/i/ghjnvq5o/8jainsbq/index.m3u8
-#EXTINF:-1 group-title="",Erotic
-http://204.45.185.166:25678/i/ghjnvq5o/v19a2133/index.m3u8
-#EXTINF:-1 group-title="",hot
-http://204.45.185.166:25678/i/ghjnvq5o/8c855d75/index.m3u8
-#EXTINF:-1 group-title="",彩虹电影
-http://204.45.185.166:25678/i/ghjnvq5o/8c855daa/index.m3u8
-#EXTINF:-1 group-title="",松视1
-http://204.45.185.166:25678/i/ghjnvq5o/8c855fdf/index.m3u8
-#EXTINF:-1 group-title="",香蕉频道
-http://204.45.185.166:25678/i/ghjnvq5o/8c85giea/index.m3u8
-#EXTINF:-1 group-title="",粉红台
-http://204.45.185.166:25678/i/ghjnvq5o/8c85fsaf/index.m3u8
-#EXTINF:-1 group-title="",c1
-http://204.45.185.166:25678/i/ghjnvq5o/v19a2134/index.m3u8
-#EXTINF:-1 group-title="",Supernova 18 Hot Girls 3時間総
-http://cdn1.polaroidchina.com:8091/20170906/AWpIBAXb/index.m3u8
-#EXTINF:-1 group-title="",オフィスレディーの裏に
-http://cdn1.polaroidchina.com:8091/20170906/zZ0Zu72C/index.m3u8
-#EXTINF:-1 group-title="",藤城麻紀 水添愛子上
-http://cdn1.polaroidchina.com:8091/20170912/fo3pIeWN/index.m3u8
-#EXTINF:-1 group-title="",藤城麻紀 水添愛子下
-http://cdn1.polaroidchina.com:8091/20170912/l1ke56Dc/index.m3u8
-#EXTINF:-1 group-title="",北村敦子 武内麻友
-http://cdn1.polaroidchina.com:8091/20170828/cSVX5XaJ/index.m3u8
-#EXTINF:-1 group-title="",新堀 亜沙美  上部
-http://cdn1.polaroidchina.com:8091/20171019/epj4dbWN/index.m3u8
-#EXTINF:-1 group-title="",新堀 亜沙美  下部
-http://cdn1.polaroidchina.com:8091/20171019/nUB24NSi/index.m3u8
-#EXTINF:-1 group-title="",淫語で誘う寸止め焦らし痴女～僕を生
-http://cdn1.polaroidchina.com:8091/20170907/FTtjuEQh/index.m3u8
-#EXTINF:-1 group-title="",ヤリたい放題 10
-http://cdn1.polaroidchina.com:8091/20170907/WvclkAWp/index.m3u8
-#EXTINF:-1 group-title="",絶頂ランジェリーナ 8 山田彩夏
-http://cdn1.polaroidchina.com:8091/20170907/0PzNFFhx/index.m3u8
-#EXTINF:-1 group-title="",僕を誘惑する白い妖精 滝澤ローラ
-http://cdn1.polaroidchina.com:8091/20170907/IShtaOko/index.m3u8
-#EXTINF:-1 group-title="",春日由
-http://cdn1.polaroidchina.com:8091/20170907/I0I029hs/index.m3u8
-#EXTINF:-1 group-title="",～とって
-http://cdn1.polaroidchina.com:8091/20170907/nObFERzQ/index.m3u8
-#EXTINF:-1 group-title="",中出し痴漢タクシー
-http://cdn1.polaroidchina.com:8091/20170907/Vt8sTYTk/index.m3u8
-#EXTINF:-1 group-title="",初々し
-http://cdn1.polaroidchina.com:8091/20170907/pTbpQnsM/index.m3u8
-#EXTINF:-1 group-title="",肉感!
-http://cdn1.polaroidchina.com:8091/20170907/MvPiZ76Z/index.m3u8
-#EXTINF:-1 group-title="",密着度
-http://cdn1.polaroidchina.com:8091/20170907/xYgppAP2/index.m3u8
-#EXTINF:-1 group-title="",可愛
-http://cdn1.polaroidchina.com:8091/20170907/paDHhtV0/index.m3u8
-#EXTINF:-1 group-title="",湯った
-http://cdn1.polaroidchina.com:8091/20170907/tZVdxYR7/index.m3u8
-#EXTINF:-1 group-title="",Debut 無
-http://cdn1.polaroidchina.com:8091/20170907/1suKY9r9/index.m3u8
-#EXTINF:-1 group-title="",僕とキ
-http://cdn1.polaroidchina.com:8091/20170907/QYlMGVpA/index.m3u8
-#EXTINF:-1 group-title="",パコパ
-http://cdn1.polaroidchina.com:8091/20170907/HrDI2QOo/index.m3u8
-#EXTINF:-1 group-title="",ももい
-http://cdn1.polaroidchina.com:8091/20170907/z5qFuzmz/index.m3u8
-#EXTINF:-1 group-title="",無防
-http://cdn1.polaroidchina.com:8091/20170907/XUd52XAo/index.m3u8
-#EXTINF:-1 group-title="",濡れヌ
-http://cdn1.polaroidchina.com:8091/20170907/SIg5VEUD/index.m3u8
-#EXTINF:-1 group-title="",性感VI
-http://cdn1.polaroidchina.com:8091/20170907/cylPDX1C/index.m3u8
-#EXTINF:-1 group-title="",マンチ
-http://cdn1.polaroidchina.com:8091/20170907/2jAIc9hx/index.m3u8
-#EXTINF:-1 group-title="",自宅で
-http://cdn1.polaroidchina.com:8091/20170907/mv3g3tYs/index.m3u8
-#EXTINF:-1 group-title="",降臨
-http://cdn1.polaroidchina.com:8091/20170907/wMfJOcyo/index.m3u8
-#EXTINF:-1 group-title="",ひたす
-http://cdn1.polaroidchina.com:8091/20170907/nbXaX1Pp/index.m3u8
-#EXTINF:-1 group-title="",美淑女
-http://cdn1.polaroidchina.com:8091/20170907/3Sflr6EM/index.m3u8
-#EXTINF:-1 group-title="",芸能人
-http://cdn1.polaroidchina.com:8091/20170907/ZQIjdQC9/index.m3u8
-#EXTINF:-1 group-title="",JAPORN初
-http://cdn1.polaroidchina.com:8091/20170907/wn626JzU/index.m3u8
-#EXTINF:-1 group-title="",ほろ酔
-http://cdn1.polaroidchina.com:8091/20170908/pB6ov4Jy/index.m3u8
-#EXTINF:-1 group-title="",ついに
-http://cdn1.polaroidchina.com:8091/20170908/AWg107fK/index.m3u8
-#EXTINF:-1 group-title="",初撮り
-http://cdn1.polaroidchina.com:8091/20170908/n54yO6Xt/index.m3u8
-#EXTINF:-1 group-title="",「ねこ
-http://cdn1.polaroidchina.com:8091/20170908/nTmiQs37/index.m3u8
-#EXTINF:-1 group-title="",[ムッ
-http://cdn1.polaroidchina.com:8091/20170908/ejcSc8V0/index.m3u8
-#EXTINF:-1 group-title="",淫乱
-http://cdn1.polaroidchina.com:8091/20170908/KWtVNMVD/index.m3u8
-#EXTINF:-1 group-title="",激イ
-http://cdn1.polaroidchina.com:8091/20170908/rO5ZdV3Q/index.m3u8
-#EXTINF:-1 group-title="",拘束
-http://cdn1.polaroidchina.com:8091/20170908/U4eVXyea/index.m3u8
-#EXTINF:-1 group-title="",元フ
-http://cdn1.polaroidchina.com:8091/20170908/hMUtWfvV/index.m3u8
-#EXTINF:-1 group-title="",極上
-http://cdn1.polaroidchina.com:8091/20170908/omJoFMjb/index.m3u8
-#EXTINF:-1 group-title="",神の乳
-http://cdn1.polaroidchina.com:8091/20170908/UsEP8fvC/index.m3u8
-#EXTINF:-1 group-title="",貴方にご
-http://cdn1.polaroidchina.com:8091/20170908/chIVBuiS/index.m3u8
-#EXTINF:-1 group-title="",美人若女
-http://cdn1.polaroidchina.com:8091/20170908/S65L3xB5/index.m3u8
-#EXTINF:-1 group-title="",くっきり
-http://cdn1.polaroidchina.com:8091/20170908/dW5TSuJJ/index.m3u8
-#EXTINF:-1 group-title="",PRIVATE
-http://cdn1.polaroidchina.com:8091/20170908/c9iSidZx/index.m3u8
-#EXTINF:-1 group-title="",おうちセックス編 : 木
-http://cdn1.polaroidchina.com:8091/20170908/DYH9gYVJ/index.m3u8
-#EXTINF:-1 group-title="",過激編 : 木内亜美菜
-http://cdn1.polaroidchina.com:8091/20170908/gE5XIdfZ/index.m3u8
-#EXTINF:-1 group-title="",クビレ
-http://cdn1.polaroidchina.com:8091/20170908/umf8azgr/index.m3u8
-#EXTINF:-1 group-title="",水原めい
-http://cdn1.polaroidchina.com:8091/20170908/YgXBwqQH/index.m3u8
-#EXTINF:-1 group-title="",パンストローション ～ぬめりの快楽
-http://cdn1.polaroidchina.com:8091/20170909/iY8mtjdD/index.m3u8
-#EXTINF:-1 group-title="",美微乳 : 愛加あみ
-http://cdn1.polaroidchina.com:8091/20170908/5XNbwPIB/index.m3u8
-#EXTINF:-1 group-title="",巨乳熟女をガンガン突き
-http://cdn1.polaroidchina.com:8091/20170908/pnTp9xbh/index.m3u8
-#EXTINF:-1 group-title="",余裕で三連発できちゃう
-http://cdn1.polaroidchina.com:8091/20170908/ypv21418/index.m3u8
-#EXTINF:-1 group-title="",しばられたいの ~社会的痴
-http://cdn1.polaroidchina.com:8091/20170908/USYouMYC/index.m3u8
-#EXTINF:-1 group-title="",鬼イキトランス : 江波り
-http://cdn1.polaroidchina.com:8091/20170908/Gxy3XLG2/index.m3u8
-#EXTINF:-1 group-title="",あの薄幸熟女を地元まで
-http://cdn1.polaroidchina.com:8091/20170908/FhmarZl9/index.m3u8
-#EXTINF:-1 group-title="",余裕で三連発できちゃう
-http://cdn1.polaroidchina.com:8091/20170908/1SDJ4TFW/index.m3u8
-#EXTINF:-1 group-title="",盛り上がっちゃう色白素
-http://cdn1.polaroidchina.com:8091/20170923/ssAXScRC/index.m3u8
-#EXTINF:-1 group-title="",ハイ
-http://cdn1.polaroidchina.com:8091/20170908/mSfJz0qJ/index.m3u8
-#EXTINF:-1 group-title="",高偏
-http://cdn1.polaroidchina.com:8091/20170908/cOpYJEYR/index.m3u8
-#EXTINF:-1 group-title="",ミス
-http://cdn1.polaroidchina.com:8091/20170908/gtCclRpX/index.m3u8
-#EXTINF:-1 group-title="",極上
-http://cdn1.polaroidchina.com:8091/20170908/BeKbucHu/index.m3u8
-#EXTINF:-1 group-title="",ミス
-http://cdn1.polaroidchina.com:8091/20170908/jMWuT6NE/index.m3u8
-#EXTINF:-1 group-title="",純
-http://cdn1.polaroidchina.com:8091/20170908/F44JZuCc/index.m3u8
-#EXTINF:-1 group-title="",若妻中出し温泉旅行
-http://cdn1.polaroidchina.com:8091/20170908/J2YyGeAK/index.m3u8
-#EXTINF:-1 group-title="",グラマラス : 夕城芹
-http://cdn1.polaroidchina.com:8091/20170908/o61VOLbb/index.m3u8
-#EXTINF:-1 group-title="",アタシの彼氏はビッグブ
-http://cdn1.polaroidchina.com:8091/20170923/XBHjuCqN/index.m3u8
-#EXTINF:-1 group-title="",僕の彼女が碧しのだった
-http://cdn1.polaroidchina.com:8091/20170908/yvX8rBRl/index.m3u8
-#EXTINF:-1 group-title="",カワイ
-http://cdn1.polaroidchina.com:8091/20170908/LxuCiaPg/index.m3u8
-#EXTINF:-1 group-title="",Go Naked~ ドライブ : 水原
-http://cdn1.polaroidchina.com:8091/20170908/bDSQBnqu/index.m3u8
-#EXTINF:-1 group-title="",っ気痴ギャルを巨根がメ
-http://cdn1.polaroidchina.com:8091/20170908/FmH1TWb9/index.m3u8
-#EXTINF:-1 group-title="",Ｍ字開脚抜きフェラ マイクロビキニ生
-http://cdn1.polaroidchina.com:8091/20170908/MgclPQ8O/index.m3u8
-#EXTINF:-1 group-title="",美人達とドM調教 : 春奈 まり
-http://cdn1.polaroidchina.com:8091/20170908/GldkFYHM/index.m3u8
-#EXTINF:-1 group-title="", 巨乳の高飛車証券女大暴落 : 小峰ひな
-http://cdn1.polaroidchina.com:8091/20170908/pZwgccwv/index.m3u8
-#EXTINF:-1 group-title="", 初めてのカーセックスに挑戦！: みな
-http://cdn1.polaroidchina.com:8091/20170908/gadDhcKT/index.m3u8
-#EXTINF:-1 group-title="",機密女収容施設 - シークレットプリズ
-http://cdn1.polaroidchina.com:8091/20170908/7QaIxneT/index.m3u8
-#EXTINF:-1 group-title="",ストリッパー過激な性生活 : 吉野サリ
-http://cdn1.polaroidchina.com:8091/20170908/EA7gIm3j/index.m3u8
-#EXTINF:-1 group-title="",マン淫御礼！華李美亭寄席 : 森永ひよ
-http://cdn1.polaroidchina.com:8091/20170908/Kxt20lGQ/index.m3u8
-#EXTINF:-1 group-title="",小桜沙樹 三村ちな
-http://cdn1.polaroidchina.com:8091/20170908/HitluIlQ/index.m3u8
-#EXTINF:-1 group-title="",突撃！！隣のマンご飯！ : 宮村ゆうこ
-http://cdn1.polaroidchina.com:8091/20170908/yIwyDAbj/index.m3u8
-#EXTINF:-1 group-title="",堕ちる人妻 : 櫻井ともか
-http://cdn1.polaroidchina.com:8091/20170908/PIptkATZ/index.m3u8
-#EXTINF:-1 group-title="",鬼姦 ～三穴同時～ : 長谷川なぁみ
-http://cdn1.polaroidchina.com:8091/20170908/O7IfKs0e/index.m3u8
-#EXTINF:-1 group-title="",ファン感謝デー : 里崎あかね
-http://cdn1.polaroidchina.com:8091/20170908/znHbMdZ6/index.m3u8
-#EXTINF:-1 group-title="",50人乱交 : 田辺莉子 榊カヲル ありさ
-http://cdn1.polaroidchina.com:8091/20170909/F1T8XEWS/index.m3u8
-#EXTINF:-1 group-title="", 素人発掘事情 ～スタンド勤務の女～
-http://cdn1.polaroidchina.com:8091/20170909/LJ3svSUC/index.m3u8
-#EXTINF:-1 group-title="",ほんとにあったHな話 : 青木るみ 愛海
-http://cdn1.polaroidchina.com:8091/20170909/dmEXQa0X/index.m3u8
-#EXTINF:-1 group-title="",自宅訪問性欲処理ウーマン : 小泉真希
-http://cdn1.polaroidchina.com:8091/20170909/b4tpCK1h/index.m3u8
-#EXTINF:-1 group-title="",モデルコレクション ジューンブライド
-http://cdn1.polaroidchina.com:8091/20170909/sFUK2oqS/index.m3u8
-#EXTINF:-1 group-title="",姉貴の友達と禁断SEX : 美咲結衣
-http://cdn1.polaroidchina.com:8091/20170909/5C9GZgVE/index.m3u8
-#EXTINF:-1 group-title="",奇跡のGカップ軟乳 グラマラス : 愛乃
-http://cdn1.polaroidchina.com:8091/20170909/jMqY6JYW/index.m3u8
-#EXTINF:-1 group-title="",初オナ＆緊縛3P中出し : ふわりゆうき
-http://cdn1.polaroidchina.com:8091/20170909/vPO4z61j/index.m3u8
-#EXTINF:-1 group-title="",モデルコレクション エレガンス : 北條
-http://cdn1.polaroidchina.com:8091/20170909/9GzUqg29/index.m3u8
-#EXTINF:-1 group-title="",巨乳痴女絶品ボディの女たち : 星咲
-http://cdn1.polaroidchina.com:8091/20170909/ew1x8r9A/index.m3u8
-#EXTINF:-1 group-title="",パイパン中出しサークル : 児島奈央｜
-http://cdn1.polaroidchina.com:8091/20170909/9oODNh24/index.m3u8
-#EXTINF:-1 group-title="",建設会社OLの秘密 : 榊かおる?紗彩さ
-http://cdn1.polaroidchina.com:8091/20170909/B2rvmhda/index.m3u8
-#EXTINF:-1 group-title="",狙われたサークル美女 : ありさ 月城ひ
-http://cdn1.polaroidchina.com:8091/20170909/zaYU8HGg/index.m3u8
-#EXTINF:-1 group-title="",最上級のロリロリパイパン娘 : ひな
-http://cdn1.polaroidchina.com:8091/20170909/1vGLf4JM/index.m3u8
-#EXTINF:-1 group-title="",友達の彼女をテーブルの下で悪戯した
-http://cdn1.polaroidchina.com:8091/20170909/4vbpMe29/index.m3u8
-#EXTINF:-1 group-title="",Kaede Kuroki - 超セクシー正統派美女
-http://cdn1.polaroidchina.com:8091/20170909/i2SFZQ8g/index.m3u8
-#EXTINF:-1 group-title="",ご奉仕メイド : 綾見ひかる
-http://cdn1.polaroidchina.com:8091/20170908/Gu2i35Fm/index.m3u8
-#EXTINF:-1 group-title="",痴漢路線BUS ~居眠り厳禁
-http://cdn1.polaroidchina.com:8091/20170908/v0rU5ZAg/index.m3u8
-#EXTINF:-1 group-title="",欲しがりはるニャンをデ
-http://cdn1.polaroidchina.com:8091/20170908/qinqboPQ/index.m3u8
-#EXTINF:-1 group-title="",人妻なでしこ調教 : 瀬名
-http://cdn1.polaroidchina.com:8091/20170908/lt7ye5PK/index.m3u8
-#EXTINF:-1 group-title="",ランチタイムOL ~喫茶店で相席して刺
-http://cdn1.polaroidchina.com:8091/20170909/J65lmHYJ/index.m3u8
-#EXTINF:-1 group-title="",ビルの屋上をオマンコほり出して回遊
-http://cdn1.polaroidchina.com:8091/20170909/ZFo6hAlt/index.m3u8
-#EXTINF:-1 group-title="",ヒミツの全裸シェアハウス : 椎名みゆ
-http://cdn1.polaroidchina.com:8091/20170909/f4RaDPNI/index.m3u8
-#EXTINF:-1 group-title="",愛しきご主人様と給仕の私 : 滝川エリ
-http://cdn1.polaroidchina.com:8091/20170909/6Okp2htV/index.m3u8
-#EXTINF:-1 group-title="",ムチャぶり！ : 大家あみ
-http://cdn1.polaroidchina.com:8091/20170909/rp73s9h7/index.m3u8
-#EXTINF:-1 group-title="",いけない優等生にオシオキ : 本澤朋美
-http://cdn1.polaroidchina.com:8091/20170909/btldFkZE/index.m3u8
-#EXTINF:-1 group-title="",AVデビュー物語 : 永瀬里美
-http://cdn1.polaroidchina.com:8091/20170909/cNf49s8T/index.m3u8
-#EXTINF:-1 group-title="",エレガンス : 桐島ひかる
-http://cdn1.polaroidchina.com:8091/20170909/SlqSkj0i/index.m3u8
-#EXTINF:-1 group-title="",沙耶ちゃんのお部屋へおじゃましまぁ
-http://cdn1.polaroidchina.com:8091/20170909/boej46FQ/index.m3u8
-#EXTINF:-1 group-title="",他人妻味 madame ~フェロモン全開の挑発
-http://cdn1.polaroidchina.com:8091/20170909/sFIZftTb/index.m3u8
-#EXTINF:-1 group-title="",美微乳感度チェック ~マジでおっぱい
-http://cdn1.polaroidchina.com:8091/20170909/UmiPIIn9/index.m3u8
-#EXTINF:-1 group-title="",美少女ファイル ~無垢な乙女の敏感ボ
-http://cdn1.polaroidchina.com:8091/20170909/HkSsey7G/index.m3u8
-#EXTINF:-1 group-title="",夢を叶えまSHOW : 北条麻妃
-http://cdn1.polaroidchina.com:8091/20170909/ht5YsqRs/index.m3u8
-#EXTINF:-1 group-title="",話題のメイドリフレ! 特別ご奉仕しち
-http://cdn1.polaroidchina.com:8091/20170909/o5TkJUMt/index.m3u8
-#EXTINF:-1 group-title="",AV女優AD体験記 : 愛花沙也 若菜めい
-http://cdn1.polaroidchina.com:8091/20170909/Q9r8LFfZ/index.m3u8
-#EXTINF:-1 group-title="",ずさんな横領 : 宮澤みほ
-http://cdn1.polaroidchina.com:8091/20170904/qC6yMbIU/index.m3u8
-#EXTINF:-1 group-title="",男を調教して野外
-http://cdn1.polaroidchina.com:8091/20170909/tCZkAhUK/index.m3u8
-#EXTINF:-1 group-title="",未来のアイドルゴルファーは君だ！
-http://cdn1.polaroidchina.com:8091/20170909/DZp3ikv4/index.m3u8
-#EXTINF:-1 group-title="",顔騎マニア : 白砂ゆの
-http://cdn1.polaroidchina.com:8091/20170909/USIgtrkN/index.m3u8
-#EXTINF:-1 group-title="",弱冠20才の心機一転Debut : りなこ
-http://cdn1.polaroidchina.com:8091/20170909/BwXJT3L9/index.m3u8
-#EXTINF:-1 group-title="",痴漢路線バス～春は痴漢野郎にご用心
-http://cdn1.polaroidchina.com:8091/20170909/x5Zenb0D/index.m3u8
-#EXTINF:-1 group-title="",車内羞恥gradolプレイで大興奮
-http://cdn1.polaroidchina.com:8091/20170909/yw0ZWqqk/index.m3u8
-#EXTINF:-1 group-title="",アメリカ留学の悲しい出来事 : 希咲
-http://cdn1.polaroidchina.com:8091/20170909/a3Ho6o2S/index.m3u8
-#EXTINF:-1 group-title="",業界最上級のクビレ美巨
-http://cdn1.polaroidchina.com:8091/20170909/jW93Mh3m/index.m3u8
-#EXTINF:-1 group-title="",超絶ウブな彼女のどスケベ過ぎる妄想
-http://cdn1.polaroidchina.com:8091/20170909/VfD2JnP9/index.m3u8
-#EXTINF:-1 group-title="",Black gal DANCE : 沢尻涼子
-http://cdn1.polaroidchina.com:8091/20170909/qbG5tKl9/index.m3u8
-#EXTINF:-1 group-title="",僕の彼女が木下寧々だったら ~山でお
-http://cdn1.polaroidchina.com:8091/20170909/AQjrhgwZ/index.m3u8
-#EXTINF:-1 group-title="",女優魂 ~ゴミ屋敷でガチファック
-http://cdn1.polaroidchina.com:8091/20170909/7ny7fJ7J/index.m3u8
-#EXTINF:-1 group-title="",ファン感謝祭 ~ロリ好き限定青姦バス
-http://cdn1.polaroidchina.com:8091/20170909/15AN2CCx/index.m3u8
-#EXTINF:-1 group-title="",余裕で三連発できちゃう極上の女優
-http://cdn1.polaroidchina.com:8091/20170909/zPh79yQJ/index.m3u8
-#EXTINF:-1 group-title="",セックスが好きで好きでたまりません
-http://cdn1.polaroidchina.com:8091/20170909/2w9TgSCW/index.m3u8
-#EXTINF:-1 group-title="",はじめての野外放出 ~ドコでも吹いち
-http://cdn1.polaroidchina.com:8091/20170909/GAc3lhb1/index.m3u8
-#EXTINF:-1 group-title="",続々生中 : みづなれい｜音羽レオン｜
-http://cdn1.polaroidchina.com:8091/20170910/Lrj51M2x/index.m3u8
-#EXTINF:-1 group-title="",謹賀新年！巫女が腰をフリフリお仕え
-http://cdn1.polaroidchina.com:8091/20170910/agVptopA/index.m3u8
-#EXTINF:-1 group-title="",極太黒砲 VS 爆乳痴女 : 美月優芽
-http://cdn1.polaroidchina.com:8091/20170910/k1MP3xw5/index.m3u8
-#EXTINF:-1 group-title="",ぶっかけ顔射祭！人気コスプレイヤー
-http://cdn1.polaroidchina.com:8091/20170910/D0a4NCYJ/index.m3u8
-#EXTINF:-1 group-title="",禁断の催眠術でアイドルを好き勝手に
-http://cdn1.polaroidchina.com:8091/20170910/iCtNlJiK/index.m3u8
-#EXTINF:-1 group-title="",メチャカワ彼女とのエロエロ同棲性活
-http://cdn1.polaroidchina.com:8091/20170910/FafcsWIe/index.m3u8
-#EXTINF:-1 group-title="",前戯なしでいきなり挿入！~癒し系美人
-http://cdn1.polaroidchina.com:8091/20170910/h37NAJR8/index.m3u8
-#EXTINF:-1 group-title="",初拘束プレイで発見！美乳娘梨奈はMだ
-http://cdn1.polaroidchina.com:8091/20170910/LqGsS5lz/index.m3u8
-#EXTINF:-1 group-title="",おしゃぶり受験生~妄想ロリカワ娘の
-http://cdn1.polaroidchina.com:8091/20170909/EJxZNMrp/index.m3u8
-#EXTINF:-1 group-title="",即挿入！神乳ソープ嬢?小泉真希の癒
-http://cdn1.polaroidchina.com:8091/20170910/DAtWkJsl/index.m3u8
-#EXTINF:-1 group-title="",YURI 宮藤まい あ
-http://cdn1.polaroidchina.com:8091/20170910/uJ39wMDf/index.m3u8
-#EXTINF:-1 group-title="",放課後美少女ファイル ~純真な黒髪乙
-http://cdn1.polaroidchina.com:8091/20170910/i3OnQMpR/index.m3u8
-#EXTINF:-1 group-title="",密室エレベーター輪姦中出し
-http://cdn1.polaroidchina.com:8091/20170909/xwaGI082/index.m3u8
-#EXTINF:-1 group-title="",巨乳むすめのご奉仕三昧 : 西野紗江
-http://cdn1.polaroidchina.com:8091/20170909/s0PrdZii/index.m3u8
-#EXTINF:-1 group-title="",おっぱいが異常発達した姪っ子 数年ぶ
-http://cdn1.polaroidchina.com:8091/20170909/c7XqGcM7/index.m3u8
-#EXTINF:-1 group-title="",お尻大好きしょう太くんのHなイタズ
-http://cdn1.polaroidchina.com:8091/20170909/vidVGezq/index.m3u8
-#EXTINF:-1 group-title="",完全服従契約 ～あなた目線で舞咲み
-http://cdn1.polaroidchina.com:8091/20170909/kKrry0EG/index.m3u8
-#EXTINF:-1 group-title="",巨乳痴女ソープ嬢の濃厚サービス : 浅
-http://cdn1.polaroidchina.com:8091/20170902/svE9ccUI/index.m3u8
-#EXTINF:-1 group-title="",シンプリー ピュア 菜りお｜椎名りく
-http://cdn1.polaroidchina.com:8091/20170910/vHQ1yoeD/index.m3u8
-#EXTINF:-1 group-title="",性悪ギャルに卑猥なお仕置き [激選エ
-http://cdn1.polaroidchina.com:8091/20170910/3duvXoMy/index.m3u8
-#EXTINF:-1 group-title="",ベテラン全裸家政婦 熟れたカラダで貴
-http://cdn1.polaroidchina.com:8091/20170910/cFq8DRQa/index.m3u8
-#EXTINF:-1 group-title="",美痴女 [激選エロドラマオムニバス]
-http://cdn1.polaroidchina.com:8091/20170910/mD1pDEnb/index.m3u8
-#EXTINF:-1 group-title="",朝勃ち大好き新妻しのちゃん : 碧しの
-http://cdn1.polaroidchina.com:8091/20170910/46uYh2SR/index.m3u8
-#EXTINF:-1 group-title="",まりか｜水川エミリ
-http://cdn1.polaroidchina.com:8091/20170910/96shtwJQ/index.m3u8
-#EXTINF:-1 group-title="",女神たちの情事 ~禁じられた師弟愛
-http://cdn1.polaroidchina.com:8091/20170910/AQKdSRCN/index.m3u8
-#EXTINF:-1 group-title="",激選エロドラマオムニバス : 本
-http://cdn1.polaroidchina.com:8091/20170910/dWEZfjyv/index.m3u8
-#EXTINF:-1 group-title="",ロリ美尻 ～顔に似つかぬ卑猥なヒッ
-http://cdn1.polaroidchina.com:8091/20170909/kFWEHrBY/index.m3u8
-#EXTINF:-1 group-title="",ベッピンかぐや姫のスケベな婚活 : 吉
-http://cdn1.polaroidchina.com:8091/20170910/gJT1A3H8/index.m3u8
-#EXTINF:-1 group-title="",上スレンダー美脚OLのパンストを引き
-http://cdn1.polaroidchina.com:8091/20170910/nXrIctC4/index.m3u8
-#EXTINF:-1 group-title="",密着！白肌Fカップお嬢さん悠希めいの
-http://cdn1.polaroidchina.com:8091/20170910/jEjZ3evy/index.m3u8
-#EXTINF:-1 group-title="",黒人初解禁！黒い巨根にヨガリ狂う人
-http://cdn1.polaroidchina.com:8091/20170910/8oe0WmRV/index.m3u8
-#EXTINF:-1 group-title="",人妻の2穴にW生中出し！ : 甲斐ミハル
-http://cdn1.polaroidchina.com:8091/20170910/UbKgKZoE/index.m3u8
-#EXTINF:-1 group-title="", 憧れの家庭教師はお色気モンスター
-http://cdn1.polaroidchina.com:8091/20170910/0YttpgCC/index.m3u8
-#EXTINF:-1 group-title="",クレーム処理に来た微熟女事務員に悪
-http://cdn1.polaroidchina.com:8091/20170910/00QQfSUc/index.m3u8
-#EXTINF:-1 group-title="",性悪ギャルに卑猥なお仕置き ~嘘つき
-http://cdn1.polaroidchina.com:8091/20170910/NEsIFiHy/index.m3u8
-#EXTINF:-1 group-title="",淫乱美痴女 ～希とひなたに玩ばれて
-http://cdn1.polaroidchina.com:8091/20170910/C1gen3if/index.m3u8
-#EXTINF:-1 group-title="",百合川さらの美脚自慢コスプレ : 百合
-http://cdn1.polaroidchina.com:8091/20170910/Hdqwwu7e/index.m3u8
-#EXTINF:-1 group-title="",シェアガール 15分からOKの女 : 朝倉花恋
-http://cdn1.polaroidchina.com:8091/20170910/Rq2hBRwh/index.m3u8
-#EXTINF:-1 group-title="",中出しデリバリー : 里中結衣
-http://cdn1.polaroidchina.com:8091/20170910/vHpQAjz2/index.m3u8
-#EXTINF:-1 group-title="",美人崩壊 : 水
-http://cdn1.polaroidchina.com:8091/20170910/kZnJ88H9/index.m3u8
-#EXTINF:-1 group-title="",放課後美少女
-http://cdn1.polaroidchina.com:8091/20170910/ajHFZY8P/index.m3u8
-#EXTINF:-1 group-title="",アクメ依存症
-http://cdn1.polaroidchina.com:8091/20170910/gFlkFJjV/index.m3u8
-#EXTINF:-1 group-title="",放課後美少女2
-http://cdn1.polaroidchina.com:8091/20170910/ibx75Af1/index.m3u8
-#EXTINF:-1 group-title="",性交裏クリニ
-http://cdn1.polaroidchina.com:8091/20170910/moFAtPBK/index.m3u8
-#EXTINF:-1 group-title="",おもらし団地
-http://cdn1.polaroidchina.com:8091/20170910/EpbXQ9Zi/index.m3u8
-#EXTINF:-1 group-title="",幼馴染のくぱ
-http://cdn1.polaroidchina.com:8091/20170910/uCY2eVBm/index.m3u8
-#EXTINF:-1 group-title="",中島京子
-http://cdn1.polaroidchina.com:8091/20170910/KfLQpkWR/index.m3u8
-#EXTINF:-1 group-title="",内村りな
-http://cdn1.polaroidchina.com:8091/20170910/Fi75kDLN/index.m3u8
-#EXTINF:-1 group-title="",櫻木梨乃
-http://cdn1.polaroidchina.com:8091/20170910/6fCRakl0/index.m3u8
-#EXTINF:-1 group-title="",松永ちえり
-http://cdn1.polaroidchina.com:8091/20170910/RbiRkhZN/index.m3u8
-#EXTINF:-1 group-title="",天使と悪魔
-http://cdn1.polaroidchina.com:8091/20170910/M74FdjTT/index.m3u8
-#EXTINF:-1 group-title="",小西まりえ
-http://cdn1.polaroidchina.com:8091/20170910/HDdXjiQK/index.m3u8
-#EXTINF:-1 group-title="",MERU
-http://cdn1.polaroidchina.com:8091/20170910/1RPZoY9Z/index.m3u8
-#EXTINF:-1 group-title="",柏倉玲華
-http://cdn1.polaroidchina.com:8091/20170910/Fm5x5XUU/index.m3u8
-#EXTINF:-1 group-title="",拘束鬼イカセ
-http://cdn1.polaroidchina.com:8091/20170910/2dfnNplb/index.m3u8
-#EXTINF:-1 group-title="",拘束絶頂アク
-http://cdn1.polaroidchina.com:8091/20170910/RZdSM1kQ/index.m3u8
-#EXTINF:-1 group-title="",アノ娘の初体
-http://cdn1.polaroidchina.com:8091/20170910/BQyvov6d/index.m3u8
-#EXTINF:-1 group-title="",美熟女ぶっかけ2穴姦 : 都盛星空
-http://cdn1.polaroidchina.com:8091/20170910/qDsnRTcP/index.m3u8
-#EXTINF:-1 group-title="",ローションま
-http://cdn1.polaroidchina.com:8091/20170910/w55HPk5o/index.m3u8
-#EXTINF:-1 group-title="",放課後Hなアル
-http://cdn1.polaroidchina.com:8091/20170910/OGDnHY0v/index.m3u8
-#EXTINF:-1 group-title="", ルチャリブレ総集編 4時間13名 : 篠めぐ
-http://cdn1.polaroidchina.com:8091/20170910/fDPqRj0s/index.m3u8
-#EXTINF:-1 group-title="",制服美少女 ONIIKASE : 長谷川夏樹
-http://cdn1.polaroidchina.com:8091/20170910/VBiPiggU/index.m3u8
-#EXTINF:-1 group-title="",アナル狂いの清純彼女 : 羽月ミリア
-http://cdn1.polaroidchina.com:8091/20170910/pwvV6FnH/index.m3u8
-#EXTINF:-1 group-title="",一ノ瀬麗花
-http://cdn1.polaroidchina.com:8091/20170910/O2UGLUJu/index.m3u8
-#EXTINF:-1 group-title="",仕事ができる
-http://cdn1.polaroidchina.com:8091/20170910/C4wX7mrs/index.m3u8
-#EXTINF:-1 group-title="",集団痴漢を受
-http://cdn1.polaroidchina.com:8091/20170910/EfZ6WATX/index.m3u8
-#EXTINF:-1 group-title="",いいなり奴隷
-http://cdn1.polaroidchina.com:8091/20170910/AON3oCc8/index.m3u8
-#EXTINF:-1 group-title="",美女ギャル 本
-http://cdn1.polaroidchina.com:8091/20170910/6HdxKZGe/index.m3u8
-#EXTINF:-1 group-title="",OLの尻に埋もれ
-http://cdn1.polaroidchina.com:8091/20170910/fkoYmBzg/index.m3u8
-#EXTINF:-1 group-title="",「働きウーマ
-http://cdn1.polaroidchina.com:8091/20170910/BxKhPIrI/index.m3u8
-#EXTINF:-1 group-title="",シルバーウィ
-http://cdn1.polaroidchina.com:8091/20170910/wE519xQi/index.m3u8
-#EXTINF:-1 group-title="",未亡人の柔肌
-http://cdn1.polaroidchina.com:8091/20170910/POAw3bUe/index.m3u8
-#EXTINF:-1 group-title="",鬼イカセ 性○
-http://cdn1.polaroidchina.com:8091/20170910/ng9XSkwW/index.m3u8
-#EXTINF:-1 group-title="",高級ソープへ
-http://cdn1.polaroidchina.com:8091/20170910/aXclfusz/index.m3u8
-#EXTINF:-1 group-title="",彼女と僕とアブ
-http://cdn1.polaroidchina.com:8091/20170911/aWk2Erj3/index.m3u8
-#EXTINF:-1 group-title="",いいなり : 美月
-http://cdn1.polaroidchina.com:8091/20170911/nae36r0P/index.m3u8
-#EXTINF:-1 group-title="",失神するぐらいの
-http://cdn1.polaroidchina.com:8091/20170911/9B4AfrKM/index.m3u8
-#EXTINF:-1 group-title="",ナマ中出し解禁
-http://cdn1.polaroidchina.com:8091/20170911/Sp4j0OB8/index.m3u8
-#EXTINF:-1 group-title="",ガチハメ Office
-http://cdn1.polaroidchina.com:8091/20170911/TfjKY5qP/index.m3u8
-#EXTINF:-1 group-title="",男を虜にする美
-http://cdn1.polaroidchina.com:8091/20170911/mpZL7Tbz/index.m3u8
-#EXTINF:-1 group-title="",生ハメしまくり
-http://cdn1.polaroidchina.com:8091/20170911/KcNA8M0w/index.m3u8
-#EXTINF:-1 group-title="",二宮ナナの朝か
-http://cdn1.polaroidchina.com:8091/20170910/ajOhQCaE/index.m3u8
-#EXTINF:-1 group-title="",放課後Hなア
-http://cdn1.polaroidchina.com:8091/20170911/4fTHPm3a/index.m3u8
-#EXTINF:-1 group-title="",誘惑?カテキョ
-http://cdn1.polaroidchina.com:8091/20170911/IzFvMcf7/index.m3u8
-#EXTINF:-1 group-title="",docodemoかけほーだい : 篠めぐみ | 小野
-http://cdn1.polaroidchina.com:8091/20170910/aUWNQzhK/index.m3u8
-#EXTINF:-1 group-title="",寝たきりの夫 絶倫の義父 そして私
-http://cdn1.polaroidchina.com:8091/20170910/yuIHhyhT/index.m3u8
-#EXTINF:-1 group-title="",マネージャーのミスで、強制ア○ルフ
-http://cdn1.polaroidchina.com:8091/20170910/lJOuIcbJ/index.m3u8
-#EXTINF:-1 group-title="",メルシーボークー DV 20 ご奉仕?カノジ
-http://cdn1.polaroidchina.com:8091/20170910/TrF9iqu7/index.m3u8
-#EXTINF:-1 group-title="",メルシーボークー DV 24 放課後 Z : 一之
-http://cdn1.polaroidchina.com:8091/20170910/yDGNCF2E/index.m3u8
-#EXTINF:-1 group-title="",メルシーボークー DV 25 秋野千尋のSOA
-http://cdn1.polaroidchina.com:8091/20170910/xmMSaGnt/index.m3u8
-#EXTINF:-1 group-title="",メルシーボークー DV 26 貸切?美少女
-http://cdn1.polaroidchina.com:8091/20170910/3SenQ4Mz/index.m3u8
-#EXTINF:-1 group-title="",ダイナマイト : 愛沢かりん
-http://cdn1.polaroidchina.com:8091/20170910/R0xn80So/index.m3u8
-#EXTINF:-1 group-title="",緊縛に目覚める淫乱若妻 : 広瀬
-http://cdn1.polaroidchina.com:8091/20170910/iZ7v3Pht/index.m3u8
-#EXTINF:-1 group-title="",佐伯ゆきなと素人コイオチ散歩
-http://cdn1.polaroidchina.com:8091/20170910/lBFnoiAV/index.m3u8
-#EXTINF:-1 group-title="",AV撮影現場を密着取材！ : 瀬奈
-http://cdn1.polaroidchina.com:8091/20170910/4YmPV6hx/index.m3u8
-#EXTINF:-1 group-title="",生中出しファン感謝オフ会 : 波
-http://cdn1.polaroidchina.com:8091/20170910/ABdh7PJj/index.m3u8
-#EXTINF:-1 group-title="",人妻メイドサロン : 三橋杏奈
-http://cdn1.polaroidchina.com:8091/20170910/1QHQOibY/index.m3u8
-#EXTINF:-1 group-title="",僕の彼女は鈴森汐那 : 鈴森汐那
-http://cdn1.polaroidchina.com:8091/20170910/8fcybuNA/index.m3u8
-#EXTINF:-1 group-title="",人妻不倫温泉 : 水野葵
-http://cdn1.polaroidchina.com:8091/20170910/IOgPdNxF/index.m3u8
-#EXTINF:-1 group-title="",余裕で三連発できちゃう極上
-http://cdn1.polaroidchina.com:8091/20170910/QIb5iYTw/index.m3u8
-#EXTINF:-1 group-title="",Jカップの爆乳女優コンプリー
-http://cdn1.polaroidchina.com:8091/20170910/B0QnOaBR/index.m3u8
-#EXTINF:-1 group-title="",レンタル中 : 佳苗るか
-http://cdn1.polaroidchina.com:8091/20170910/uJ58iXrw/index.m3u8
-#EXTINF:-1 group-title="",敏感スレンダーモデルと中出
-http://cdn1.polaroidchina.com:8091/20170910/x7jBaryc/index.m3u8
-#EXTINF:-1 group-title="",放課後に私を仕込んでくだ
-http://cdn1.polaroidchina.com:8091/20170911/WezMNDUQ/index.m3u8
-#EXTINF:-1 group-title="",女子高生拉致監禁 : 木村美羽
-http://cdn1.polaroidchina.com:8091/20170911/NlQml27I/index.m3u8
-#EXTINF:-1 group-title="",人妻を満足させ隊 : 黒木琴音
-http://cdn1.polaroidchina.com:8091/20170910/gGI1h8gM/index.m3u8
-#EXTINF:-1 group-title="",京都はんなり娘 ~セックスハ
-http://cdn1.polaroidchina.com:8091/20170910/FdnkWy1p/index.m3u8
-#EXTINF:-1 group-title="",沙弥があなたのお嫁さん : 新
-http://cdn1.polaroidchina.com:8091/20170910/GoqzNAlg/index.m3u8
-#EXTINF:-1 group-title="",誘惑セールス
-http://cdn1.polaroidchina.com:8091/20170911/UYOVpzaq/index.m3u8
-#EXTINF:-1 group-title="",潮吹きE-GIRL
-http://cdn1.polaroidchina.com:8091/20170911/4VaObk8X/index.m3u8
-#EXTINF:-1 group-title="",水樹りさ
-http://cdn1.polaroidchina.com:8091/20170911/a6JH0nWE/index.m3u8
-#EXTINF:-1 group-title="",大沢まなみの見晴らし最高 : 大沢まなみ
-http://cdn1.polaroidchina.com:8091/20170911/5NwARadD/index.m3u8
-#EXTINF:-1 group-title="",もしも辻さやかが泡姫だったら
-http://cdn1.polaroidchina.com:8091/20170911/3zv16DdA/index.m3u8
-#EXTINF:-1 group-title="",Glamorous : 乙葉真希pg
-http://cdn1.polaroidchina.com:8091/20170911/rajgENJX/index.m3u8
-#EXTINF:-1 group-title="",新入社員はセクハラ奴隷娘
-http://cdn1.polaroidchina.com:8091/20170911/EJ5dehwZ/index.m3u8
-#EXTINF:-1 group-title="",友達の彼女 : 加藤ゆめ
-http://cdn1.polaroidchina.com:8091/20170911/DO5OWGvO/index.m3u8
-#EXTINF:-1 group-title="",僕の彼女が遥めいだったら
-http://cdn1.polaroidchina.com:8091/20170911/pRzv4aat/index.m3u8
-#EXTINF:-1 group-title="",ボクのカテキョはビッチなエロギャル
-http://cdn1.polaroidchina.com:8091/20170911/4OECklH2/index.m3u8
-#EXTINF:-1 group-title="",寝とられ美人妻 : 小野麻里亜
-http://cdn1.polaroidchina.com:8091/20170911/8VL7QAu7/index.m3u8
-#EXTINF:-1 group-title="",肉便器育成所 : 綾那優
-http://cdn1.polaroidchina.com:8091/20170911/UA4rMLXZ/index.m3u8
-#EXTINF:-1 group-title="",美神あやがぼくのお嫁さん
-http://cdn1.polaroidchina.com:8091/20170911/ZHOLwHDM/index.m3u8
-#EXTINF:-1 group-title="",汁だく美少女 : 宮下華奈
-http://cdn1.polaroidchina.com:8091/20170911/X7SgP0NU/index.m3u8
-#EXTINF:-1 group-title="",社長秘書のお仕事 : 鈴羽みう
-http://cdn1.polaroidchina.com:8091/20170911/m70QX9Hc/index.m3u8
-#EXTINF:-1 group-title="",真加藤ツバキ無双 : 加藤ツバキ
-http://cdn1.polaroidchina.com:8091/20170911/GlNDCTtZ/index.m3u8
-#EXTINF:-1 group-title="",極上泡姫物語 : 中島京子
-http://cdn1.polaroidchina.com:8091/20170911/6NnG6R2x/index.m3u8
-#EXTINF:-1 group-title="",薬局で働く貧乳だけど感度抜群の素人
-http://cdn1.polaroidchina.com:8091/20170911/Pu2ylqDG/index.m3u8
-#EXTINF:-1 group-title="",男をイチコロにするJKコンビ
-http://cdn1.polaroidchina.com:8091/20170911/iRtcuMct/index.m3u8
-#EXTINF:-1 group-title="",素人娘AV体験撮影 : 宮本七音
-http://cdn1.polaroidchina.com:8091/20170911/epRidJHe/index.m3u8
-#EXTINF:-1 group-title="",モデルコレクション : 相葉りか
-http://cdn1.polaroidchina.com:8091/20170911/OgoaXGTU/index.m3u8
-#EXTINF:-1 group-title="",10人連続ぶっかけ 
-http://cdn1.polaroidchina.com:8091/20170911/anyMVdTy/index.m3u8
-#EXTINF:-1 group-title="",絶対彼女 : 吉乃ひとみ
-http://cdn1.polaroidchina.com:8091/20170911/mhUStMNo/index.m3u8
-#EXTINF:-1 group-title="",高級クラブ娘の究極接客 : 黒澤ゆうか
-http://cdn1.polaroidchina.com:8091/20170911/cqI8ptOU/index.m3u8
-#EXTINF:-1 group-title="",性欲が邪魔をする : 児島奈央
-http://cdn1.polaroidchina.com:8091/20170911/sA23rWgD/index.m3u8
-#EXTINF:-1 group-title="",親友の彼女 : 夏川あき
-http://cdn1.polaroidchina.com:8091/20170911/wjWPaHWG/index.m3u8
-#EXTINF:-1 group-title="",今夜のおかずは内藤斐奈 : 内藤斐奈
-http://cdn1.polaroidchina.com:8091/20170911/m0KTXSWk/index.m3u8
-#EXTINF:-1 group-title="",グラマラス : 鈴木さとみ
-http://cdn1.polaroidchina.com:8091/20170911/hU0eAw4l/index.m3u8
-#EXTINF:-1 group-title="",親友の彼女 : 一条レイナ
-http://cdn1.polaroidchina.com:8091/20170911/vfCBdOSJ/index.m3u8
-#EXTINF:-1 group-title="",僕の彼女が波多野結衣だったら
-http://cdn1.polaroidchina.com:8091/20170911/RyFmAjEc/index.m3u8
-#EXTINF:-1 group-title="",もしも大塚咲が泡姫だったら
-http://cdn1.polaroidchina.com:8091/20170911/PABpHnWr/index.m3u8
-#EXTINF:-1 group-title="",アジアンビューティー : 涼宮こなた
-http://cdn1.polaroidchina.com:8091/20170911/IR16fyd4/index.m3u8
-#EXTINF:-1 group-title="",グラマラス : 二宮亜季
-http://cdn1.polaroidchina.com:8091/20170911/cYT6IsDa/index.m3u8
-#EXTINF:-1 group-title="",ザ?ガール?ネクスト?ドア : 杉浦彩
-http://cdn1.polaroidchina.com:8091/20170911/vhSLLoSa/index.m3u8
-#EXTINF:-1 group-title="",僕のペットは乙井なずな : 乙井なずな
-http://cdn1.polaroidchina.com:8091/20170911/YFE0oVhL/index.m3u8
-#EXTINF:-1 group-title="",イッツ ガール : 星乃せあら
-http://cdn1.polaroidchina.com:8091/20170911/pPdasz5e/index.m3u8
-#EXTINF:-1 group-title="",制服美少女倶楽部 : 水嶋あい
-http://cdn1.polaroidchina.com:8091/20170911/aQDgp9KA/index.m3u8
-#EXTINF:-1 group-title="",グラマラス : ラム
-http://cdn1.polaroidchina.com:8091/20170911/pSRPtyCi/index.m3u8
-#EXTINF:-1 group-title="", 妄想出張メンズエステ : 愛内希
-http://cdn1.polaroidchina.com:8091/20170911/38jqvmTa/index.m3u8
-#EXTINF:-1 group-title="",今日から妹 : 田丸みく
-http://cdn1.polaroidchina.com:8091/20170911/jQBk9QUU/index.m3u8
-#EXTINF:-1 group-title="",10人連続ぶっかけ 10人連続中出し : 朝倉
-http://cdn1.polaroidchina.com:8091/20170911/9oNz6xdc/index.m3u8
-#EXTINF:-1 group-title="",パシオン?アモローサ 愛する情熱 : LUN
-http://cdn1.polaroidchina.com:8091/20170911/icxoXeDn/index.m3u8
-#EXTINF:-1 group-title="",恥じらい裸新体操 : 陽菜
-http://cdn1.polaroidchina.com:8091/20170911/lcijTqUe/index.m3u8
-#EXTINF:-1 group-title="",剣道部顧問新米教師 : 瀬奈ジュン
-http://cdn1.polaroidchina.com:8091/20170911/jrqt7axY/index.m3u8
-#EXTINF:-1 group-title="",制服美少女倶楽部 : 西野あみ
-http://cdn1.polaroidchina.com:8091/20170911/2QNGUl9c/index.m3u8
-#EXTINF:-1 group-title="",イキまくりたいのでAV女優になりました
-http://cdn1.polaroidchina.com:8091/20170911/O2gQ372j/index.m3u8
-#EXTINF:-1 group-title="",10人連続ぶっかけ 10人連続中出し : 優木
-http://cdn1.polaroidchina.com:8091/20170911/hCR1ThHl/index.m3u8
-#EXTINF:-1 group-title="",絶対彼女 : 愛内ももこ
-http://cdn1.polaroidchina.com:8091/20170911/x8spJj1M/index.m3u8
-#EXTINF:-1 group-title="",ずっと狙ってたあの娘をついに
-http://cdn1.polaroidchina.com:8091/20170911/3svAdZg5/index.m3u8
-#EXTINF:-1 group-title="",極射10人連続汁地獄 : 杉浦彩
-http://cdn1.polaroidchina.com:8091/20170911/msLs3bw1/index.m3u8
-#EXTINF:-1 group-title="",モデルコレクション : 秋野みさき
-http://cdn1.polaroidchina.com:8091/20170911/u44jEvqE/index.m3u8
-#EXTINF:-1 group-title="",親友の彼女 ～究極ネトラレストーリー
-http://cdn1.polaroidchina.com:8091/20170911/lPwBUbLr/index.m3u8
-#EXTINF:-1 group-title="",僕のペットはあいみ沙希 : あいみ沙希
-http://cdn1.polaroidchina.com:8091/20170911/BizO3By3/index.m3u8
-#EXTINF:-1 group-title="",モデルコレクション : 浅見純
-http://cdn1.polaroidchina.com:8091/20170911/VVH4A06N/index.m3u8
-#EXTINF:-1 group-title="",極上泡姫物語 : 沢村麻耶
-http://cdn1.polaroidchina.com:8091/20170911/kntg12Th/index.m3u8
-#EXTINF:-1 group-title="",グラマラス : 夏原カレン
-http://cdn1.polaroidchina.com:8091/20170911/H6RQ2p2w/index.m3u8
-#EXTINF:-1 group-title="",完汁女中出し三連発ｘ二娘 : 沙藤ユリ
-http://cdn1.polaroidchina.com:8091/20170911/g8shd53F/index.m3u8
-#EXTINF:-1 group-title="",パーフェクトボディ : 吉田花
-http://cdn1.polaroidchina.com:8091/20170911/dNfrqMmm/index.m3u8
-#EXTINF:-1 group-title="",祝?新性人の祝いの宴 : 遠藤かな
-http://cdn1.polaroidchina.com:8091/20170911/7KcO5DSb/index.m3u8
-#EXTINF:-1 group-title="",美人3姉妹を独り占め : 大城かえで 遥め
-http://cdn1.polaroidchina.com:8091/20170911/krKJEMtS/index.m3u8
-#EXTINF:-1 group-title="",卑猥な中出しおねだり : 本多成実
-http://cdn1.polaroidchina.com:8091/20170911/oALx5ODJ/index.m3u8
-#EXTINF:-1 group-title="",恨み屋肉便器 : 館木唯
-http://cdn1.polaroidchina.com:8091/20170911/mjBLyNT1/index.m3u8
-#EXTINF:-1 group-title="",あまえんぼうの生唾ごっくんフェラ
-http://cdn1.polaroidchina.com:8091/20170911/oK3qmbXN/index.m3u8
-#EXTINF:-1 group-title="",縛られた女教師 ～生徒たちの性奴隷へ
-http://cdn1.polaroidchina.com:8091/20170911/DVkFZ8lq/index.m3u8
-#EXTINF:-1 group-title="",あまえんぼうな妹 : 田中志乃
-http://cdn1.polaroidchina.com:8091/20170911/T4w3IFF5/index.m3u8
-#EXTINF:-1 group-title="",ときめき ～ダメだってば、外だよ
-http://cdn1.polaroidchina.com:8091/20170911/w5eKnTWx/index.m3u8
-#EXTINF:-1 group-title="",ビッチ拘束 : 阿利希キリア
-http://cdn1.polaroidchina.com:8091/20170911/QFmkAltl/index.m3u8
-#EXTINF:-1 group-title="",はだかの履歴書 : 篠崎ジュリア
-http://cdn1.polaroidchina.com:8091/20170911/eT2oY8DR/index.m3u8
-#EXTINF:-1 group-title="",女熱大陸 : 桜花えり
-http://cdn1.polaroidchina.com:8091/20170911/UBfqe8lP/index.m3u8
-#EXTINF:-1 group-title="",桜の潮り～ : 琥珀うた 陽菜 桃井
-http://cdn1.polaroidchina.com:8091/20170911/JD5y2Rf8/index.m3u8
