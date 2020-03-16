@@ -1,234 +1,74 @@
 #EXTM3U
-#EXTINF:-1 group-title="国内,#genre#",CCTV 4K
-http://117.148.187.56/PLTV/88888888/224/3221226758/index.m3u8?icpid=88888888&from=5&ocs=2_117.148.187.40_80&hms_devid=373,1641&online=1574401712&vqe=3
-#EXTINF:-1 group-title="国内,#genre#",CCTV 4K
-http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",BestTV 4K
-http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",BestTV 4K
-http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",BestTV 4K
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",BestTV 4K
-http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",BestTV 4K
-http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",广东综艺4K
-http://nclive.grtn.cn:80/4K/sd/live.m3u8
-#EXTINF:-1 group-title="国内,#genre#",爱上4K
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
 http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-1
-http://112.17.40.140/PLTV/88888888/224/3221226589/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-1
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225965/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-1
-http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-2
-http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经
 http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-2
-http://39.134.134.58:80/wh7f454c46tw4000157581_1906143853/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYRHMRPgOma8nTTkoFc8zp/A/GmgwC0QIut33P9OQnJWQ==:20181012130418,54C57AADF598,183.93.146.195,20181012130418,10000100000000050000000002171859,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539320240&from=1&hms_devid=3443
-#EXTINF:-1 group-title="国内,#genre#",CCTV-3
-http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-3
-http://111.40.205.87/PLTV/88888888/224/3221225606/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-3
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视",CCTV-3综艺
 http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-3
-http://101.71.255.229:6610/zjhs/2/10069/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10069&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN&ts=1553494907
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
+http://39.135.34.150:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl%2fg%2f2u5lawXOBSX%2fqESSB5FmTXS
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
 http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5
-http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5
-http://112.17.40.140/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5+
-http://111.40.205.87/PLTV/88888888/224/3221225752/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
 http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-5+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
 http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-6
-http://111.40.205.87/PLTV/88888888/224/3221225607/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-6
-http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-6
-http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-7
-http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-7
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视",CCTV-7国防军事
 http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-7
-http://112.17.40.140/PLTV/88888888/224/3221226470/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-7
-http://39.134.134.116:80/wh7f454c46tw2483264172_1297918979/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYeoIpnpCkGcvR83oqyWsWQIk4l5F7RRaxAbR51zLjKGw==:20181012131400,54C57AADF598,183.93.146.195,20181012131400,10000100000000050000000002172002,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321097&from=1&hms_devid=3563
-#EXTINF:-1 group-title="国内,#genre#",CCTV-8
-http://111.40.205.87/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧
 http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-8
-http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-9
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视",CCTV-9纪录
 http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-9
-http://112.17.40.140/PLTV/88888888/224/3221226561/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-10
-http://39.135.36.151:18890/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133
-#EXTINF:-1 group-title="国内,#genre#",CCTV-10
-http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-10
-http://112.17.40.140/PLTV/88888888/224/3221226199/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-10
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视",CCTV-10科教
 http://112.17.40.140/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-11
-http://39.135.36.151:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039598
-#EXTINF:-1 group-title="国内,#genre#",CCTV-12
-http://39.135.36.156:18890/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034641
-#EXTINF:-1 group-title="国内,#genre#",CCTV-12
-http://39.135.36.153:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169
-#EXTINF:-1 group-title="国内,#genre#",CCTV-12
-http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-12
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲
+http://39.135.34.157:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="13" tvg-name="CCTV12" group-title="央视",CCTV-12社会与法
 http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-12
-http://112.17.40.140/PLTV/88888888/224/3221226563/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-14
-http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-14
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV-13新闻
+http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视",CCTV-14少儿
 http://112.17.40.140/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-14
-http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",CCTV-15
-http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
+http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业
+http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="央视",CCTV4K
+http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226569/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖南卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225892/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+http://112.17.40.140/PLTV/88888888/224/3221226551/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-id="30" tvg-name="北京卫视" group-title="卫视",北京卫视
+http://112.17.40.140/PLTV/88888888/224/3221226545/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="卫视",东方卫视
+http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-id="33" tvg-name="广东卫视" group-title="卫视",广东卫视
+http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-id="34" tvg-name="深圳卫视" group-title="卫视",深圳卫视
+http://112.17.40.140/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="36" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
+http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-id="40" tvg-name="重庆卫视" group-title="卫视",重庆卫视
+http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" tvg-id="46" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
+http://112.17.40.140/PLTV/88888888/224/3221226492/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-id="48" tvg-name="湖北卫视" group-title="卫视",湖北卫视
+http://112.17.40.140/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳及国外",凤凰卫视香港台
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-id="412" tvg-name="HKS" group-title="港澳及国外",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视" group-title="港澳及国外",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="国内,#genre#",湖南电影
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=005&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226547/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226494/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225966/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",湖北卫视HD
-http://101.71.255.229:6610/zjhs/2/10022/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10022&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=6DNXOHND72T9QOMVCFSTFGEYNB1L&ts=1553493822
-#EXTINF:-1 group-title="国内,#genre#",浙江卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226551/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",浙江卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225899/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",浙江卫视HD
-http://39.134.134.113:80/wh7f454c46tw359378752_127683947/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsacfzh9FqgMc5bSEXTnNnsDixKdRditpbz54jbxKoJXkw==:20181012132346,54C57AADF598,183.93.146.195,20181012132346,10000100000000050000000002172165,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321409&from=1&hms_devid=3363
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226581/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225887/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",东方卫视HD
-http://39.134.134.114:80/wh7f454c46tw1139762244_1116759023/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZYWvKCT4/YpVkbKoZRTRNAiiFFv9oQn5RopIw3TiunxA==:20181012132411,54C57AADF598,183.93.146.195,20181012132411,10000100000000050000000002172024,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321709&from=1&hms_devid=3363
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226567/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",江苏卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225885/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",北京卫视HD
-http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=003&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",北京卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226545/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",北京卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226164/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",北京卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226583/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",北京卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225975/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226182/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226488/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",天津卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225960/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226543/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226486/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",深圳卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225967/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226408/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226585/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",广东卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225893/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
-http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",辽宁卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225888/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=006&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225968/3.m3u8
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226492/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226555/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",黑龙江卫视HD
-http://101.71.255.229:6610/zjhs/2/10020/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10020&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=H40M3CJ8RNTPG6IDYQ9P0JNXIFSS&ts=1553493934
-#EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
-http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
-https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8
-#EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
-http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",重庆卫视HD
-http://118.123.60.84:8006/syhjcms_hls/10000100201705020000001000000009
-#EXTINF:-1 group-title="国内,#genre#",东南卫视HD
-http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",东南卫视HD
-http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="国内,#genre#",东南卫视HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225961/3.m3u8
 #EXTINF:-1 group-title="HK,#genre#",鳳凰中文
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="HK,#genre#",鳳凰中文
