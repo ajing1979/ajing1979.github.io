@@ -1,4 +1,4 @@
-MTV,#genre#
+MTV
 毛不易 Ⅰ 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
 毛不易 Ⅰ 不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
 毛不易 Ⅰ 消愁,https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
@@ -80,7 +80,7 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 金莎 Ⅰ 星月神话,http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06A25D70855.mp4
 李玉刚 Ⅰ 梦回诛仙,http://220.194.238.104/13/y/c/k/c/yckcjlqfbusmaeslsffhfvajlmxoqt/hd.yinyuetai.com/21D6016E026639F9174363E4B2EB78AC.mp4?sc=7c7e0152a3a80191
 乔玲二 Ⅰ 你走进了我的心房,http://220.194.238.108/13/t/k/c/c/tkccjkpcpjtpdkcqvwbfznzhrtezsa/hc.yinyuetai.com/1E57016ABB574354709C08D37DD47091.mp4
-国内,#genre#
+国内
 CCTV 4K,http://117.148.187.56/PLTV/88888888/224/3221226758/index.m3u8?icpid=88888888&from=5&ocs=2_117.148.187.40_80&hms_devid=373,1641&online=1574401712&vqe=3
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 BestTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
@@ -206,12 +206,6 @@ CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 黑龙江卫视HD,http://112.17.40.140/PLTV/88888888/224/3221226492/index.m3u8
 黑龙江卫视HD,http://112.17.40.140/PLTV/88888888/224/3221226555/index.m3u8
 黑龙江卫视HD,http://101.71.255.229:6610/zjhs/2/10020/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10020&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=H40M3CJ8RNTPG6IDYQ9P0JNXIFSS&ts=1553493934
-重庆卫视HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-重庆卫视HD,https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8
-重庆卫视HD,http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
-重庆卫视HD,http://118.123.60.84:8006/syhjcms_hls/10000100201705020000001000000009
-东南卫视HD,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-东南卫视HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
 东南卫视HD,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225961/3.m3u8
 武汉综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉电视,http://stream.appwuhan.com/2tzb/sd/live.m3u8
@@ -226,207 +220,7 @@ CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 公共新闻,http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
 荆州新闻,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
 荆州垄上,http://33058.hlsplay.aodianyun.com/guangdianyun_33058/tv_channel_325.m3u8
-网课,#genre#
-腾讯初二,,ttps://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
-腾讯初三,,ttps://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
-作业帮初二,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
-作业帮初三,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
-初二语文1,https://charge.zuoyebang.cc/record_9d333e37eaaf0e9b2630a58549a7ac00.mp4
-初二语文2,https://charge.zuoyebang.cc/record_9a81f21d5213c69c6fedc7269f478252.mp4
-初二语文3,https://charge.zuoyebang.cc/record_14d85f5518ddabdbe49a9810abddb960.mp4
-初二语文4,https://charge.zuoyebang.cc/record_2c35d65be15929130a35a4adad84349e.mp4
-初二语文5,https://charge.zuoyebang.cc/record_df515b2f6b0a8a0b2f085c1754c3b78b.mp4
-初二语文6,https://charge.zuoyebang.cc/record_0e80d6b11a902dc8a8bb0b81568123e4.mp4
-初二语文7,https://charge.zuoyebang.cc/record_647c30dcc80a7a9d74996ea643f25044.mp4
-初二英语1,https://charge.zuoyebang.cc/record_005603d0e9b43710dabf82f648a53bbd.mp4
-初二英语2,https://charge.zuoyebang.cc/record_8bec6e1f1f5341fd0d9fca9ed7b55843.mp4
-初二英语3,https://charge.zuoyebang.cc/record_38c40cbbfbf72ced9bf110a7eee6dc68.mp4
-初二英语4,https://charge.zuoyebang.cc/record_de05c93da62888bcb704cbcea9f8ecb2.mp4
-初二英语5,https://charge.zuoyebang.cc/record_012557ac4f3b050fcca197ff4427c5a5.mp4
-初二英语6,https://charge.zuoyebang.cc/record_9299f1fa5ae5ce0b1fcf740c5c316f44.mp4
-初二英语7,https://charge.zuoyebang.cc/record_06da79f5500425ad38a87938de119162.mp4
-初二数学1,https://charge.zuoyebang.cc/record_49097978a68a7e5f89f3edbf52460321.mp4
-初二数学2,https://charge.zuoyebang.cc/record_c4b3456f287ab48216ab94b7a26368f0.mp4
-初二数学3,https://charge.zuoyebang.cc/record_7c14926c8ea52e6df97ae9628386b85e.mp4
-初二数学5,https://charge.zuoyebang.cc/record_23d14fdf44e21bbcf3d6f744079d5a65.mp4
-初二数学6,https://charge.zuoyebang.cc/record_151bb26a0598b9d81d6cf75eaa7092fb.mp4
-初二数学7,https://charge.zuoyebang.cc/record_a9de1a8d8d65c6f64bc3758d2b6c0484.mp4
-初二物理1,https://charge.zuoyebang.cc/record_76338be9b3cf6d0d1972f40eab073e3c.mp4
-初二物理2,https://charge.zuoyebang.cc/record_8c97b553426d7e4b602973d9922f541f.mp4
-初二物理3,https://charge.zuoyebang.cc/record_0f49089fb89e48c3e324dec003d24a00.mp4
-初二物理4,https://charge.zuoyebang.cc/record_8c201cccc00b2c8309e9049fcb4c914e.mp4
-初二物理5,https://charge.zuoyebang.cc/record_6abfcbf25a733b68cc41f339e706958d.mp4
-初二实验2,https://charge.zuoyebang.cc/record_8abc9333451362f69ef3b64d87ea482d.mp4
-初二实验3,https://charge.zuoyebang.cc/record_b5eb663f587e18bfa00000606e2d0b87.mp4
-初二实验4,https://charge.zuoyebang.cc/record_6bccd87c5c4ac16d3ad35a3e68f0033c.mp4
-初二实验5,https://charge.zuoyebang.cc/record_34fd6d849a44d196b781526474cbeefb.mp4
-初二实验6,https://charge.zuoyebang.cc/record_18a8d8f12998ea658affa5ab200cd24b.mp4
-初三英语1,https://charge.zuoyebang.cc/record_4f9f0c9e4e5486997e2d4edd4c0cba6c.mp4
-初三英语2,https://charge.zuoyebang.cc/record_13011ec8eb1cce187643c3aa840755b6.mp4
-初三英语3,https://charge.zuoyebang.cc/record_d5cec177c52e7aa9d8c98401817fd0c5.mp4
-初三英语4,https://charge.zuoyebang.cc/record_a16e87d9d25e559a9d725d009742969d.mp4
-初三英语5,https://charge.zuoyebang.cc/record_de1e0c40fe66fd42efee72a38ff16648.mp4
-初三英语6,https://charge.zuoyebang.cc/record_da6e18fd128460ea48aacccbdef32afb.mp4
-初三英语7,https://charge.zuoyebang.cc/record_9a7e5fb64c2221e86b82a539046b8168.mp4
-初三数学1,https://charge.zuoyebang.cc/record_46416811cd918fd535d488037bc8bd14.mp4
-初三数学2,https://charge.zuoyebang.cc/record_97e06b8e801ff79057bd208bea05a8ac.mp4
-初三数学3,https://charge.zuoyebang.cc/record_14dad5c919762558745dfdf224044f58.mp4
-初三数学4,https://charge.zuoyebang.cc/record_c75e25f0b230887b9cc3f95a699e62b2.mp4
-初三数学5,https://charge.zuoyebang.cc/record_a15bb35e4a6653c58f117bed02001af6.mp4
-初三数学6,https://charge.zuoyebang.cc/record_734d39ca7593895127e239d86bd28631.mp4
-初三数学7,https://charge.zuoyebang.cc/record_cbd7f99077b4b518aaf664d8d980c6ba.mp4
-初三语文1,https://charge.zuoyebang.cc/record_d1b4ae3f9495e4453e25bf4310284013.mp4
-初三语文2,https://charge.zuoyebang.cc/record_3bfcee26cafc60fc10aa355648403612.mp4
-初三语文3,https://charge.zuoyebang.cc/record_d50392519b852632a18fefb2c93ea4ff.mp4
-初三语文4,https://charge.zuoyebang.cc/record_0a414cbdcc0eb044c02f33bec1e9a66e.mp4
-初三语文5,https://charge.zuoyebang.cc/record_9d101a381de02c9ae5edad2fbe298d35.mp4
-初三语文6,https://charge.zuoyebang.cc/record_7a71522f8d6f6491dc00d0f99f4316d6.mp4
-初三语文7,https://charge.zuoyebang.cc/record_37c21ec72279b88be2ca22f35fa86fd3.mp4
-初三化学1,https://charge.zuoyebang.cc/record_bc0c02eaf03655424ca890e8b731543d.mp4
-初三化学2,https://charge.zuoyebang.cc/record_245219645579fbb411688b9ade619782.mp4
-初三化学3,https://charge.zuoyebang.cc/record_cfdd5cdbb6e1b36578f660beca72cec9.mp4
-初三化学4,https://charge.zuoyebang.cc/record_15875a33132d585e13843d8f1ec55f90.mp4
-初三化学5,https://charge.zuoyebang.cc/record_71a9e3dc623d9e44eac43b0f46868af3.mp4
-初三化学6,https://charge.zuoyebang.cc/record_1513469a7ed29f0cc15b3df1648210a4.mp4
-初三物理1,https://charge.zuoyebang.cc/record_107990582e64c7ac9d17aea36a27f2f5.mp4
-初三物理2,https://charge.zuoyebang.cc/record_7526d9fd787291372b7520e6164685a4.mp4
-初三物理3,https://charge.zuoyebang.cc/record_07790cba532d3064f1d12d2b57ca837b.mp4
-初三物理4,https://charge.zuoyebang.cc/record_96180d260edfebf4abe00726f8b3237e.mp4
-初三物理5,https://charge.zuoyebang.cc/record_6a36cc173ebbb79f7837ecf06a6440bf.mp4
-初三物理6,https://charge.zuoyebang.cc/record_5c2ac4550f1d89c91bfa1e7a77b1cac8.mp4
-初三家长课1,https://charge.zuoyebang.cc/record_5c2cebe2d63fdf0d8054b64051adaaf9.mp4
-作业帮直播课导学,https://charge.zuoyebang.cc/record_18fa09f50b6087a88fbfb4fd1522c67c.mp4
-高一数学1,https://charge.zuoyebang.cc/record_efd07ff8dde313b25c65d4ad639a54b3.mp4
-高一数学2,https://charge.zuoyebang.cc/record_45351f3279e96ccdc954a407abe2132a.mp4
-高一数学3,https://charge.zuoyebang.cc/record_5eed893021fbec27e96786f6cfdf6fa5.mp4
-高一数学4,https://charge.zuoyebang.cc/record_66c25ab375db799dd29009719c62cf5a.mp4
-高一数学5,https://charge.zuoyebang.cc/record_5db78ac08c0ca478615dc2d62a5e0377.mp4
-高一数学6,https://charge.zuoyebang.cc/record_ea35a412bb6dbedfb0e99e821db81aa7.mp4
-高一数学7,https://charge.zuoyebang.cc/record_09901223755ddff933c34a7c8c4026d9.mp4
-高一语文1,https://charge.zuoyebang.cc/record_95c35230a06b35aa812392a9d74f0f03.mp4
-高一语文2,https://charge.zuoyebang.cc/record_c72a1941decd34aef4a8a3603ce436e4.mp4
-高一语文3,https://charge.zuoyebang.cc/record_e25280069f5837339afecc69360449be.mp4
-高一语文4,https://charge.zuoyebang.cc/record_fe1eb12aa28bf9adbb13195a6ffe5ae0.mp4
-高一语文5,https://charge.zuoyebang.cc/record_057f7235b64300448b8d1e70b1bc2ff3.mp4
-高一语文6,https://charge.zuoyebang.cc/record_1b87a2dacc6e7a02201ab547654d8269.mp4
-高一语文7,https://charge.zuoyebang.cc/record_160469487c71f062ccb1e0dd839d06f9.mp4
-高一英语1,https://charge.zuoyebang.cc/record_6cc58aa6b4cce5df80891992d10cbfda.mp4
-高一英语2,https://charge.zuoyebang.cc/record_93fd44d519ea85814e825718cfd3e911.mp4
-高一英语3,https://charge.zuoyebang.cc/record_fc30994e46fe2dcd377bb008761ebebb.mp4
-高一英语4,https://charge.zuoyebang.cc/record_2bb71e09f70ff58764f665a74daa1969.mp4
-高一英语5,https://charge.zuoyebang.cc/record_c9b2a0a91073dac682933a5580698d3d.mp4
-高一英语6,https://charge.zuoyebang.cc/record_df72999b42846d7d1ef1e11014bc4f06.mp4
-高一英语7,https://charge.zuoyebang.cc/record_8b94437852ec44a51126d113569a9efb.mp4
-高一物理1,https://charge.zuoyebang.cc/record_882ae993307f9fe5e23221e5533d3ebb.mp4
-高一物理2,https://charge.zuoyebang.cc/record_cea7d1923822a9a96949a5d3ffab2848.mp4
-高一物理3,https://charge.zuoyebang.cc/record_d05c5273ed54d5f7e6da116a18d2336d.mp4
-高一物理5,https://charge.zuoyebang.cc/record_1b4d8b346e9bc4a5a22d1829c956d72a.mp4
-高一物理6,https://charge.zuoyebang.cc/record_c80de590b66e26fee71a2fde241f78d5.mp4
-高一化学1,https://charge.zuoyebang.cc/record_383bdd6cf9170943b09dd29723f8872a.mp4
-高一化学2,https://charge.zuoyebang.cc/record_15ea71ed32307833fb90f66f614e9067.mp4
-高一化学3,https://charge.zuoyebang.cc/record_bc61a97b28f6e62aae753f02812c1639.mp4
-高一化学4,https://charge.zuoyebang.cc/record_6e7257f2306f29d4397bc5f4addde473.mp4
-高一化学5,https://charge.zuoyebang.cc/record_13d0d52f010bb12e37a320a408284735.mp4
-高一化学6,https://charge.zuoyebang.cc/record_e1b6da67109ae60a0e5080b6a764c129.mp4
-高一生物1,https://charge.zuoyebang.cc/record_8ea97140f650ff504328ceded3cf9f01.mp4
-高一生物2,https://charge.zuoyebang.cc/record_58901cc6e65d9cff4db9127e3d958aac.mp4
-高一生物3,https://charge.zuoyebang.cc/record_5ba0f809c9fa55934075f70740381fee.mp4
-高一生物5,https://charge.zuoyebang.cc/record_e051f5414a4e0bd29341de42cb7e1451.mp4
-高一地理1,https://charge.zuoyebang.cc/record_ead23db95dccc76c211dc38595365604.mp4
-高一地理2,https://charge.zuoyebang.cc/record_02f68c3aa1f2fce91fe93cc697d9665f.mp4
-高一地理3,https://charge.zuoyebang.cc/record_6b829728c95ceed72dbe26611332053f.mp4
-高一政治1,https://charge.zuoyebang.cc/record_b66603bc1d1c53a7205214485120c61c.mp4
-高一政治2,https://charge.zuoyebang.cc/record_93d721c872a9c6c75482929bff9333bd.mp4
-高一历史1,https://charge.zuoyebang.cc/record_c4c1c738ad23bd584c4736e587e035e7.mp4
-高一历史2,https://charge.zuoyebang.cc/record_92cec72fbddf83338f996885de1b14e1.mp4
-高二数学1,https://charge.zuoyebang.cc/record_41b1bbfee7524d2458df5d1edb208e94.mp4
-高二数学2,https://charge.zuoyebang.cc/record_11ed6637cb5917c63b4ae30d8d9ac3d4.mp4
-高二数学3,https://charge.zuoyebang.cc/record_eb853c6189a74052329bc354ce18cd89.mp4
-高二数学4,https://charge.zuoyebang.cc/record_e9db288cb44f86f0b2dcccfdbc6402a0.mp4
-高二数学5,https://charge.zuoyebang.cc/record_8f227509813d762e4f25e9b838b563aa.mp4
-高二数学6,https://charge.zuoyebang.cc/record_79be17c1bbb40a7e47b4d163c7d8146b.mp4
-高二数学7,https://charge.zuoyebang.cc/record_20d377a1381671182035f23e02ea48be.mp4
-高二语文1,https://charge.zuoyebang.cc/record_0df7d0850cabcace912932f0afd89948.mp4
-高二语文2,https://charge.zuoyebang.cc/record_9a1c3d15969a9c8d41e155ca42a6f909.mp4
-高二语文3,https://charge.zuoyebang.cc/record_3a76849b4c768f06731651ff3e66d643.mp4
-高二语文4,https://charge.zuoyebang.cc/record_91789a428a6d846dd287f2659b2872a5.mp4
-高二语文5,https://charge.zuoyebang.cc/record_f4cace8e6db44b0251b571b68cd12999.mp4
-高二语文6,https://charge.zuoyebang.cc/record_653af55577f29a38262ff90b638f162d.mp4
-高二语文7,https://charge.zuoyebang.cc/record_987c1ace51467b5959a447eec31ae0d9.mp4
-高二英语2,https://charge.zuoyebang.cc/record_501127ba1e291e2da33ecb0ad8a17b49.mp4
-高二英语3,https://charge.zuoyebang.cc/record_e9b21a832083a8059a9aa4b3a79e66bd.mp4
-高二英语4,https://charge.zuoyebang.cc/record_69481283dbf37ca6be8b61c6472f88f6.mp4
-高二英语5,https://charge.zuoyebang.cc/record_718a92e0e18b71185e1364c8aece1079.mp4
-高二英语6,https://charge.zuoyebang.cc/record_835add6974d91405d47bc4221402a7cc.mp4
-高二英语7,https://charge.zuoyebang.cc/record_aa6d9420ff3c49bdddcfcec52d0bf653.mp4
-高二物理1,https://charge.zuoyebang.cc/record_b339367390f562537148e5d2ecbf9bf8.mp4
-高二物理2,https://charge.zuoyebang.cc/record_a300804c2a446da95b180914ab50acda.mp4
-高二物理3,https://charge.zuoyebang.cc/record_c26cd6c7e6d6a3c6044162c71fc69b1d.mp4
-高二物理4,https://charge.zuoyebang.cc/record_97d1e38b06064b7760eb406bbb6f90f0.mp4
-高二物理5,https://charge.zuoyebang.cc/record_e7ac8ca7a6c7ab175f73dd19325410e8.mp4
-高二物理6,https://charge.zuoyebang.cc/record_fca26a07545e7ce3f29759b662bedf07.mp4
-高二化学1,https://charge.zuoyebang.cc/record_9c5e5f29cf42f132d1ee5f24bad119df.mp4
-高二化学2,https://charge.zuoyebang.cc/record_924cc421632d0af2360e46f272b5dbc0.mp4
-高二化学3,https://charge.zuoyebang.cc/record_22005b3013271768995fa7f47f016c23.mp4
-高二化学4,https://charge.zuoyebang.cc/record_5dd6907b2c7c4188aa3762ed78f532fd.mp4
-高二化学5,https://charge.zuoyebang.cc/record_a9e82e404dbe2e2701c6a9f57d6acad0.mp4
-高二化学6,https://charge.zuoyebang.cc/record_364763b29795cf25385f327ea2a5595e.mp4
-高二生物1,https://charge.zuoyebang.cc/record_cd3a81a8adfd2235a46e63c4b62b6d18.mp4
-高二生物2,https://charge.zuoyebang.cc/record_ead2459b9b3bad20fa847606768bee3b.mp4
-高二生物3,https://charge.zuoyebang.cc/record_df11031079f6c364ea1163a2b64c7966.mp4
-高二生物4,https://charge.zuoyebang.cc/record_617b574a7c55cb65dd8ceb2805ba8ae7.mp4
-高二政治2,https://charge.zuoyebang.cc/record_19f1d4a7187592a2a59e5af05adad5cb.mp4
-高二地理1,https://charge.zuoyebang.cc/record_b022d09c9aba13f7c63912e74f6643b0.mp4
-高二地理2,https://charge.zuoyebang.cc/record_f516570d6985396b86b4ccbace126fe5.mp4
-高二地理3,https://charge.zuoyebang.cc/record_1dc0c702f40fe7aa7dc48a68a3e11b1b.mp4
-高二地理4,https://charge.zuoyebang.cc/record_3e6779c646b69c2da6a3ee1b92eb9c16.mp4
-高二历史1,https://charge.zuoyebang.cc/record_557c99d0f04ba98c3e40f0e278d23821.mp4
-高二历史2,https://charge.zuoyebang.cc/record_5f302a88c533bf0448c9d91d4b38856d.mp4
-高三数学1,https://charge.zuoyebang.cc/record_26c088922bd2ef7a8b4c2574028c363e.mp4
-高三数学2,https://charge.zuoyebang.cc/record_e24a51e2707d13e83cf2be0ec758f5ed.mp4
-高三数学3,https://charge.zuoyebang.cc/record_d2599be53cb8da25dee4ac42f014f04d.mp4
-高三数学4,https://charge.zuoyebang.cc/record_5c68752413fefc64334b79656017abee.mp4
-高三数学5,https://charge.zuoyebang.cc/record_91d0fa5fd093d5b8ba4bb3d689f4c2bd.mp4
-高三数学6,https://charge.zuoyebang.cc/record_717dec80c2307f9b650fe44d28299c23.mp4
-高三数学7,https://charge.zuoyebang.cc/record_1d756a80c12e3dcab33a0d95f7bb9ba3.mp4
-高三语文1,https://charge.zuoyebang.cc/record_88c09a55ca41c3b55406034cde9357c8.mp4
-高三语文2,https://charge.zuoyebang.cc/record_5cd7b16bac9af747b313c549259c6231.mp4
-高三语文3,https://charge.zuoyebang.cc/record_6ffadd298428d984851cdffc8092a08f.mp4
-高三语文4,https://charge.zuoyebang.cc/record_2f6a1ada2511d99eae10b7c0c50fdc80.mp4
-高三语文5,https://charge.zuoyebang.cc/record_3651ee2dae3173253539e80f5f773fe5.mp4
-高三语文6,https://charge.zuoyebang.cc/record_c1042dbc85d44c387f922ff7734cbbcb.mp4
-高三语文7,https://charge.zuoyebang.cc/record_f9e79be2961c8ce5c0952fbe899fe69f.mp4
-高三英语1,https://charge.zuoyebang.cc/record_54d88e6cbc7b1083578c9fecf5410f63.mp4
-高三英语2,https://charge.zuoyebang.cc/record_5d7d439ca7896bce9507caecc875ccb9.mp4
-高三英语3,https://charge.zuoyebang.cc/record_6b82b634f48fd77f8286664d6ff64039.mp4
-高三英语4,https://charge.zuoyebang.cc/record_e692ffeca6a9f72fe1c719e403b49eb3.mp4
-高三英语5,https://charge.zuoyebang.cc/record_5ee23e7da6d8f2cad7c634c93c73a45d.mp4
-高三英语7,https://charge.zuoyebang.cc/record_fb042addb1086bd955bff75f36ff9bc3.mp4
-高三物理1,https://charge.zuoyebang.cc/record_36c89e6d0aa8842a0d3275c4173ab35d.mp4
-高三物理2,https://charge.zuoyebang.cc/record_dfe6941f6b9488aedaa9ba40688f2cc4.mp4
-高三物理3,https://charge.zuoyebang.cc/record_691e3a173e1e8732f80719508022a92d.mp4
-高三物理4,https://charge.zuoyebang.cc/record_3907436405734b79f2b1f22d0922e6a4.mp4
-高三物理5,https://charge.zuoyebang.cc/record_ff9279f7a951f59ae576e4c2ff097293.mp4
-高三物理6,https://charge.zuoyebang.cc/record_bc6cce5f730e48d9e15b591581009acb.mp4
-高三化学1,https://charge.zuoyebang.cc/record_9ea36f8c474a0f101d52486b616cdf53.mp4
-高三化学2,https://charge.zuoyebang.cc/record_f6a4382f9df4746a8071a6b000bcd076.mp4
-高三化学3,https://charge.zuoyebang.cc/record_ca8b43b0974a9f47bcb4aa1a96242e1d.mp4
-高三化学4,https://charge.zuoyebang.cc/record_1bad7380ea4e3ea5e44b997b23ea13a4.mp4
-高三化学5,https://charge.zuoyebang.cc/record_174bc01c76aaa80f4bc29f3b11ae944f.mp4
-高三化学6,https://charge.zuoyebang.cc/record_bbcd1a0c3be102e8b8189e3221ffa7f8.mp4
-高三生物1,https://charge.zuoyebang.cc/record_bf53c3ec79abcb02ac6c3f8a6ed4a673.mp4
-高三生物2,https://charge.zuoyebang.cc/record_bdd14cb0d90621c124b913aca0f0721e.mp4
-高三生物3,https://charge.zuoyebang.cc/record_2a874868eb734a754085c5a71cfd27d3.mp4
-高三生物4,https://charge.zuoyebang.cc/record_34d9dd0d2c3bdab37ae893e6e863debd.mp4
-高三生物5,https://charge.zuoyebang.cc/record_c07a2b7142ddad87ed0c5a1fddee24aa.mp4
-高三地理1,https://charge.zuoyebang.cc/record_32b6641942e7b6401b387ba1b751f75d.mp4
-高三地理2,https://charge.zuoyebang.cc/record_6ce12c9ff05adf52108139d3036caa36.mp4
-高三历史1,https://charge.zuoyebang.cc/record_d40ef4840d8a712e42d658dc3ec98e9c.mp4
-高三历史2,https://charge.zuoyebang.cc/record_34ec6b90c6b284162f3293b79e08d675.mp4
-高三历史3,https://charge.zuoyebang.cc/record_d9837dac651917b589dbe5014f6c0e8f.mp4
-高三政治1,https://charge.zuoyebang.cc/record_f7c40171c141526384b67de9865243b5.mp4
-高三政治2,https://charge.zuoyebang.cc/record_30d27e82efa968c5be825bab0efc909e.mp4
-港台,#genre#
+港台
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
@@ -490,13 +284,7 @@ BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 TVB 星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 华视无线,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
-星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
- 大爱一台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
-大爱二台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
-中天综合,http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
@@ -987,7 +775,7 @@ FOX體育3,vjms://121.14.222.77:8500/live/cid=95
 FOX电影,vjms://121.14.222.77:8500/live/cid=94
 BBC,vjms://121.14.222.77:8500/live/cid=418
 CNN,vjms://121.14.222.77:8500/live/cid=428
-新聞/News,#genre#
+新聞/News
 CNN_國際,tvbus://3TzruULpqcD5bjBjWBmUY4UdqH8eboy88JrU4LgXJHsqoJBdbq
 SKY_NEWS,tvbus://49PQ4VKSjCzQnfhcSmRJaXhfpymuTJSjBhZbKN6NXqAnWXdiCn
 壹電視新聞臺,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw
@@ -1049,7 +837,7 @@ BIG_Magic_HD,p8p://0198.02686.cc:16871/5d3306dd000b7c0f3e2c3bdbaa2c7e3c.ts
 NET25,tvbus://3tiU86b5feNpReNSqr99ktNJwxwjaWr9xdsWPXBSjZ3iCAf2Di
 DZRHNEWS,tvbus://4ZyQav4Npodi8DZ7TZLeGa5ahqo5MzktuCrQUUtw9MWvnGFbKS
 CGTN,tvbus://12WRKUDF1FLsaY1NEYMDtc6X64evVFFsxWwsebMBCC34e1NzBdV
-电影/Movies,#genre#
+电影/Movies
 愛爾達影劇臺,tvbus://4XaXTY5KrLbztAaGsyLAStwtuMBdsKBKVzWoMGf6xxifh42rnm
 東森戲劇_HD,tvbus://48YdGGajPQbNsDGt7jePrtPkm13fqKxecE4L3n7LPernZnBCHg
 八大戲劇,tvbus://4QUUE7V9TAw3qdn4kUQHhgSoHsTtExD7gvgtFQJocaDS53g5HG
@@ -1142,7 +930,7 @@ BTV,tvbus://1c9tfdXEawZLDRvp64ym9gYRW1pF3MG8nmHENFfPHBWAtVHtAq
 TVK,tvbus://4ocBZjKeyokUg6HT8fCwJbtZTeNLfJ9izgkwuLtW16xK7M298Z
 CTV9,tvbus://36V8Vj6Ysr3a8UqoG9U3xv7ZEN7ES7EW3XvJdq5cWBTbwWJ1Ke
 bayontv,tvbus://1Ma2Bdus5cJnr9MmkVANMvyBZE8S2UV7VG2Bjse319iV6YyegH
-港台p2p,#genre#
+港台p2p
 澳门莲花卫视,P2p://lino.homeunix.com:6007/5acb8740000253a62c1307843e7c4bc3.ts
 TVBS新闻台 HD,P2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 三立新闻,P2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
@@ -1207,104 +995,77 @@ DW-TV,P2p://lino.homeunix.com:6007/59fd139d000070db026118a63259113d.ts
 TV5,P2p://lino.homeunix.com:6007/59fd1365000b6205026040b545ac325b.ts
 Ci罪案侦缉 HD,P2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
 亚洲美食 HD,P2p://lino.homeunix.com:6007/59fd27e40007382002b04fb323e85206.ts
-轮播,#genre#
+轮播
 倒霉熊,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_daomeixiong_720p_t10/c20_lb_daomeixiong_720p_t10.m3u8?wshc_tag=0&wsts_tag=5e02f3e7&wsid_tag=78eb7986&wsiphost=ipdbm
 爆笑虫子,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c19_lb_baoxiaochongzi_720p_t10/c19_lb_baoxiaochongzi_720p_t10.m3u8?wshc_tag=0&wsts_tag=5e02f0ca&wsid_tag=78eb7986&wsiphost=ipdbm
 多啦A梦,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c18_lb_duolaameng_720p_t10/c18_lb_duolaameng_720p_t10.m3u8
 名侦探柯南,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
-iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
-iHOT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱科幻,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
-iHOT爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱世界,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-iHOT爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 高清HD大众影视（移动）,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
 高清HD家庭剧场（移动）,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
 高清HD家庭影院（移动）,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 高清HD卡通剧场（移动）,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-【NewTV】古装剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
-【NewTV】动作电影 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
-【NewTV】動作電影HD[1280*720],http://gslbserv.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7951969344461271832
-【NewTV】军旅剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
-【NewTV】家庭剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
-【NewTV】惊悚悬疑 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
-【NewTV】驚悚懸疑HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=7951969344461309585
-Newtv-惊悚悬疑,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
-【NewTV】海外剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
-【NewTV】海外劇場[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347
-Newtv-海外剧场,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
-【NewTV】搏击 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
-【NewTV】搏擊[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=7951969344461425531
-Newtv-搏击,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
-【NewTV】明星大片 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
-【NewTV】明星大片HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
-【NewTV】爱情喜剧 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
-【NewTV】愛情喜劇[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826
-【NewTV】精品大剧 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
-【NewTV】精品大劇HD[1280*720],http://gslbserv.itv.cmvideo.cn:80/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=7951969344461789021
-【NewTV】中国功夫 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
-【NewTV】中國功夫[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
-【NewTV】金牌综艺 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
-【NewTV】金牌綜藝HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7951969344461811424
-【NewTV】军事评论 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
-【NewTV】軍事評論[720*404],http://gslbserv.itv.cmvideo.cn:80/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5822616274253344775&owchid=ystenlive&owsid=7951969344461854480
-【NewTV】农业致富 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8
-【NewTV】農業致富[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6193684637634073625&owchid=ystenlive&owsid=7951969344462094324
-【NewTV】精品记录 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
-【NewTV】精品紀錄HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=7951969344462219754
-Newtv-精品记录,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
-【NewTV】健康有约 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
-【NewTV】精品體育HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=7951969344462313166
-【NewTV】潮妈辣婆 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
-【NewTV】潮媽辣婆[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=7951969344462324357
-【NewTV】炫舞未来 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
-【NewTV】超级电影(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
-Newtv-超级电影,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-【NewTV】超级电视剧(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
-Newtv-超级电视剧,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
-【NewTV】超级体育(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
-【NewTV】超级综艺(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
-Newtv-超级综艺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-黑莓电影HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
-黑莓电影 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-黑莓动画 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
-黑莓动画HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
-黑莓动画,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
-黑莓电竞,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
-黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-香港电影,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+古装剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+古装剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+动作电影 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+動作電影HD[1280*720],http://gslbserv.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7951969344461271832
+军旅剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
+军旅剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+家庭剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
+家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+惊悚悬疑 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+惊梀悬疑,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+驚悚懸疑HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=7951969344461309585
+海外剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
+海外综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+海外劇場[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347
+搏击 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
+搏击,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
+搏擊[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=7951969344461425531
+明星大片 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
+明星大片,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
+明星大片HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
+爱情喜剧 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
+爱情喜剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+愛情喜劇[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8393829412396288037&owchid=ystenlive&owsid=7951969344461671826
+精品大剧 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
+精品大剧,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+精品大劇HD[1280*720],http://gslbserv.itv.cmvideo.cn:80/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=7951969344461789021
+中国功夫 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
+中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+中國功夫[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7951969344461800735
+金牌综艺 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+金牌综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+金牌綜藝HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7951969344461811424
+军事评论 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
+军事评论,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+軍事評論[720*404],http://gslbserv.itv.cmvideo.cn:80/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5822616274253344775&owchid=ystenlive&owsid=7951969344461854480
+精品记录 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
+精品记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+精品紀錄HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=7951969344462219754
+健康有约 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
+健康有约,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+炫舞未来 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+炫舞未来,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+超级电影(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
 超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+超级电视剧(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
+超级剧集,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+超级体育(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
+超级综艺(福州移动),http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
 超级综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 超级综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-超级剧集,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
-金牌综艺,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
-农业致富,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
-潮妈辣婆,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
-炫舞未来,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
-明星大片,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
-自由搏击,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
-海外综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
-惊梀悬疑,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
-爱情喜剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
-精品记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
-精品体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
-精品大剧,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-古装剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
-军旅剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
-军事评论,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
-健康有约,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
-家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
-动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+黑莓电影HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
+黑莓电影 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+黑莓动画 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
+黑莓动画,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+黑莓动画HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7951969344461242832
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -1371,241 +1132,33 @@ Newtv-超级综艺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/322122612
 爱奇艺_宫廷正剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
 爱奇艺_抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
 爱奇艺_热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
-FTV,#genre#
+Fashion
 FTV-L\'Original,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 FTV-巴黎,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-FTV-巴黎,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-FTV-巴黎,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
-FTV-巴黎,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
-FTV-巴黎,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 FTV-午夜秘密,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 FTV-午夜秘密,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 FTV-捷克&斯洛伐克,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 FTV-捷克&斯洛伐克,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FTV-MIDNITE,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 FTV-MIDNITE,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-FTV-PG13,http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 FTV-PG16,http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-FTV-WEEKS,http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_weeks_adaptive.smil/media.m3u8
-FTV-Destination,https://dev.ftv.com/m3u8/BOBF_Destination_S19E01/chunklist_Destination_S19E01_1024x576_YLNP.m3u8
 FTV-Destination,https://dev.ftv.com/m3u8/BOBF_Destination_S19E01/chunklist_Destination_S19E01_1080p@3.5mbit_UJHY.m3u8
-FTV-Teens,https://dev.ftv.com/m3u8/JKSZ_TEENS_S19E01/playlist.m3u8
-FTV-Teens,https://dev.ftv.com/m3u8/JKSZ_TEENS_S19E01/chunklist_TEENS_S19E01_1024x576_OVFU.m3u8
 FTV-Teens,https://dev.ftv.com/m3u8/JKSZ_TEENS_S19E01/chunklist_TEENS_S19E01_1080p@3.5mbit_JYVT.m3u8
-FTV-Kids,https://dev.ftv.com/m3u8/PJDT_Fashion_Kids_S19E01/playlist.m3u8
-FTV-Kids,https://dev.ftv.com/m3u8/PJDT_Fashion_Kids_S19E01/chunklist_Fashion_Kids_S19E01_1024x576_YRSI.m3u8
 FTV-Kids,https://dev.ftv.com/m3u8/PJDT_Fashion_Kids_S19E01/chunklist_Fashion_Kids_S19E01_1080p@3.5mbit_CMSU.m3u8
-FTV-F.Fitness | Top Models,https://dev.ftv.com/m3u8/YYRQ_Fashion_Fitness_S19E02_Top_Models/playlist.m3u8
-FTV-F.Fitness | Top Models,https://dev.ftv.com/m3u8/YYRQ_Fashion_Fitness_S19E02_Top_Models/chunklist_Fashion_Fitness_S19E02_Top_Models_1024x576_THNQ.m3u8
 FTV-F.Fitness | Top Models,https://dev.ftv.com/m3u8/YYRQ_Fashion_Fitness_S19E02_Top_Models/chunklist_Fashion_Fitness_S19E02_Top_Models_1080p@3.5mbit_UWFP.m3u8
-FTV-F.Fitness | Sportswear,https://dev.ftv.com/m3u8/5YNB_Fashion_Fitness_S19E01_Sportwear/playlist.m3u8
-FTV-F.Fitness | Sportswear,https://dev.ftv.com/m3u8/5YNB_Fashion_Fitness_S19E01_Sportwear/chunklist_Fashion_Fitness_S19E01_Sportwear_1024x576_EIDA.m3u8
 FTV-F.Fitness | Sportswear,https://dev.ftv.com/m3u8/5YNB_Fashion_Fitness_S19E01_Sportwear/chunklist_Fashion_Fitness_S19E01_Sportwear_1080p@3.5mbit_YGJD.m3u8
-FTV-Photographers | Glamour,https://dev.ftv.com/m3u8/RJAN_Photographers_S19E01_GLAMOUR/playlist.m3u8
-FTV-Photographers | Glamour,https://dev.ftv.com/m3u8/RJAN_Photographers_S19E01_GLAMOUR/chunklist_Photographers_S19E01_GLAMOUR_1024x576_WGTV.m3u8
 FTV-Photographers | Glamour,https://dev.ftv.com/m3u8/RJAN_Photographers_S19E01_GLAMOUR/chunklist_Photographers_S19E01_GLAMOUR_1080p@3.5mbit_SANW.m3u8
-FTV-Top Models | Fashion Films,https://dev.ftv.com/m3u8/RTOX_Top_Models_S19E02_Fashion_Films/playlist.m3u8
-FTV-Top Models | Fashion Films,https://dev.ftv.com/m3u8/RTOX_Top_Models_S19E02_Fashion_Films/chunklist_Top_Models_S19E02_Fashion_Films_1024x576_HWJQ.m3u8
 FTV-Top Models | Fashion Films,https://dev.ftv.com/m3u8/RTOX_Top_Models_S19E02_Fashion_Films/chunklist_Top_Models_S19E02_Fashion_Films_1080p@3.5mbit_UPKI.m3u8
-FTV-Top Models | Campaigns,https://dev.ftv.com/m3u8/ACQV_Top_Models_S19E01_Campaigns/playlist.m3u8
-FTV-Top Models | Campaigns,https://dev.ftv.com/m3u8/ACQV_Top_Models_S19E01_Campaigns/chunklist_Top_Models_S19E01_Campaigns_1024x576_TJFX.m3u8
 FTV-Top Models | Campaigns,https://dev.ftv.com/m3u8/ACQV_Top_Models_S19E01_Campaigns/chunklist_Top_Models_S19E01_Campaigns_1080p@3.5mbit_NGVZ.m3u8
-FTV-Beauty | Everyday MakeUP,https://dev.ftv.com/m3u8/VAWV_Beauty_S19E02_Everyday_makeup/playlist.m3u8
-FTV-Beauty | Everyday MakeUP,https://dev.ftv.com/m3u8/VAWV_Beauty_S19E02_Everyday_makeup/chunklist_Beauty_S19E02_Everyday_makeup_1024x576_DWNP.m3u8
 FTV-Beauty | Everyday MakeUP,https://dev.ftv.com/m3u8/VAWV_Beauty_S19E02_Everyday_makeup/chunklist_Beauty_S19E02_Everyday_makeup_1080p@3.5mbit_TBIO.m3u8
-FTV-Beauty | Campaigns,https://dev.ftv.com/m3u8/VJNJ_Beauty_S19E01_Campaigns/playlist.m3u8
-FTV-Beauty | Campaigns,https://dev.ftv.com/m3u8/VJNJ_Beauty_S19E01_Campaigns/chunklist_Beauty_S19E01_Campaigns_1024x576_ORWH.m3u8
 FTV-Beauty | Campaigns,https://dev.ftv.com/m3u8/VJNJ_Beauty_S19E01_Campaigns/chunklist_Beauty_S19E01_Campaigns_1080p@3.5mbit_SJDL.m3u8
-FTV-Brida | Fashion|Designers,https://dev.ftv.com/m3u8/MNVI_Bridal_Fashion_S19E02_Designers/playlist.m3u8
-FTV-Brida | Fashion|Designers,https://dev.ftv.com/m3u8/MNVI_Bridal_Fashion_S19E02_Designers/chunklist_Bridal_Fashion_S19E02_Designers_1024x576_FUIU.m3u8
 FTV-Brida l Fashion|Designers,https://dev.ftv.com/m3u8/MNVI_Bridal_Fashion_S19E02_Designers/chunklist_Bridal_Fashion_S19E02_Designers_1080p@3.5mbit_VGKO.m3u8
-FTV-Brida Fashion | Campaigns,https://dev.ftv.com/m3u8/Y68J_Bridal_Fashion_S19E01_Campaigns/playlist.m3u8
-FTV-Brida Fashion | Campaigns,https://dev.ftv.com/m3u8/Y68J_Bridal_Fashion_S19E01_Campaigns/chunklist_Bridal_Fashion_S19E01_Campaigns_1024x576_CXTQ.m3u8
 FTV-Brida Fashion | Campaigns,https://dev.ftv.com/m3u8/Y68J_Bridal_Fashion_S19E01_Campaigns/chunklist_Bridal_Fashion_S19E01_Campaigns_1080p@3.5mbit_UUFH.m3u8
-FTV-F-MEN | MAGAZINES,https://dev.ftv.com/m3u8/QFVV_F-Men_S19E02_Magazines/playlist.m3u8
-FTV-F-MEN | MAGAZINES,https://dev.ftv.com/m3u8/QFVV_F-Men_S19E02_Magazines/chunklist_F-Men_S19E02_Magazines_1024x576_MAAL.m3u8
-FTV-F-MEN | MAGAZINES,https://dev.ftv.com/m3u8/QFVV_F-Men_S19E02_Magazines/chunklist_F-Men_S19E02_Magazines_1280x720_VFJO.m3u8
-FTV-Films | Drama,https://dev.ftv.com/m3u8/BNRN_Fashion_Films_S19E02_Drama/playlist.m3u8
-FTV-Films | Drama,https://dev.ftv.com/m3u8/BNRN_Fashion_Films_S19E02_Drama/chunklist_Fashion_Films_S19E02_Drama_1024x576_UDWJ.m3u8
-FTV-Films | Drama,https://dev.ftv.com/m3u8/BNRN_Fashion_Films_S19E02_Drama/chunklist_Fashion_Films_S19E02_Drama_1280x720_NFOU.m3u8
-FTV-Films | Comedy,https://dev.ftv.com/m3u8/XMT5_Fashion_Films_S19E01_Comedy/playlist.m3u8
-FTV-Films | Comedy,https://dev.ftv.com/m3u8/XMT5_Fashion_Films_S19E01_Comedy/chunklist_Fashion_Films_S19E01_Comedy_1024x576_AMIT.m3u8
-FTV-Films | Comedy,https://dev.ftv.com/m3u8/XMT5_Fashion_Films_S19E01_Comedy/chunklist_Fashion_Films_S19E01_Comedy_1280x720_DBQZ.m3u8
-FTV-The Story of Philipp Plein,https://dev.ftv.com/m3u8/HKFM_PHILIPP_PLEIN_SPECIAL/playlist.m3u8
-FTV-The Story of Philipp Plein,https://dev.ftv.com/m3u8/HKFM_PHILIPP_PLEIN_SPECIAL/chunklist__1024x576_JCSJ.m3u8
-FTV-The Story of Philipp Plein,https://dev.ftv.com/m3u8/HKFM_PHILIPP_PLEIN_SPECIAL/chunklist__640x360_BUWC.m3u8
-FTV-The Story of Victoria\'s Secret,https://dev.ftv.com/m3u8/09B5_VICTORIAS_SECRET_SPECIAL/playlist.m3u8
-FTV-The Story of Victoria\'s Secret,https://dev.ftv.com/m3u8/09B5_VICTORIAS_SECRET_SPECIAL/chunklist__1024x576_MWCF.m3u8
-FTV-The Story of Victoria\'s Secret,https://dev.ftv.com/m3u8/09B5_VICTORIAS_SECRET_SPECIAL/chunklist__640x360_YIAJ.m3u8
-FTV-The Story of Agent Provocateur,https://dev.ftv.com/m3u8/FO79_AGENT_PROVOCATEUR_SPECIAL/playlist.m3u8
-FTV-The Story of Agent Provocateur,https://dev.ftv.com/m3u8/FO79_AGENT_PROVOCATEUR_SPECIAL/chunklist__1024x576_PGHM.m3u8
-FTV-The Story of Agent Provocateur,https://dev.ftv.com/m3u8/FO79_AGENT_PROVOCATEUR_SPECIAL/chunklist__640x360_UNKK.m3u8
-FTV-Pirelli Calendar Special,https://dev.ftv.com/m3u8/KLKW_PIRELLI_CALENDAR_SPECIAL/playlist.m3u8
-FTV-Pirelli Calendar Special,https://dev.ftv.com/m3u8/KLKW_PIRELLI_CALENDAR_SPECIAL/chunklist__1024x576_XMSA.m3u8
-FTV-Pirelli Calendar Special,https://dev.ftv.com/m3u8/KLKW_PIRELLI_CALENDAR_SPECIAL/chunklist__640x360_JJQR.m3u8
-FTV-The Story of LA Perla,https://dev.ftv.com/m3u8/HGSE_LA_PERLA_CALENDAR_SPECIAL/playlist.m3u8
-FTV-The Story of LA Perla,https://dev.ftv.com/m3u8/HGSE_LA_PERLA_CALENDAR_SPECIAL/chunklist__1024x576_TCMX.m3u8
-FTV-The Story of LA Perla,https://dev.ftv.com/m3u8/HGSE_LA_PERLA_CALENDAR_SPECIAL/chunklist__640x360_VPGB.m3u8
 FTV-Swimwear | (4K+),https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/newChunk_chunklist__2160@15mbit_TDPK.m3u8
 FTV-Swimwear | (4K+),https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/newChunk_chunklist__2160@10mbit_HJUS.m3u8
 FTV-The Story of Versace (4K+),https://dev.ftv.com/m3u8/CLA2_story_of_versace_uhd/media/2/newChunk_chunklist__2160@15mbit_SWOK.m3u8
 FTV-The Story of Versace (4K+),https://dev.ftv.com/m3u8/CLA2_story_of_versace_uhd/media/2/newChunk_chunklist__2160@10mbit_YSOS.m3u8
-FTV-The Story of Natasha Poly,https://dev.ftv.com/m3u8/OJOU_THE_STORY_OF_NATASHA_POLY/playlist.m3u8
-FTV-The Story of Natasha Poly,https://dev.ftv.com/m3u8/OJOU_THE_STORY_OF_NATASHA_POLY/chunklist__1024x576_CPVT.m3u8
-FTV-The Story of Natasha Poly,https://dev.ftv.com/m3u8/OJOU_THE_STORY_OF_NATASHA_POLY/chunklist__640x360_ANWY.m3u8
-FTV-The Story of Miu Miu,https://dev.ftv.com/m3u8/CZMU_THE_STORY_OF_MIU_MIU/playlist.m3u8
-FTV-The Story of Miu Miu,https://dev.ftv.com/m3u8/CZMU_THE_STORY_OF_MIU_MIU/chunklist_CZMU_THE_STORY_OF_MIU_MIU_1024x576_ROUJ.m3u8
-FTV-The Story of Miu Miu,https://dev.ftv.com/m3u8/CZMU_THE_STORY_OF_MIU_MIU/chunklist_CZMU_THE_STORY_OF_MIU_MIU_640x360_FLAS.m3u8
-FTV-The Story of Michael Kors,https://dev.ftv.com/m3u8/L5K8_THE_STORY_OF_MICHAEL_KORS/playlist.m3u8
-FTV-The Story of Michael Kors,https://dev.ftv.com/m3u8/L5K8_THE_STORY_OF_MICHAEL_KORS/chunklist_L5K8_THE_STORY_OF_MICHAEL_KORS_1024x576_PIVN.m3u8
-FTV-The Story of Michael Kors,https://dev.ftv.com/m3u8/L5K8_THE_STORY_OF_MICHAEL_KORS/chunklist_L5K8_THE_STORY_OF_MICHAEL_KORS_640x360_KWJK.m3u8
-FTV-The Story of Louis Vuitton,https://dev.ftv.com/m3u8/3SSJ_THE_STORY_OF_LOUIS_VUITTON/playlist.m3u8
-FTV-The Story of Louis Vuitton,https://dev.ftv.com/m3u8/3SSJ_THE_STORY_OF_LOUIS_VUITTON/chunklist_3SSJ_THE_STORY_OF_LOUIS_VUITTON_1024x576_QJVO.m3u8
-FTV-The Story of Louis Vuitton,https://dev.ftv.com/m3u8/3SSJ_THE_STORY_OF_LOUIS_VUITTON/chunklist_3SSJ_THE_STORY_OF_LOUIS_VUITTON_640x360_IGGA.m3u8
-FTV-The Story of Kendall Jenner,https://dev.ftv.com/m3u8/3H5L_THE_STORY_OF_KENDALL_JENNER/playlist.m3u8
-FTV-The Story of Kendall Jenner,https://dev.ftv.com/m3u8/3H5L_THE_STORY_OF_KENDALL_JENNER/chunklist_3H5L_THE_STORY_OF_KENDALL_JENNER_1024x576_JRQN.m3u8
-FTV-The Story of Kendall Jenner,https://dev.ftv.com/m3u8/3H5L_THE_STORY_OF_KENDALL_JENNER/chunklist_3H5L_THE_STORY_OF_KENDALL_JENNER_640x360_GGVI.m3u8
-FTV-The Story of Kate Moss,https://dev.ftv.com/m3u8/QUQT_THE_STORY_OF_KATE_MOSS/media/14/newChunk_chunklist_QUQT_THE_STORY_OF_KATE_MOSS_1024x576_ARPJ.m3u8
-FTV-The Story of Kate Moss,https://dev.ftv.com/m3u8/QUQT_THE_STORY_OF_KATE_MOSS/media/14/newChunk_chunklist_QUQT_THE_STORY_OF_KATE_MOSS_1080p@7mbit_XGEP.m3u8
-FTV-The Story of Kate Moss,https://dev.ftv.com/m3u8/QUQT_THE_STORY_OF_KATE_MOSS/media/14/newChunk_chunklist_QUQT_THE_STORY_OF_KATE_MOSS_640x360_JWYS.m3u8
-FTV-The Story of Karlie Kloss,https://dev.ftv.com/m3u8/VOIC_THE_STORY_OF_KARLIE_KLOSS/playlist.m3u8
-FTV-The Story of Karlie Kloss,https://dev.ftv.com/m3u8/VOIC_THE_STORY_OF_KARLIE_KLOSS/chunklist_VOIC_THE_STORY_OF_KARLIE_KLOSS_1024x576_TCNH.m3u8
-FTV-The Story of Karlie Kloss,https://dev.ftv.com/m3u8/VOIC_THE_STORY_OF_KARLIE_KLOSS/chunklist_VOIC_THE_STORY_OF_KARLIE_KLOSS_1080p@7mbit_SLWX.m3u8
-FTV-The Story of Karlie Kloss,https://dev.ftv.com/m3u8/VOIC_THE_STORY_OF_KARLIE_KLOSS/chunklist_VOIC_THE_STORY_OF_KARLIE_KLOSS_640x360_PPCL.m3u8
-FTV-The Story of Karl Lagerfeld,https://dev.ftv.com/m3u8/UC6V_THE_STORY_OF_KARL_LAGERFELD/playlist.m3u8
-FTV-The Story of Karl Lagerfeld,https://dev.ftv.com/m3u8/UC6V_THE_STORY_OF_KARL_LAGERFELD/chunklist_UC6V_THE_STORY_OF_KARL_LAGERFELD_1024x576_WKEO.m3u8
-FTV-The Story of Karl Lagerfeld,https://dev.ftv.com/m3u8/UC6V_THE_STORY_OF_KARL_LAGERFELD/chunklist_UC6V_THE_STORY_OF_KARL_LAGERFELD_640x360_OZIG.m3u8
-FTV-The Story of Kaia Gerber,https://dev.ftv.com/m3u8/MHOP_THE_STORY_OF_KAIA_GERBER/playlist.m3u8
-FTV-The Story of Kaia Gerber,https://dev.ftv.com/m3u8/MHOP_THE_STORY_OF_KAIA_GERBER/chunklist_MHOP_THE_STORY_OF_KAIA_GERBER_1024x576_BXTX.m3u8
-FTV-The Story of Kaia Gerber,https://dev.ftv.com/m3u8/MHOP_THE_STORY_OF_KAIA_GERBER/chunklist_MHOP_THE_STORY_OF_KAIA_GERBER_1080p@7mbit_FGJG.m3u8
-FTV-The Story of Kaia Gerber,https://dev.ftv.com/m3u8/MHOP_THE_STORY_OF_KAIA_GERBER/chunklist_MHOP_THE_STORY_OF_KAIA_GERBER_640x360_XEBW.m3u8
-FTV-The Story of Natalia Vodianova,https://dev.ftv.com/m3u8/TOD7_THE_STORY_OF_NATALIA_VODIANOVA/playlist.m3u8
-FTV-The Story of Natalia Vodianova,https://dev.ftv.com/m3u8/TOD7_THE_STORY_OF_NATALIA_VODIANOVA/chunklist_TOD7_THE_STORY_OF_NATALIA_VODIANOVA_1024x576_NCFU.m3u8
-FTV-The Story of Natalia Vodianova,https://dev.ftv.com/m3u8/TOD7_THE_STORY_OF_NATALIA_VODIANOVA/chunklist_TOD7_THE_STORY_OF_NATALIA_VODIANOVA_640x360_HBAW.m3u8
-Vogue Magazine Special,https://dev.ftv.com/m3u8/26R9_VOGUE_SPECIAL/media/4/newChunk_chunklist_26R9_VOGUE_SPECIAL_1024x576_WLPR.m3u8
-FTV-The Story of Natalia Vodianova,https://dev.ftv.com/m3u8/26R9_VOGUE_SPECIAL/media/4/newChunk_chunklist_26R9_VOGUE_SPECIAL_640x360_XIQY.m3u8
-FTV-TOP Male Models Special,https://dev.ftv.com/m3u8/NRN1_TOP_MALE_MODELS_SPECIAL/playlist.m3u8
-FTV-TOP Male Models Special,https://dev.ftv.com/m3u8/NRN1_TOP_MALE_MODELS_SPECIAL/chunklist_NRN1_TOP_MALE_MODELS_SPECIAL_1024x576_DBEH.m3u8
-FTV-TOP Male Models Special,https://dev.ftv.com/m3u8/NRN1_TOP_MALE_MODELS_SPECIAL/chunklist_NRN1_TOP_MALE_MODELS_SPECIAL_640x360_HPVL.m3u8
-FTV-The Story of Versace,https://dev.ftv.com/m3u8/2ZNY_THE_STORY_OF_VERSACE/playlist.m3u8
-FTV-The Story of Versace,https://dev.ftv.com/m3u8/2ZNY_THE_STORY_OF_VERSACE/chunklist_2ZNY_THE_STORY_OF_VERSACE_1024x576_VKNM.m3u8
-FTV-The Story of Versace,https://dev.ftv.com/m3u8/2ZNY_THE_STORY_OF_VERSACE/chunklist_2ZNY_THE_STORY_OF_VERSACE_640x360_WYFR.m3u8
-FTV-The Story of Valentino,https://dev.ftv.com/m3u8/DIIV_THE_STORY_OF_VALENTINO/playlist.m3u8
-FTV-The Story of Valentino,https://dev.ftv.com/m3u8/DIIV_THE_STORY_OF_VALENTINO/chunklist_DIIV_THE_STORY_OF_VALENTINO_1024x576_QJLH.m3u8
-FTV-The Story of Valentino,https://dev.ftv.com/m3u8/DIIV_THE_STORY_OF_VALENTINO/chunklist_DIIV_THE_STORY_OF_VALENTINO_640x360_BUWN.m3u8
-FTV-The Story of Tommy Hilfiger,https://dev.ftv.com/m3u8/BY32_THE_STORY_OF_TOMMY_HILFIGER/playlist.m3u8
-FTV-The Story of Tommy Hilfiger,https://dev.ftv.com/m3u8/BY32_THE_STORY_OF_TOMMY_HILFIGER/chunklist_BY32_THE_STORY_OF_TOMMY_HILFIGER_1024x576_QLQB.m3u8
-FTV-The Story of Tommy Hilfiger,https://dev.ftv.com/m3u8/BY32_THE_STORY_OF_TOMMY_HILFIGER/chunklist_BY32_THE_STORY_OF_TOMMY_HILFIGER_640x360_KFLP.m3u8
-FTV-The Story of Taylor Hill,https://dev.ftv.com/m3u8/A0DT_THE_STORY_OF_TAYLOR_HILL/playlist.m3u8
-FTV-The Story of Taylor Hill,https://dev.ftv.com/m3u8/A0DT_THE_STORY_OF_TAYLOR_HILL/chunklist_A0DT_THE_STORY_OF_TAYLOR_HILL_1024x576_HLKJ.m3u8
-FTV-The Story of Taylor Hill,https://dev.ftv.com/m3u8/A0DT_THE_STORY_OF_TAYLOR_HILL/chunklist_A0DT_THE_STORY_OF_TAYLOR_HILL_640x360_OXSJ.m3u8
-FTV-The Story of Stella Mccartney,https://dev.ftv.com/m3u8/DXZR_THE_STORY_OF_STELLA_MCCARTNEY/playlist.m3u8
-FTV-The Story of Stella Mccartney,https://dev.ftv.com/m3u8/DXZR_THE_STORY_OF_STELLA_MCCARTNEY/chunklist_DXZR_THE_STORY_OF_STELLA_MCCARTNEY_1024x576_FNWD.m3u8
-FTV-The Story of Stella Mccartney,https://dev.ftv.com/m3u8/DXZR_THE_STORY_OF_STELLA_MCCARTNEY/chunklist_DXZR_THE_STORY_OF_STELLA_MCCARTNEY_1080p@7mbit_BMDW.m3u8
-FTV-The Story of Stella Mccartney,https://dev.ftv.com/m3u8/DXZR_THE_STORY_OF_STELLA_MCCARTNEY/chunklist_DXZR_THE_STORY_OF_STELLA_MCCARTNEY_640x360_KJIS.m3u8
-FTV-The Story of Sara Sampaio,https://dev.ftv.com/m3u8/ZK6Q_THE_STORY_OF_SARA_SAMPAIO/playlist.m3u8
-FTV-The Story of Sara Sampaio,https://dev.ftv.com/m3u8/ZK6Q_THE_STORY_OF_SARA_SAMPAIO/chunklist_ZK6Q_THE_STORY_OF_SARA_SAMPAIO_1024x576_DPCL.m3u8
-FTV-The Story of Sara Sampaio,https://dev.ftv.com/m3u8/ZK6Q_THE_STORY_OF_SARA_SAMPAIO/chunklist_ZK6Q_THE_STORY_OF_SARA_SAMPAIO_640x360_WRGD.m3u8
-FTV-The Story of Ralph Lauren,https://dev.ftv.com/m3u8/IHXU_THE_STORY_OF_RALPH_LAUREN/playlist.m3u8
-FTV-The Story of Ralph Lauren,https://dev.ftv.com/m3u8/IHXU_THE_STORY_OF_RALPH_LAUREN/chunklist_IHXU_THE_STORY_OF_RALPH_LAUREN_1024x576_WMCE.m3u8
-FTV-The Story of Ralph Lauren,https://dev.ftv.com/m3u8/IHXU_THE_STORY_OF_RALPH_LAUREN/chunklist_IHXU_THE_STORY_OF_RALPH_LAUREN_1080p@7mbit_MHRW.m3u8
-FTV-The Story of Ralph Lauren,https://dev.ftv.com/m3u8/IHXU_THE_STORY_OF_RALPH_LAUREN/chunklist_IHXU_THE_STORY_OF_RALPH_LAUREN_640x360_XDVY.m3u8
-FTV-The Story of Prada,https://dev.ftv.com/m3u8/ZEMH_THE_STORY_OF_PRADA/playlist.m3u8
-FTV-The Story of Prada,https://dev.ftv.com/m3u8/ZEMH_THE_STORY_OF_PRADA/chunklist_ZEMH_THE_STORY_OF_PRADA_1024x576_EONF.m3u8
-FTV-The Story of Prada,https://dev.ftv.com/m3u8/ZEMH_THE_STORY_OF_PRADA/chunklist_ZEMH_THE_STORY_OF_PRADA_640x360_PQQJ.m3u8
-FTV-The Story of Isabeli Fontana,https://dev.ftv.com/m3u8/9U6R_THE_STORY_OF_ISABELI_FONTANA/playlist.m3u8
-FTV-The Story of Isabeli Fontana,https://dev.ftv.com/m3u8/9U6R_THE_STORY_OF_ISABELI_FONTANA/chunklist_9U6R_THE_STORY_OF_ISABELI_FONTANA_1024x576_OEHB.m3u8
-FTV-The Story of Isabeli Fontana,https://dev.ftv.com/m3u8/9U6R_THE_STORY_OF_ISABELI_FONTANA/chunklist_9U6R_THE_STORY_OF_ISABELI_FONTANA_640x360_YYBN.m3u8
-FTV-The Story of Irina Shayk,https://dev.ftv.com/m3u8/NYV3_THE_STORY_OF_IRINA_SHAYK/playlist.m3u8
-FTV-The Story of Irina Shayk,https://dev.ftv.com/m3u8/NYV3_THE_STORY_OF_IRINA_SHAYK/chunklist_NYV3_THE_STORY_OF_IRINA_SHAYK_1024x576_IQSB.m3u8
-FTV-The Story of Irina Shayk,https://dev.ftv.com/m3u8/NYV3_THE_STORY_OF_IRINA_SHAYK/chunklist_NYV3_THE_STORY_OF_IRINA_SHAYK_640x360_GGXC.m3u8
-FTV-The Story of Gucci,https://dev.ftv.com/m3u8/54VY_THE_STORY_OF_GUCCI/playlist.m3u8
-FTV-The Story of Gucci,https://dev.ftv.com/m3u8/54VY_THE_STORY_OF_GUCCI/chunklist_54VY_THE_STORY_OF_GUCCI_1024x576_QEYZ.m3u8
-FTV-The Story of Gucci,https://dev.ftv.com/m3u8/54VY_THE_STORY_OF_GUCCI/chunklist_54VY_THE_STORY_OF_GUCCI_640x360_SNMR.m3u8
-FTV-The Story of Dolce &Gabbana,https://dev.ftv.com/m3u8/GIXC_THE_STORY_OF_DOLCE_AND_GABBANA/playlist.m3u8
-FTV-The Story of Dolce &Gabbana,https://dev.ftv.com/m3u8/GIXC_THE_STORY_OF_DOLCE_AND_GABBANA/chunklist_GIXC_THE_STORY_OF_DOLCE_AND_GABBANA_1024x576_WZUO.m3u8
-FTV-The Story of Dolce &Gabbana,https://dev.ftv.com/m3u8/GIXC_THE_STORY_OF_DOLCE_AND_GABBANA/chunklist_GIXC_THE_STORY_OF_DOLCE_AND_GABBANA_640x360_XLXA.m3u8
-FTV-The Story of Gigi Hadid,https://dev.ftv.com/m3u8/97DR_THE_STORY_OF_GIGI_HADID/playlist.m3u8
-FTV-The Story of Gigi Hadid,https://dev.ftv.com/m3u8/97DR_THE_STORY_OF_GIGI_HADID/chunklist_97DR_THE_STORY_OF_GIGI_HADID_1024x576_QANL.m3u8
-FTV-The Story of Gigi Hadid,https://dev.ftv.com/m3u8/97DR_THE_STORY_OF_GIGI_HADID/chunklist_97DR_THE_STORY_OF_GIGI_HADID_640x360_UGRU.m3u8
-FTV-The Story of Cartier,https://dev.ftv.com/m3u8/M2TG_THE_STORY_OF_CARTIER/playlist.m3u8
-FTV-The Story of Cartier,https://dev.ftv.com/m3u8/M2TG_THE_STORY_OF_CARTIER/chunklist_M2TG_THE_STORY_OF_CARTIER_1024x576_APTO.m3u8
-FTV-The Story of Cartier,https://dev.ftv.com/m3u8/M2TG_THE_STORY_OF_CARTIER/chunklist_M2TG_THE_STORY_OF_CARTIER_1080p@7mbit_POYC.m3u8
-FTV-The Story of Cartier,https://dev.ftv.com/m3u8/M2TG_THE_STORY_OF_CARTIER/chunklist_M2TG_THE_STORY_OF_CARTIER_640x360_JFVV.m3u8
-FTV-The Story of Chrissy Teigen,https://dev.ftv.com/m3u8/QHJP_THE_STORY_OF_CHRISSY_TEIGEN/playlist.m3u8
-FTV-The Story of Chrissy Teigen,https://dev.ftv.com/m3u8/QHJP_THE_STORY_OF_CHRISSY_TEIGEN/chunklist_QHJP_THE_STORY_OF_CHRISSY_TEIGEN_1024x576_KZIV.m3u8
-FTV-The Story of Chrissy Teigen,https://dev.ftv.com/m3u8/QHJP_THE_STORY_OF_CHRISSY_TEIGEN/chunklist_QHJP_THE_STORY_OF_CHRISSY_TEIGEN_640x360_QWUQ.m3u8
-FTV-The Story of Dior,https://dev.ftv.com/m3u8/SSGI_THE_STORY_OF_DIOR/playlist.m3u8
-FTV-The Story of Dior,https://dev.ftv.com/m3u8/SSGI_THE_STORY_OF_DIOR/chunklist_SSGI_THE_STORY_OF_DIOR_1024x576_PHPC.m3u8
-FTV-The Story of Dior,https://dev.ftv.com/m3u8/SSGI_THE_STORY_OF_DIOR/chunklist_SSGI_THE_STORY_OF_DIOR_640x360_GOZT.m3u8
-FTV-The Story of Fendi,https://dev.ftv.com/m3u8/NZKE_THE_STORY_OF_FENDI/playlist.m3u8
-FTV-The Story of Fendi,https://dev.ftv.com/m3u8/NZKE_THE_STORY_OF_FENDI/chunklist_NZKE_THE_STORY_OF_FENDI_1024x576_ETCS.m3u8
-FTV-The Story of Fendi,https://dev.ftv.com/m3u8/NZKE_THE_STORY_OF_FENDI/chunklist_NZKE_THE_STORY_OF_FENDI_640x360_OIXR.m3u8
-FTV-The Story of Elie Saab,https://dev.ftv.com/m3u8/TZMZ_THE_STORY_OF_ELIE_SAAB/playlist.m3u8
-FTV-The Story of Elie Saab,https://dev.ftv.com/m3u8/TZMZ_THE_STORY_OF_ELIE_SAAB/chunklist_TZMZ_THE_STORY_OF_ELIE_SAAB_1024x576_PVSZ.m3u8
-FTV-The Story of Elie Saab,https://dev.ftv.com/m3u8/TZMZ_THE_STORY_OF_ELIE_SAAB/chunklist_TZMZ_THE_STORY_OF_ELIE_SAAB_640x360_AGLU.m3u8
-FTV-The Story of Chanel,https://dev.ftv.com/m3u8/LWQO_THE_STORY_OF_CHANEL/playlist.m3u8
-FTV-The Story of Chanel,https://dev.ftv.com/m3u8/LWQO_THE_STORY_OF_CHANEL/chunklist_LWQO_THE_STORY_OF_CHANEL_1024x576_IGBF.m3u8
-FTV-The Story of Chanel,https://dev.ftv.com/m3u8/LWQO_THE_STORY_OF_CHANEL/chunklist_LWQO_THE_STORY_OF_CHANEL_640x360_NVWH.m3u8
-FTV-The Story of Dsquared2,https://dev.ftv.com/m3u8/KVJF_THE_STORY_OF_DSQUARED2_/playlist.m3u8
-FTV-The Story of Dsquared2,https://dev.ftv.com/m3u8/KVJF_THE_STORY_OF_DSQUARED2_/chunklist_KVJF_THE_STORY_OF_DSQUARED2__1024x576_VKWY.m3u8
-FTV-The Story of Dsquared2,https://dev.ftv.com/m3u8/KVJF_THE_STORY_OF_DSQUARED2_/chunklist_KVJF_THE_STORY_OF_DSQUARED2__640x360_NARM.m3u8
-FTV-The Story of Doutzen Kroes,https://dev.ftv.com/m3u8/RHSO_THE_STORY_OF_DOUTZEN_KROES/playlist.m3u8
-FTV-The Story of Doutzen Kroes,https://dev.ftv.com/m3u8/RHSO_THE_STORY_OF_DOUTZEN_KROES/chunklist_RHSO_THE_STORY_OF_DOUTZEN_KROES_1024x576_AJMB.m3u8
-FTV-The Story of Doutzen Kroes,https://dev.ftv.com/m3u8/RHSO_THE_STORY_OF_DOUTZEN_KROES/chunklist_RHSO_THE_STORY_OF_DOUTZEN_KROES_640x360_IKQM.m3u8
-FTV-The Story of Candice Swanepoel,https://dev.ftv.com/m3u8/23KY_THE_STORY_OF_CANDICE_SWANEPOEL/playlist.m3u8
-FTV-The Story of Candice Swanepoel,https://dev.ftv.com/m3u8/23KY_THE_STORY_OF_CANDICE_SWANEPOEL/chunklist_23KY_THE_STORY_OF_CANDICE_SWANEPOEL_1024x576_CVCA.m3u8
-FTV-The Story of Candice Swanepoel,https://dev.ftv.com/m3u8/23KY_THE_STORY_OF_CANDICE_SWANEPOEL/chunklist_23KY_THE_STORY_OF_CANDICE_SWANEPOEL_1080p@7mbit_FWLV.m3u8
-FTV-The Story of Candice Swanepoel,https://dev.ftv.com/m3u8/23KY_THE_STORY_OF_CANDICE_SWANEPOEL/chunklist_23KY_THE_STORY_OF_CANDICE_SWANEPOEL_640x360_TFXU.m3u8
-FTV-Steven Meisel Special,https://dev.ftv.com/m3u8/5PJG_STEVEN_MEISEL_SPECIAL/playlist.m3u8
-FTV-Steven Meisel Special,https://dev.ftv.com/m3u8/5PJG_STEVEN_MEISEL_SPECIAL/chunklist_5PJG_STEVEN_MEISEL_SPECIAL_1024x576_UHPP.m3u8
-FTV-Steven Meisel Special,https://dev.ftv.com/m3u8/5PJG_STEVEN_MEISEL_SPECIAL/chunklist_5PJG_STEVEN_MEISEL_SPECIAL_640x360_LIUQ.m3u8
-FTV-The Story of Bella Hadid,https://dev.ftv.com/m3u8/ABEO_THE_STORY_OF_BELLA_HADID/playlist.m3u8
-FTV-The Story of Bella Hadid,https://dev.ftv.com/m3u8/ABEO_THE_STORY_OF_BELLA_HADID/chunklist_ABEO_THE_STORY_OF_BELLA_HADID_1024x576_XNCB.m3u8
-FTV-The Story of Bella Hadid,https://dev.ftv.com/m3u8/ABEO_THE_STORY_OF_BELLA_HADID/chunklist_ABEO_THE_STORY_OF_BELLA_HADID_640x360_XOOL.m3u8
-FTV-The Story of Armani,https://dev.ftv.com/m3u8/8K1K_THE_STORY_OF_ARMANI/playlist.m3u8
-FTV-The Story of Armani,https://dev.ftv.com/m3u8/8K1K_THE_STORY_OF_ARMANI/chunklist_8K1K_THE_STORY_OF_ARMANI_1024x576_ASBO.m3u8
-FTV-The Story of Armani,https://dev.ftv.com/m3u8/8K1K_THE_STORY_OF_ARMANI/chunklist_8K1K_THE_STORY_OF_ARMANI_640x360_DBER.m3u8
-FTV-Love Magazine Special,https://dev.ftv.com/m3u8/OI5L_LOVE_MAGAZINE_SPECIAL/playlist.m3u8
-FTV-Love Magazine Special,https://dev.ftv.com/m3u8/OI5L_LOVE_MAGAZINE_SPECIAL/chunklist_OI5L_LOVE_MAGAZINE_SPECIAL_1024x576_ALQT.m3u8
-FTV-Love Magazine Special,https://dev.ftv.com/m3u8/OI5L_LOVE_MAGAZINE_SPECIAL/chunklist_OI5L_LOVE_MAGAZINE_SPECIAL_640x360_ANTT.m3u8
-FTV-The Story of Balmain,https://dev.ftv.com/m3u8/NMWH_THE_STORY_OF_BALMAIN/playlist.m3u8
-FTV-The Story of Balmain,https://dev.ftv.com/m3u8/NMWH_THE_STORY_OF_BALMAIN/chunklist_NMWH_THE_STORY_OF_BALMAIN_1024x576_WGBS.m3u8
-FTV-The Story of Balmain,https://dev.ftv.com/m3u8/NMWH_THE_STORY_OF_BALMAIN/chunklist_NMWH_THE_STORY_OF_BALMAIN_1080p@7mbit_HMTJ.m3u8
-FTV-The Story of Balmain,https://dev.ftv.com/m3u8/NMWH_THE_STORY_OF_BALMAIN/chunklist_NMWH_THE_STORY_OF_BALMAIN_640x360_XDBD.m3u8
-FTV-The Story of Adriana Lima,https://dev.ftv.com/m3u8/4YAY_THE_STORY_OF_ADRIANA_LIMA/playlist.m3u8
-FTV-The Story of Adriana Lima,https://dev.ftv.com/m3u8/4YAY_THE_STORY_OF_ADRIANA_LIMA/chunklist_4YAY_THE_STORY_OF_ADRIANA_LIMA_1024x576_SEJV.m3u8
-FTV-The Story of Adriana Lima,https://dev.ftv.com/m3u8/4YAY_THE_STORY_OF_ADRIANA_LIMA/chunklist_4YAY_THE_STORY_OF_ADRIANA_LIMA_640x360_HNDU.m3u8
-FTV-Mario Testino Special,https://dev.ftv.com/m3u8/0L7N_MARIO_TESTINO_SPECIAL/playlist.m3u8
-FTV-Mario Testino Special,https://dev.ftv.com/m3u8/0L7N_MARIO_TESTINO_SPECIAL/chunklist_0L7N_MARIO_TESTINO_SPECIAL_1024x576_UDPY.m3u8
-FTV-Mario Testino Special,https://dev.ftv.com/m3u8/0L7N_MARIO_TESTINO_SPECIAL/chunklist_0L7N_MARIO_TESTINO_SPECIAL_640x360_YPOK.m3u8
-FTV-The Story of Anna Ewers,https://dev.ftv.com/m3u8/UXHN_THE_STORY_OF_ANNA_EWERS/playlist.m3u8
-FTV-The Story of Anna Ewers,https://dev.ftv.com/m3u8/UXHN_THE_STORY_OF_ANNA_EWERS/chunklist_UXHN_THE_STORY_OF_ANNA_EWERS_1024x576_EXZT.m3u8
-FTV-The Story of Anna Ewers,https://dev.ftv.com/m3u8/UXHN_THE_STORY_OF_ANNA_EWERS/chunklist_UXHN_THE_STORY_OF_ANNA_EWERS_640x360_ZAXA.m3u8
-FTV-Sports Illustrated Story,https://dev.ftv.com/m3u8/YKWR_SPORTS_ILLUSTRATED_SPECIAL/playlist.m3u8
-FTV-Sports Illustrated Story,https://dev.ftv.com/m3u8/YKWR_SPORTS_ILLUSTRATED_SPECIAL/chunklist_YKWR_SPORTS_ILLUSTRATED_SPECIAL_1024x576_XUGZ.m3u8
-FTV-Sports Illustrated Story,https://dev.ftv.com/m3u8/YKWR_SPORTS_ILLUSTRATED_SPECIAL/chunklist_YKWR_SPORTS_ILLUSTRATED_SPECIAL_640x360_KNGB.m3u8
-FTV-The Kardashians Special,https://dev.ftv.com/m3u8/YVAU_THE_KARDASHIANS_SPECIAL/playlist.m3u8
-FTV-The Kardashians Special,https://dev.ftv.com/m3u8/YVAU_THE_KARDASHIANS_SPECIAL/chunklist_YVAU_THE_KARDASHIANS_SPECIAL_1024x576_MWLQ.m3u8
-FTV-The Kardashians Special,https://dev.ftv.com/m3u8/YVAU_THE_KARDASHIANS_SPECIAL/chunklist_YVAU_THE_KARDASHIANS_SPECIAL_1080p@7mbit_ARXM.m3u8
-FTV-Inez &Vinoodh Special,https://dev.ftv.com/m3u8/KT9X_INEZ_AND_VINOODH_SPECIAL/playlist.m3u8
-FTV-Inez &Vinoodh Special,https://dev.ftv.com/m3u8/KT9X_INEZ_AND_VINOODH_SPECIAL/chunklist_KT9X_INEZ_AND_VINOODH_SPECIAL_1024x576_EKNB.m3u8
-FTV-Inez &Vinoodh Special,https://dev.ftv.com/m3u8/KT9X_INEZ_AND_VINOODH_SPECIAL/chunklist_KT9X_INEZ_AND_VINOODH_SPECIAL_640x360_VSAD.m3u8
-FTV-The Beckhams Special,https://dev.ftv.com/m3u8/PSKJ_THE_BECKHAMS_SPECIAL/playlist.m3u8
-FTV-The Beckhams Special,https://dev.ftv.com/m3u8/PSKJ_THE_BECKHAMS_SPECIAL/chunklist_PSKJ_THE_BECKHAMS_SPECIAL_1024x576_RCUC.m3u8
-FTV-The Beckhams Special,https://dev.ftv.com/m3u8/PSKJ_THE_BECKHAMS_SPECIAL/chunklist_PSKJ_THE_BECKHAMS_SPECIAL_1080p@7mbit_AWUS.m3u8
-FTV-I-D Magazine Special,https://dev.ftv.com/m3u8/VVYT_i-D_MAGAZINE_SPECIAL/playlist.m3u8
-FTV-I-D Magazine Special,https://dev.ftv.com/m3u8/VVYT_i-D_MAGAZINE_SPECIAL/chunklist_VVYT_i-D_MAGAZINE_SPECIAL_1024x576_LKKT.m3u8
-FTV-I-D Magazine Special,https://dev.ftv.com/m3u8/VVYT_i-D_MAGAZINE_SPECIAL/chunklist_VVYT_i-D_MAGAZINE_SPECIAL_640x360_OMXG.m3u8
-FTV-Ellen Von Unwerth Special,https://dev.ftv.com/m3u8/YUBT_ELLEN_VON_UNWERTH_SPECIAL/playlist.m3u8
-FTV-Ellen Von Unwerth Special,https://dev.ftv.com/m3u8/YUBT_ELLEN_VON_UNWERTH_SPECIAL/chunklist_YUBT_ELLEN_VON_UNWERTH_SPECIAL_1024x576_PLAS.m3u8
-FTV-Ellen Von Unwerth Special,https://dev.ftv.com/m3u8/YUBT_ELLEN_VON_UNWERTH_SPECIAL/chunklist_YUBT_ELLEN_VON_UNWERTH_SPECIAL_640x360_SJWT.m3u8
-FTV-Allure Magazine Special,https://dev.ftv.com/m3u8/MKLL_ALLURE_SPECIAL/playlist.m3u8
-FTV-Allure Magazine Special,https://dev.ftv.com/m3u8/MKLL_ALLURE_SPECIAL/chunklist_MKLL_ALLURE_SPECIAL_1024x576_KCAD.m3u8
-FTV-Allure Magazine Special,https://dev.ftv.com/m3u8/MKLL_ALLURE_SPECIAL/chunklist_MKLL_ALLURE_SPECIAL_640x360_HABN.m3u8
-FTV-Harper\'s Bazaar Magazine Special,https://dev.ftv.com/m3u8/304E_HARPERS_BAZAAR_SPECIAL/media/9/newChunk_chunklist_304E_HARPERS_BAZAAR_SPECIAL_1024x576_KPOA.m3u8
-FTV-Harper\'s Bazaar Magazine Special,https://dev.ftv.com/m3u8/304E_HARPERS_BAZAAR_SPECIAL/media/9/newChunk_chunklist_304E_HARPERS_BAZAAR_SPECIAL_1280x720_XGDQ.m3u8
-测试_147258,#genre#
+测试_147258
 泳衣 Ⅰ 告诉我你没有错,http://listen.9sing.cn///2019/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91/2019-08/2019-08-31/[Mp4]%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E6%B2%A1%E6%9C%89%E9%94%99_%E4%B8%81%E7%B4%AB_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E5%86%99%E7%9C%9FDJ%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 泳衣 Ⅰ 今夜你要喝醉,http://listen.9sing.cn///2017/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91/2018/2018-09/2018-09-30/[Avi]%E4%BB%8A%E5%A4%9C%E4%BD%A0%E8%A6%81%E5%96%9D%E9%86%89-%E5%BC%A0%E5%86%AC%E7%8E%B2-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E6%B3%B3%E8%A3%85%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 泳衣 Ⅰ 连名带娃,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-12%2F%E8%BF%9E%E5%90%8D%E5%B8%A6%E5%A7%93-%E6%96%87%E6%85%A7%E5%A6%82-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E5%B1%95%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
