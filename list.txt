@@ -1,4 +1,4 @@
-MTV
+MTV,#genre#
 毛不易 Ⅰ 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
 毛不易 Ⅰ 不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
 毛不易 Ⅰ 消愁,https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
@@ -80,7 +80,7 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 金莎 Ⅰ 星月神话,http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06A25D70855.mp4
 李玉刚 Ⅰ 梦回诛仙,http://220.194.238.104/13/y/c/k/c/yckcjlqfbusmaeslsffhfvajlmxoqt/hd.yinyuetai.com/21D6016E026639F9174363E4B2EB78AC.mp4?sc=7c7e0152a3a80191
 乔玲二 Ⅰ 你走进了我的心房,http://220.194.238.108/13/t/k/c/c/tkccjkpcpjtpdkcqvwbfznzhrtezsa/hc.yinyuetai.com/1E57016ABB574354709C08D37DD47091.mp4
-国内
+国内,#genre#
 CCTV 4K,http://117.148.187.56/PLTV/88888888/224/3221226758/index.m3u8?icpid=88888888&from=5&ocs=2_117.148.187.40_80&hms_devid=373,1641&online=1574401712&vqe=3
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 BestTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
@@ -209,7 +209,7 @@ CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 东南卫视HD,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225961/3.m3u8
 武汉综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-港台
+港台,#genre#
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
@@ -764,7 +764,7 @@ FOX體育3,vjms://121.14.222.77:8500/live/cid=95
 FOX电影,vjms://121.14.222.77:8500/live/cid=94
 BBC,vjms://121.14.222.77:8500/live/cid=418
 CNN,vjms://121.14.222.77:8500/live/cid=428
-新聞/News
+新聞/News,#genre#
 CNN_國際,tvbus://3TzruULpqcD5bjBjWBmUY4UdqH8eboy88JrU4LgXJHsqoJBdbq
 SKY_NEWS,tvbus://49PQ4VKSjCzQnfhcSmRJaXhfpymuTJSjBhZbKN6NXqAnWXdiCn
 壹電視新聞臺,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw
@@ -826,7 +826,7 @@ BIG_Magic_HD,p8p://0198.02686.cc:16871/5d3306dd000b7c0f3e2c3bdbaa2c7e3c.ts
 NET25,tvbus://3tiU86b5feNpReNSqr99ktNJwxwjaWr9xdsWPXBSjZ3iCAf2Di
 DZRHNEWS,tvbus://4ZyQav4Npodi8DZ7TZLeGa5ahqo5MzktuCrQUUtw9MWvnGFbKS
 CGTN,tvbus://12WRKUDF1FLsaY1NEYMDtc6X64evVFFsxWwsebMBCC34e1NzBdV
-电影/Movies
+电影/Movies,#genre#
 愛爾達影劇臺,tvbus://4XaXTY5KrLbztAaGsyLAStwtuMBdsKBKVzWoMGf6xxifh42rnm
 東森戲劇_HD,tvbus://48YdGGajPQbNsDGt7jePrtPkm13fqKxecE4L3n7LPernZnBCHg
 八大戲劇,tvbus://4QUUE7V9TAw3qdn4kUQHhgSoHsTtExD7gvgtFQJocaDS53g5HG
@@ -919,7 +919,7 @@ BTV,tvbus://1c9tfdXEawZLDRvp64ym9gYRW1pF3MG8nmHENFfPHBWAtVHtAq
 TVK,tvbus://4ocBZjKeyokUg6HT8fCwJbtZTeNLfJ9izgkwuLtW16xK7M298Z
 CTV9,tvbus://36V8Vj6Ysr3a8UqoG9U3xv7ZEN7ES7EW3XvJdq5cWBTbwWJ1Ke
 bayontv,tvbus://1Ma2Bdus5cJnr9MmkVANMvyBZE8S2UV7VG2Bjse319iV6YyegH
-港台p2p
+港台p2p,#genre#
 澳门莲花卫视,P2p://lino.homeunix.com:6007/5acb8740000253a62c1307843e7c4bc3.ts
 TVBS新闻台 HD,P2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 三立新闻,P2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
@@ -984,7 +984,7 @@ DW-TV,P2p://lino.homeunix.com:6007/59fd139d000070db026118a63259113d.ts
 TV5,P2p://lino.homeunix.com:6007/59fd1365000b6205026040b545ac325b.ts
 Ci罪案侦缉 HD,P2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
 亚洲美食 HD,P2p://lino.homeunix.com:6007/59fd27e40007382002b04fb323e85206.ts
-轮播
+轮播,#genre#
 倒霉熊,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_daomeixiong_720p_t10/c20_lb_daomeixiong_720p_t10.m3u8?wshc_tag=0&wsts_tag=5e02f3e7&wsid_tag=78eb7986&wsiphost=ipdbm
 爆笑虫子,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c19_lb_baoxiaochongzi_720p_t10/c19_lb_baoxiaochongzi_720p_t10.m3u8?wshc_tag=0&wsts_tag=5e02f0ca&wsid_tag=78eb7986&wsiphost=ipdbm
 多啦A梦,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c18_lb_duolaameng_720p_t10/c18_lb_duolaameng_720p_t10.m3u8
@@ -1121,7 +1121,7 @@ Ci罪案侦缉 HD,P2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.
 爱奇艺_宫廷正剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
 爱奇艺_抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
 爱奇艺_热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
-Fashion
+Fashion,#genre#
 FTV-L\'Original,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 FTV-巴黎,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 FTV-午夜秘密,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
@@ -1147,7 +1147,7 @@ FTV-Swimwear | (4K+),https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/
 FTV-Swimwear | (4K+),https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/newChunk_chunklist__2160@10mbit_HJUS.m3u8
 FTV-The Story of Versace (4K+),https://dev.ftv.com/m3u8/CLA2_story_of_versace_uhd/media/2/newChunk_chunklist__2160@15mbit_SWOK.m3u8
 FTV-The Story of Versace (4K+),https://dev.ftv.com/m3u8/CLA2_story_of_versace_uhd/media/2/newChunk_chunklist__2160@10mbit_YSOS.m3u8
-测试_147258
+测试_147258,#genre#
 泳衣 Ⅰ 告诉我你没有错,http://listen.9sing.cn///2019/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91/2019-08/2019-08-31/[Mp4]%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E6%B2%A1%E6%9C%89%E9%94%99_%E4%B8%81%E7%B4%AB_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E5%86%99%E7%9C%9FDJ%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 泳衣 Ⅰ 今夜你要喝醉,http://listen.9sing.cn///2017/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91/2018/2018-09/2018-09-30/[Avi]%E4%BB%8A%E5%A4%9C%E4%BD%A0%E8%A6%81%E5%96%9D%E9%86%89-%E5%BC%A0%E5%86%AC%E7%8E%B2-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E6%B3%B3%E8%A3%85%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 泳衣 Ⅰ 连名带娃,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-12%2F%E8%BF%9E%E5%90%8D%E5%B8%A6%E5%A7%93-%E6%96%87%E6%85%A7%E5%A6%82-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E5%B1%95%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
