@@ -71,10 +71,10 @@ http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" tvg-id="0" tvg-name="纯享4K" group-title="4K频道",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="0" tvg-name="广东综艺4K" group-title="4K频道",广东综艺4K
-http://nclive.grtn.cn:80/4K/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" tvg-id="0" tvg-name="爱上4K" group-title="4k频道",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="广东综艺4K" group-title="4K频道",广东综艺4K
+http://nclive.grtn.cn:80/4K/sd/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="都市剧场" group-title="其他",都市剧场
 http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000142
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="靓妆高清" group-title="其他",靓妆高清
