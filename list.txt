@@ -1036,34 +1036,15 @@ TV5,P2p://lino.homeunix.com:6007/59fd1365000b6205026040b545ac325b.ts
 Ci罪案侦缉 HD,P2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
 亚洲美食 HD,P2p://lino.homeunix.com:6007/59fd27e40007382002b04fb323e85206.ts
 轮播,#genre#
-倒霉熊,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_daomeixiong_720p_t10/c20_lb_daomeixiong_720p_t10.m3u8?wshc_tag=0&wsts_tag=5e02f3e7&wsid_tag=78eb7986&wsiphost=ipdbm
-爆笑虫子,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c19_lb_baoxiaochongzi_720p_t10/c19_lb_baoxiaochongzi_720p_t10.m3u8?wshc_tag=0&wsts_tag=5e02f0ca&wsid_tag=78eb7986&wsiphost=ipdbm
-多啦A梦,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c18_lb_duolaameng_720p_t10/c18_lb_duolaameng_720p_t10.m3u8
-名侦探柯南,http://14.215.89.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
-高清HD大众影视（移动）,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
-高清HD家庭剧场（移动）,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-高清HD家庭影院（移动）,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-高清HD卡通剧场（移动）,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 古装剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
-古装剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
 动作电影 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
-动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
-動作電影HD[1280*720],http://gslbserv.itv.cmvideo.cn:80/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7951969344461271832
 军旅剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
-军旅剧场,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
 家庭剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
-家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 惊悚悬疑 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
-惊梀悬疑,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
-驚悚懸疑HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=7951969344461309585
 海外剧场 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
-海外综合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
-海外劇場[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7951969344461325347
 搏击 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
-搏击,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
-搏擊[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=bokesen&owchid=ystenlive&owsid=7951969344461425531
 明星大片 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
 明星大片,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
 明星大片HD[1920*1080],http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
