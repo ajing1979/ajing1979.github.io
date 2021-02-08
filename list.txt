@@ -465,16 +465,7 @@ TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_o
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 中视,http://144.48.240.144:2019/SunTv.php?name=CTV
-中视,http://hls.hongxin123.com/918867252917/aa401fd60a304d89bd10c1aed5b97d4d.flv
-中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-中视,http://pili-live-l.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
-中视,http://pili-live-l.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8
-中视,http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
 中视新闻,p2p://fccsovh.pvbox.live:18912/5b14095e000f377417d236655f6c061b.ts
-中视新闻,p2p://lino.homeunix.com:6007/59fd2282000219b8029b479b6fc21d86.ts
-中视新闻,http://pili-live-l.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
-中视新闻,http://pili-live-l.qhmywl.com:80/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
-中视新闻,http://pili-live-l.qhmywl.com:80/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
 中视经典,http://pili-live-l.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 中视经典,http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 中视经典,http://pili-live-l.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
