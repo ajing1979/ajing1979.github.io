@@ -79,6 +79,30 @@ http://nclive.grtn.cn:80/4K/sd/live.m3u8
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="145" tvg-name="北京东奥纪实" group-title="其他",北京东奥纪实
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://itv.ahau.edu.cn/hls/hls261.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://itv.ahau.edu.cn/hls/hls260.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://itv.ahau.edu.cn/hls/hls259.m3u8
+#EXTINF:-1 ,亚洲影院
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226245/1.m3u8
+#EXTINF:-1 ,欧美影院
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226176/1.m3u8
+#EXTINF:-1 ,精品剧场
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226181/1.m3u8
+#EXTINF:-1 ,高清生活
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226606/1.m3u8
+#EXTINF:-1 ,漫游世界
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226360/1.m3u8
+#EXTINF:-1 ,探索记录
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226179/1.m3u8
+#EXTINF:-1 ,求索科学
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226608/1.m3u8
+#EXTINF:-1 ,求索记录
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226610/1.m3u8
+#EXTINF:-1 ,求索动物
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221226695/1.m3u8
 #EXTINF:-1 ,凤凰中文
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 ,凤凰资讯
