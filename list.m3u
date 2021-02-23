@@ -79,6 +79,28 @@ http://nclive.grtn.cn:80/4K/sd/live.m3u8
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="145" tvg-name="北京东奥纪实" group-title="其他",北京东奥纪实
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://itv.ahau.edu.cn/hls/hls184a573.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://itv.ahau.edu.cn/hls/hls184a515.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://itv.ahau.edu.cn/hls/hls184a512.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://itv.ahau.edu.cn/hls/hls184a516.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://itv.ahau.edu.cn/hls/hls184a518.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://itv.ahau.edu.cn/hls/hls184a519.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://itv.ahau.edu.cn/hls/hls184a510.m3u8&http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://itv.ahau.edu.cn/hls/hls184a574.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://itv.ahau.edu.cn/hls/hls184a522.m3u8
+#EXTINF:-1 ,凤凰卫视
+http://itv.ahau.edu.cn/hls/hls254.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://itv.ahau.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://itv.ahau.edu.cn/hls/hls261.m3u8
 #EXTINF:-1 ,CHC高清电影
