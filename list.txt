@@ -271,17 +271,8 @@ sheep 张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?a
 梦中情缘,http://upmov.a.yximgs.com:80/upic/2019/12/23/01/BMjAxOTEyMjMwMTQ4NDVfMTU0MDc1NjUwOF8yMDgyMjgzNDYwNF8yXzM=_b_B1d7a120d99f62b2e05605766468d553f.mp4
 
 国内,#genre#
-CCTV-4K,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226758/1.m3u8
-CCTV 4K,http://117.148.187.56/PLTV/88888888/224/3221226758/index.m3u8?icpid=88888888&from=5&ocs=2_117.148.187.40_80&hms_devid=373,1641&online=1574401712&vqe=3
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
-BestTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-BestTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
-BestTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-BestTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-BestTV 4K,http://117.148.187.13/PLTV/88888888/224/3221226718/index.m3u8
 广东综艺4K,http://nclive.grtn.cn:80/4K/sd/live.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-纯享4K频道,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 CCTV-1,http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
 CCTV-1,http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
 CCTV-1,http://112.17.40.140/PLTV/88888888/224/3221226589/index.m3u8
@@ -290,26 +281,12 @@ CCTV-1,http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8
 CCTV-1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-2,http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
 CCTV-2,http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
-CCTV-2,http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
-CCTV-2,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-2,http://39.134.134.58:80/wh7f454c46tw4000157581_1906143853/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYRHMRPgOma8nTTkoFc8zp/A/GmgwC0QIut33P9OQnJWQ==:20181012130418,54C57AADF598,183.93.146.195,20181012130418,10000100000000050000000002171859,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539320240&from=1&hms_devid=3443
 CCTV-3,http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
 CCTV-3,http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
-CCTV-3,http://111.40.205.87/PLTV/88888888/224/3221225606/index.m3u8
-CCTV-3,http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
-CCTV-3,http://101.71.255.229:6610/zjhs/2/10069/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10069&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN&ts=1553494907
 CCTV-4,http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV-5,http://itv.ahau.edu.cn/hls/cctv5hd.m3u8&http://itv.ahau.edu.cn/hls/hls73a5.m3u8
-CCTV-5,http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8
-CCTV-5,http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8
-CCTV-5,http://112.17.40.140/PLTV/88888888/224/3221226687/index.m3u8
-CCTV-5,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
 CCTV-5+,http://itv.ahau.edu.cn/hls/cctv5phd.m3u8&http://itv.ahau.edu.cn/hls/hls92.m3u8
-CCTV-5+,http://111.40.205.87/PLTV/88888888/224/3221225752/index.m3u8
-CCTV-5+,http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
-CCTV-5+,http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8
-CCTV-5+,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 CCTV-6,http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
 CCTV-6,http://111.40.205.87/PLTV/88888888/224/3221225607/index.m3u8
 CCTV-6,http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
