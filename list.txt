@@ -271,6 +271,7 @@ sheep 张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?a
 梦中情缘,http://upmov.a.yximgs.com:80/upic/2019/12/23/01/BMjAxOTEyMjMwMTQ4NDVfMTU0MDc1NjUwOF8yMDgyMjgzNDYwNF8yXzM=_b_B1d7a120d99f62b2e05605766468d553f.mp4
 
 国内,#genre#
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 广东综艺4K,http://nclive.grtn.cn:80/4K/sd/live.m3u8
 CCTV-1,http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
@@ -329,6 +330,19 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 美国Denver 8 TV,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 美国l 中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
 港台,#genre#
+中视新闻,https://seb.sason.top/sc/zsxw_fhd.m3u8
+TVBS 新闻,https://seb.sason.top/sc/tvbsxw_fhd.m3u8
+三立Live,https://seb.sason.top/sc/sllive_fhd.m3u8
+台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+香港有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
+TVB 翡翠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A#vjms://user.shusongw.mobi:8500:3502/live/cid=362
+TVB 无线新闻台,http://61.238.6.49:8001/bysid/83
+ATV,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8?checkedby:iptvcat.com
+港台电视32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?checkedby:iptvcat.com
+RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
