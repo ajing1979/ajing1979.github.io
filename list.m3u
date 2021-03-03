@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
-http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经
-http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视",CCTV-3综艺
-http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
 http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
-http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
-http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
+http://itv.ahau.edu.cn/hls/hls92.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
 http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视",CCTV-7国防军事
-http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧
-http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视",CCTV-9纪录
-http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视",CCTV-10科教
-http://112.17.40.140/PLTV/88888888/224/3221226472/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲
 http://itv.ahau.edu.cn/hls/jlu_cctv11hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="13" tvg-name="CCTV12" group-title="央视",CCTV-12社会与法
-http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV-13新闻
 http://itv.ahau.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视",CCTV-14少儿
-http://112.17.40.140/PLTV/88888888/224/3221226565/index.m3u8
+http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
 http://itv.ahau.edu.cn/hls/jlu_cctv15hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="19" tvg-name="CCTV4K" group-title="央视",CCTV4K
@@ -46,7 +46,7 @@ http://itv.ahau.edu.cn/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" tvg-id="81" tvg-name="风云音乐" group-title="央视",CCTV风云音乐
 http://itv.ahau.edu.cn/hls/hls184a519.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" tvg-id="73" tvg-name="风云足球" group-title="央视",CCTV风云足球
-http://itv.ahau.edu.cn/hls/hls184a510.m3u8&http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
+http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" tvg-id="103" tvg-name="央视台球" group-title="央视",CCTV央视台球
 http://itv.ahau.edu.cn/hls/hls184a574.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" tvg-id="87" tvg-name="女性时尚" group-title="央视",CCTV女性时尚
@@ -87,10 +87,16 @@ http://itv.ahau.edu.cn/hls/hls255.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视" group-title="港澳及国外",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" tvg-id="146" tvg-name="北京文艺高清" group-title="其他",北京文艺高清
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" tvg-id="146" tvg-name="BTV文艺" group-title="其他",北京文艺高清
+http://itv.ahau.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" tvg-id="144" tvg-name="BTV影视" group-title="其他",北京影视高清
+http://itv.ahau.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" tvg-id="143" tvg-name="BTV科教" group-title="其他",北京科教高清
+http://itv.ahau.edu.cn/hls/btv3hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" tvg-id="141" tvg-name="北京东奥纪实" group-title="其他",北京东奥纪实
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+http://itv.ahau.edu.cn/hls/hls69a25.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-id="170" tvg-name="上海纪实" group-title="其他",上海纪实人文
+http://itv.ahau.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" tvg-id="66" tvg-name="IPTV5+" group-title="其他",IPTV5+
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226273/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-id="78" tvg-name="CHC动作电影" group-title="其他",CHC动作电影
