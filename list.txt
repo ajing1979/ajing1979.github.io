@@ -271,8 +271,14 @@ sheep 张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?a
 梦中情缘,http://upmov.a.yximgs.com:80/upic/2019/12/23/01/BMjAxOTEyMjMwMTQ4NDVfMTU0MDc1NjUwOF8yMDgyMjgzNDYwNF8yXzM=_b_B1d7a120d99f62b2e05605766468d553f.mp4
 
 国内,#genre#
+BesTV4K,http://117.148.187.47/PLTV/88888888/224/3221226718/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+纯享4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
+芒果4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+欢笑剧场4K,http://39.134.176.149/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
+CCTV 4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8&http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
+北京4K,http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
 广东综艺4K,http://nclive.grtn.cn:80/4K/sd/live.m3u8
 CCTV-1,http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
 CCTV-2,http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
@@ -302,6 +308,23 @@ CCTV央视台球,http://itv.ahau.edu.cn/hls/hls184a574.m3u8
 CCTV女性时尚,http://itv.ahau.edu.cn/hls/hls184a522.m3u8
 凤凰卫视,http://itv.ahau.edu.cn/hls/hls254.m3u8
 凤凰资讯,http://itv.ahau.edu.cn/hls/hls255.m3u8
+CHC高清电影-高清,http://[2001:250:5405:13::47]/hls/hls260.m3u8
+CHC家庭影院-高清,http://[2001:250:5405:13::47]/hls/hls259.m3u8
+CHC动作电影-高清,http://[2001:250:5405:13::47]/hls/hls261.m3u8
+N家庭剧场HD-高清,http://[2001:250:5405:13::47]/hls/hls75a28.m3u8
+N大众影视HD-高清,http://[2001:250:5405:13::47]/hls/hls75a27.m3u8
+N家庭影院HD-高清,http://[2001:250:5405:13::47]/hls/hls75a29.m3u8
+N卡通剧场HD-高清,http://[2001:250:5405:13::47]/hls/hls77a30.m3u8
+爱映画-高清,http://[2001:250:5405:13::47]/hls/hls78a46.m3u8
+金鹰纪实-高清,http://[2001:250:5405:13::47]/hls/hls75a26.m3u8
+纪实人文-高清,http://[2001:250:5405:13::47]/hls/docuchina.m3u8
+全纪实-高清,http://[2001:250:5405:13::47]/hls/hls184a639.m3u8
+金色频道-高清,http://[2001:250:5405:13::47]/hls/hls184a90.m3u8
+都市剧场-高清,http://[2001:250:5405:13::47]/hls/hls185a95.m3u8
+生活时尚-高清,http://[2001:250:5405:13::47]/hls/hls184a91.m3u8
+法治天地-高清,http://[2001:250:5405:13::47]/hls/hls184a89.m3u8
+欢笑剧场-超清,http://[2001:250:5405:13::47]/hls/hls185a97.m3u8
+IPTV5+-高清,http://[2001:250:5405:13::47]/hls/hls184.m3u8
 Max极速汽车,http://itv.ahau.edu.cn/hls/hls184a94.m3u8
 NewTV超级体育,http://itv.ahau.edu.cn/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 湖南卫视HD,http://itv.ahau.edu.cn/hls/hunanhd.m3u8
@@ -318,6 +341,13 @@ NewTV超级体育,http://itv.ahau.edu.cn/ottrrs.hl.chinamobile.com/PLTV/88888888
 辽宁卫视HD,http://itv.ahau.edu.cn/hls/lnhd.m3u8
 黑龙江卫视HD,http://itv.ahau.edu.cn/hls/hljhd.m3u8
 东南卫视HD,http://itv.ahau.edu.cn/hls/dnhd.m3u8
+BTV文艺-高清,http://[2001:250:5405:13::47]/hls/btv2hd.m3u8
+BTV科教-高清,http://[2001:250:5405:13::47]/hls/btv3hd.m3u8
+BTV影视-高清,http://[2001:250:5405:13::47]/hls/btv4hd.m3u8
+BTV财经-高清,http://[2001:250:5405:13::47]/hls/btv5hd.m3u8
+BTV生活-高清,http://[2001:250:5405:13::47]/hls/btv7hd.m3u8
+BTV青年-高清,http://[2001:250:5405:13::47]/hls/btv8hd.m3u8
+BTV新闻-高清,http://[2001:250:5405:13::47]/hls/btv9hd.m3u8
 海外频道,#genre#
 法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
 法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8#mitv://langmaiptv.top:18912/5b14090b0008c74a17d0f08749e16347
