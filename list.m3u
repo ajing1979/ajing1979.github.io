@@ -111,22 +111,20 @@ http://itv.ahau.edu.cn/PLTV/88888888/224/3221226360/1.m3u8
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221226179/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="239" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="239" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="239" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
+http://itv.ahau.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="240" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="240" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
+http://itv.ahau.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳及国外",凤凰卫视香港台
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="239" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视
-http://itv.ahau.edu.cn/hls/hls254.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="240" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰资讯
-http://itv.ahau.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-id="412" tvg-name="HKS" group-title="港澳及国外",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视" group-title="港澳及国外",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="港澳及国外",凤凰中文
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="港澳及国外",凤凰资讯
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳及国外",明珠台
@@ -141,3 +139,13 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 #EXTINF:-1 group-title="港澳及国外",TVB明珠台
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港澳及国外",有线新闻
+https://v3948069e.live.126.net/live/yxxw123456789.flv
+#EXTINF:-1 group-title="港澳及国外",NOW·新闻台
+https://flv3948069e.live.126.net/live/nownews.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
+https://flv3948069e.live.126.net/live/fct123456789.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳及国外",明珠台
+https://v3948069e.live.126.net/live/mingzhutai.flv
+#EXTINF:-1 group-title="港澳及国外",TVB·J2
+https://v3948069e.live.126.net/live/tvbj2.flv
